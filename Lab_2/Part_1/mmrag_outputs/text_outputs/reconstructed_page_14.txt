@@ -1,0 +1,101 @@
+last month of the last quarter of negative growth? By how 
+much did the unemployment rate increase?
+ b. Which recession had the largest increase in the rate of un-
+employment?  Begin with the month before the quarter in 
+which output first falls and measure to the highest level of 
+the unemployment rate before the next recession.
+
+data series on the unemployment rate for the period 1969 to 
+the end of the data. Make sure all data series are seasonally 
+adjusted.
+ a. Look at each recession since 1969. What was the unem-
+ployment rate in the first month of the first quarter of 
+negative growth? What was the unemployment rate in the
+
+Further Reading
+
+■ The best way to follow current economic events and issues 
+is to read The Economist, a weekly magazine published in 
+England. The articles in The Economist are well informed, well 
+written, witty, and opinionated. Make sure to read it regularly.
+
+APPENDIX: Where to Find the Numbers
+
+Suppose you want to find the numbers for inflation in Ger-
+many over the past five years. Fifty years ago, the answer would 
+have been to learn German, find a library with German pub-
+lications, find the page where inflation numbers were given, 
+write them down, and plot them by hand on a clean sheet of 
+paper. Today, improvements in the collection of data, the de-
+velopment of computers and electronic databases, and access 
+to the Internet make the task much easier. This appendix will 
+help you find the numbers you are looking for, be it inflation in 
+Malaysia last year, or consumption in the United States in 1959, 
+or unemployment in Ireland in the 1980s. In most cases, the 
+data can be downloaded to spreadsheets for further treatment.
+
+■ Once a year, the Economic Report of the President, written 
+by the Council of Economic Advisers and published by the 
+U.S. Government Printing Office in Washington, D.C., gives 
+a description of current evolutions, as well as numbers for 
+most major macroeconomic variables, often going back to 
+the 1950s. (It contains two parts, a report on the economy, 
+and a set of statistical tables. Both can be found at www.ori-
+gin.www.gpoaccess.gov/eop/.)
+
+■ A detailed presentation of the most recent numbers for 
+national income accounts is given in the Survey of Current 
+Business, published monthly by the U.S. Department of 
+Commerce, Bureau of Economic Analysis (www.bea.gov). 
+A user’s guide to the statistics published by the Bureau of 
+Economic Analysis is given in the Survey of Current Busi-
+ness, April 1996.
+
+For a Quick Look at Current Numbers
+
+■ The best source for the most recent numbers on output, 
+unemployment, inflation, exchange rates, interest rates, 
+and stock prices for a large number of countries is the last 
+four pages of The Economist, published each week (www.
+economist.com). The Web site, like many of the Web sites 
+listed below, contains both information available free to 
+anyone and information available only to subscribers.
+
+■ The standard reference for national income accounts is 
+the National Income and Product Accounts of the United 
+States. Volume 1, 1929–1958, and Volume 2, 1959–1994, are 
+published by the U.S. Department of Commerce, Bureau of 
+Economic Analysis (www.bea.gov).
+
+■ For data on just about everything, including economic 
+data, a precious source is the Statistical Abstract of the 
+United States, published annually by the U.S. Department 
+of Commerce, Bureau of the Census (www.census.gov/
+prod/www/statistical-abstract.html).
+
+■ A good source for recent numbers about the U.S. economy 
+is National Economic Trends, published monthly by the 
+Federal Reserve Bank of Saint Louis (www.research.stlou-
+isfed.org/publications/net/).
+
+For More Detail about the U.S. Economy
+
+Numbers for Other Countries
+
+■ A convenient database, with numbers often going back to 
+the 1960s, for both the United States and other countries, 
+is the Federal Reserve Economic Database (called FRED), 
+maintained by the Federal Reserve Bank of Saint Louis. Ac-
+cess is free, and much of the data used in this book comes 
+from that database. (www.research.stlouisfed.org/fred2/)
+
+The Organization for Economic Cooperation and De-
+velopment, OECD for short, located in Paris, France (www.
+oecd.org), is an organization that includes most of the rich 
+countries in the world (Australia, Austria, Belgium, Canada, 
+Chile, the Czech Republic, Denmark, Estonia, Finland, France, 
+Germany, Greece, Hungary, Iceland, Israel, Italy, Japan, Korea,
+
+Chapter 1 
+A Tour of the World 
+17

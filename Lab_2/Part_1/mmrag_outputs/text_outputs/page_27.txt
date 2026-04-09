@@ -1,0 +1,86 @@
+30 
+Introduction 
+The Core
+represent the consumption basket of a typical urban consumer and is updated roughly 
+only once every 10 years.
+Each month, Bureau of Labor Statistics (BLS) employees visit stores to find out 
+what has happened to the price of the goods on the list; prices are collected in 87 cit-
+ies, from about 23,000 retail stores, car dealerships, gas stations, hospitals, and so on. 
+These prices are then used to construct the Consumer Price Index.
+Like the GDP deflator (the price level associated with aggregate output, GDP), the CPI 
+is an index. It is set equal to 100 in the period chosen as the base period and so its level has 
+no particular significance. The current base period is 1982 to 1984, so the average for the 
+period 1982 to 1984 is equal to 100. In 2010, the CPI was 222.8; thus, it cost more than twice 
+as much in dollars to purchase the same consumption basket than in 1982–1984.
+You may wonder how the rate of inflation differs depending on whether the GDP 
+deflator or the CPI is used to measure it. The answer is given in Figure 2-4, which plots 
+the two inflation rates since 1960 for the United States. The figure yields two conclusions:
+■ 
+The CPI and the GDP deflator move together most of the time. In most years, the 
+two inflation rates differ by less than 1%.
+■ 
+But there are clear exceptions. In 1979 and 1980, the increase in the CPI was signifi-
+cantly larger than the increase in the GDP deflator. The reason is not hard to find. Re-
+call that the GDP deflator is the price of goods produced in the United States, whereas 
+the CPI is the price of goods consumed in the United States. That means when the 
+price of imported goods increases relative to the price of goods produced in the United 
+States, the CPI increases faster than the GDP deflator. This is precisely what happened 
+in 1979 and 1980. The price of oil doubled. And although the United States is a pro-
+ducer of oil, it produces much less than it consumes: It was and still is a major oil im-
+porter. The result was a large increase in the CPI compared to the GDP deflator.
+In what follows, we shall typically assume that the two indexes move together so we 
+do not need to distinguish between them. we shall simply talk about the price level and 
+denote it by Pt, without indicating whether we have the CPI or the GDP deflator in mind.
+Why Do Economists Care about Inflation?
+If a higher inflation rate meant just a faster but proportional increase in all prices and 
+wages—a case called pure inflation—inflation would be only a minor inconvenience, 
+as relative prices would be unaffected.
+Figure 2-4
+Inflation rate, using the 
+CPI and the GDP deflator, 
+1960–2010
+The inflation rates, com-
+puted using either the CPI or 
+the GDP deflator, are largely 
+similar.
+Source: Calculated using series 
+GDPDEF, CPI-AUSCL Federal Re-
+serve Economic Data (FRED) http://
+research.stlouisfed.org/fred2/
+CPI
+GDP
+deflator
+Inflation Rate (percent per year)
+–2
+0
+2
+4
+6
+8
+10
+12
+14
+1960
+1965
+1970
+1975
+1980
+1985
+1990
+1995
+2000
+2005
+2010
+You may wonder why the effect 
+of the increases in the price of 
+oil since 1999 is much less vis-
+ible in the figure. The answer: 
+The increases have taken place 
+more slowly over time, and 
+other factors have worked in 
+the opposite direction.
+ 
+Do not ask why such a strange 
+base period was chosen. 
+ Nobody seems to remember.
+ 

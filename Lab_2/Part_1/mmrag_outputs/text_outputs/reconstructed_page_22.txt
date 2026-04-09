@@ -1,0 +1,86 @@
+Real GDP, Technological Progress, and  
+the Price of Computers
+
+FOCUS
+
+new computers this year have a speed of 3 GHz compared 
+to a speed of 2 GHz for new computers last year. And sup-
+pose the dollar price of new computers this year is the 
+same as the dollar price of new computers last year. Then 
+economists in charge of computing the adjusted price of 
+computers will conclude that new computers are in fact 
+10% cheaper than last year.
+This approach, which treats goods as providing a col-
+lection of characteristics—for computers, speed, mem-
+ory, and so on—each with an implicit price, is called 
+hedonic pricing (“hedone” means “pleasure” in Greek). 
+It is used by the Department of Commerce—which con-
+structs real GDP—to estimate changes in the price of 
+complex and fast changing goods, such as automobiles 
+and computers. Using this approach, the Department of 
+Commerce estimates that, for a given price, the quality of 
+new computers has increased on average by 18% a year 
+since 1981. Put another way, a typical personal computer 
+in 2010 delivers 1.1829  121 times the computing serv-
+ices a typical personal computer delivered in 1981.
+Not only do computers deliver more services, they have 
+become cheaper as well: Their dollar price has declined by 
+about 10% a year since 1981. Putting this together with the 
+information in the previous paragraph, this implies that 
+their quality–adjusted price has fallen at an average rate 
+of 18%  10%  28% per year. Put another way, a dol-
+lar spent on a computer today buys 1.2829  1,285 times 
+more computing services than a dollar spent on a computer 
+in 1981.
+
+A tough problem in computing real GDP is how to deal with 
+changes in quality of existing goods. One of the most dif-
+ficult cases is computers. It would clearly be absurd to as-
+sume that a personal computer in 2010 is the same good as 
+a personal computer produced in 1981 (the year in which 
+the IBM PC was introduced): The same amount of money 
+can clearly buy much more computing in 2010 than it could 
+in 1981. But how much more? Does a 2010 computer pro-
+vide 10 times, 100 times, or 1,000 times the computing serv-
+ices of a 1981 computer? How should we take into account 
+the improvements in internal speed, the size of the random 
+access memory (RAM) or of the hard disk, the fact that com-
+puters can access the Internet, and so on?
+The approach used by economists to adjust for these 
+improvements is to look at the market for computers and 
+how it values computers with different characteristics in 
+a given year. Example: Suppose the evidence from prices 
+of different models on the market shows that people are 
+willing to pay 10% more for a computer with a speed of 3 
+GHz (3,000 megahertz) rather than 2 GHz. (The first edi-
+tion of this book, published in 1996, compared two com-
+puters, with speeds of 50 and 16 megaherz, respectively. 
+This change is a good indication of technological progress. 
+A further indication of technological progress is that, for 
+the past few years, progress has not been made by increas-
+ing the speed of processors, but rather by using multicore 
+processors. We shall leave this aspect aside here, but peo-
+ple in charge of national income accounts cannot; they 
+have to take this change into account as well.) Suppose
+
+is no official definition of what constitutes a recession, but the convention is to refer to 
+a “recession” if the economy goes through at least two consecutive quarters of negative 
+growth. Although GDP growth was positive for 2001 as a whole, it was negative during 
+each of the first three quarters of 2001; thus 2001 qualifies as a (mild) recession.
+
+2-2 The Unemployment Rate
+
+Because it is a measure of aggregate activity, GDP is obviously the most important 
+macroeconomic variable. But two other variables, unemployment and inflation, tell us 
+about other important aspects of how an economy is performing. This section focuses 
+on the unemployment rate.
+We start with two definitions: Employment is the number of people who have a 
+job. Unemployment is the number of people who do not have a job but are looking for 
+one. The labor force is the sum of employment and unemployment:
+
+L          =             N       +            U
+ labor force = employment + unemployment
+
+Chapter 2 
+A Tour of the Book 
+25

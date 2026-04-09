@@ -1,0 +1,130 @@
+June 2009. In other words, according to the NBER, the econ-
+omy began a recovery in November 2001 and in June 2009. 
+Given your answers to parts (a) and (b), do you think the 
+labor market recovered as quickly as GDP? Explain.
+For more on NBER recession dating, visit www.nber.org. This 
+site provides a history of recession dates and some discussion of 
+their methodology.
+
+b. The unemployment rate is series UNRATE. Is the unem-
+ployment rate higher in the 2001 recession or the 2009 
+recession? 
+ c. The National Bureau of Economic Research (NBER), which 
+dates recessions, identified a recession  beginning in March 
+2001 and ending in November 2001.  The equivalent dates 
+for the next, longer  recession were December 2007 ending
+
+Further Readings
+
+by Michael Boskin et al., Journal of Economic Perspectives, 
+1998, 12(1): pp. 3–26.
+
+■ If you want to learn more about the definition and the con-
+struction of the many economic indicators that are regu-
+larly reported on the news—from the help–wanted index to 
+the retail sales index—two easy–to–read references are:
+ 
+The Guide to Economic Indicators, by Norman Frumkin, 
+3rd edition, M.E. Sharpe, 4th edition, New York, 2005.
+ 
+The Economist Guide to Economic Indicators, by the staff of 
+The Economist, 6th edition, Bloomberg, New York, 2007.
+
+■ For a short history of the construction of the National In-
+come Accounts, read GDP: One of the Great Inventions of the 
+20th Century, Survey of Current Business, January 2000, 1–9. 
+(www.bea.gov/bea/articles/beawide/2000/0100od.pdf)
+
+■ For a discussion of some of the problems involved in meas-
+uring activity, read “What We Don’t Know Could Hurt Us; 
+Some Reflections on the Measurement of Economic Activ-
+ity,” by Katherine Abraham, Journal of Economic Perspec-
+tives, 2005, 19(3): pp. 3–18.
+
+■ In 1995, the U.S. Senate set up a commission to study the 
+construction of the CPI and make recommendations about 
+potential changes. The commission concluded that the rate 
+of inflation computed using the CPI was on average about 
+1% too high. If this conclusion is correct, this implies in 
+particular that real wages (nominal wages divided by the 
+CPI) have grown 1% more per year than is currently being 
+reported. For more on the conclusions of the commission 
+and some of the exchanges that followed, read Consumer 
+Prices, the Consumer Price Index, and the Cost of Living,
+
+■ To see why it is hard to measure the price level and output 
+correctly, read “Viagra and the Wealth of Nations” by Paul 
+Krugman, 1998 (www.pkarchive.org/theory/viagra.html). 
+(Paul Krugman is an economist at Princeton University and 
+a columnist at the New York Times. His columns are opin-
+ionated, insightful, and fun to read.)
+
+APPENDIX: The Construction of Real GDP, and Chain-Type Indexes
+
+The example we used in the chapter had only one final good—
+cars—so constructing real GDP was easy. But how do we con-
+struct real GDP when there is more than one final good? This 
+appendix gives the answer.
+To understand how real GDP in an economy with many 
+final goods is constructed, all you need to do is look at an 
+economy where there are just two final goods. What works for 
+two goods works just as well for millions of goods.
+Suppose that an economy produces two final goods, say 
+wine and potatoes:
+
+This information is summarized in the following table.
+
+Nominal GDP in Year 0 and in Year 1.
+
+Year 0
+
+Quantity
+$ Price
+$ Value
+
+Potatoes (pounds)
+10
+1
+10
+
+Wine (bottles),
+
+5
+5
+10
+20
+
+Nominal GDP
+
+Year 1
+
+■ In year 0, it produces 10 pounds of potatoes at a price of $1 
+a pound, and 5 bottles of wine at a price of $2 a bottle.
+
+Quantity
+$ Price
+$ Value
+
+■ In year 1, it produces 15 pounds of potatoes at a price of $1 
+a pound, and 5 bottles of wine at a price of $3 a bottle.
+
+Potatoes (pounds)
+15
+1
+15
+
+Wine (bottles)
+
+5
+3
+15
+30
+
+■ Nominal GDP in year 0 is therefore equal to $20. Nominal 
+GDP in year 1 is equal to $30.
+
+Nominal GDP
+
+Chapter 2 
+A Tour of the Book 
+39

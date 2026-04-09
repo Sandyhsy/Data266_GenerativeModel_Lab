@@ -1,0 +1,100 @@
+4
+
+Figure 2-5
+
+Changes in the 
+unemployment rate versus 
+output growth in the 
+United States, 1960–2010
+
+3
+
+Change in the unemployment rate
+(percentage points)
+
+2
+
+Output growth that is higher 
+than usual is associated with 
+a reduction in the unemploy-
+ment rate; output growth that 
+is lower than usual is associ-
+ated with an increase in the 
+unemployment rate.
+
+1
+
+0
+
+–1
+
+–2
+
+Source: See Figures 2-2 and 2-3.
+
+–3
+
+–4
+–2
+0
+2
+4
+6
+8
+
+Output growth (percent)
+
+
+
+Such a graph, plotting one 
+variable against another, is 
+called a scatterplot. The line 
+is called a regression line. For 
+more on regressions, see Ap-
+pendix 3.
+
+growth leads to a decrease in unemployment. The slope of the line is -0.4. This 
+implies that, on average, an increase in the growth rate of 1% decreases the unem-
+ployment rate by roughly -0.4%. This is why unemployment goes up in recessions 
+and down in expansions. This relation has a simple but important implication: The 
+key to decreasing unemployment is a high enough rate of growth.
+■ 
+This vertical line crosses the horizontal axis at the point where output growth is 
+roughly equal to 3%. In economic terms: It takes a growth rate of about 3% to keep 
+unemployment constant. This is for two reasons. The first is that population, and 
+thus the labor force, increases over time, so employment must grow over time just to 
+keep the unemployment rate constant. The second is that output per worker is also 
+increasing with time, which implies that output growth is higher than employment 
+growth. Suppose, for example, that the labor force grows at 1% and that output per 
+worker grows at 2%. Then output growth must be equal to 3% 11% + 2%2 just to 
+keep the unemployment rate constant.
+
+The Phillips Curve
+
+Okun’s law implies that, with strong enough growth, one can decrease the unemploy-
+ment rate to very low levels. But intuition suggests that, when unemployment becomes 
+very low, the economy is likely to overheat, and that this will lead to upward pressure 
+on inflation. And, to a large extent, this is true. This relation was first explored in 1958 
+by a New Zealand economist, A. W. Phillips, and has become known as the Phillips 
+curve. Phillips plotted the rate of inflation against the unemployment rate. Since then, 
+the Phillips curve has been redefined as a relation between the change in the rate of 
+inflation and the unemployment rate. Figure 2-6 plots the change in the inflation rate 
+(measured using the CPI) on the vertical axis against the unemployment rate on the 
+horizontal axis, together with the line that fits the cloud of points best, for the United 
+States since 1960. Looking at the figure again suggests two conclusions:
+
+It should probably be known 
+as the Phillips relation, but it is 
+too late to change that.
+
+
+
+■ 
+The line is downward sloping, although the fit is not as tight as it was for Okun’s 
+law: Higher unemployment leads, on average, to a decrease in inflation; lower 
+unemployment leads to an increase in inflation. But this is only true on average. 
+Sometimes, high unemployment is associated with an increase in inflation.
+
+32 
+Introduction 
+The Core

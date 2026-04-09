@@ -1,0 +1,111 @@
+2-3 The Inflation Rate
+
+Deflation is rare, but it hap-
+pens. Japan has had defla-
+tion, off and on, since the 
+late 1990s. The United States 
+experienced deflation in 
+the 1930s during the Great 
+Depression.
+
+Inflation is a sustained rise in the general level of prices—the price level. The infla-
+tion rate is the rate at which the price level increases. (Symmetrically,  deflation is 
+a sustained decline in the price level. It corresponds to a negative  inflation rate).
+The practical issue is how to define the price level so the inflation rate can be 
+measured. Macroeconomists typically look at two measures of the price level, at two 
+price indexes: the GDP deflator and the Consumer Price Index.
+
+
+
+The GDP Deflator
+
+We saw earlier how increases in nominal GDP can come either from an increase in real 
+GDP, or from an increase in prices. Put another way, if we see nominal GDP increase 
+faster than real GDP, the difference must come from an increase in prices.
+This remark motivates the definition of the GDP deflator. The GDP deflator in year 
+t, Pt, is defined as the ratio of nominal GDP to real GDP in year t:
+
+Index numbers are often set 
+equal to 100 (in the base year) 
+rather than to 1. If you look at 
+the Economic Report of the 
+President (see Chapter 1) you 
+will see that the GDP deflator, 
+reported in Table B-3, is equal 
+to 100 for 2005 (the base year), 
+103.2 in 2006, and so on.
+
+
+Pt = Nominal GDPt
+
+Real GDPt
+= $Yt
+
+Yt
+
+Note that, in the year in which, by construction, real GDP is equal to nominal GDP 
+(2005 at this point in the United States), this definition implies that the price level is 
+equal to 1. This is worth emphasizing: The GDP deflator is called an index number. Its 
+level is chosen arbitrarily—here it is equal to 1 in 2005—and has no economic interpre-
+tation. But its rate of change, 1Pt - Pt-12 >Pt-1 (which we shall denote by pt in the rest 
+of the book), has a clear economic interpretation: It gives the rate at which the general 
+level of prices increases over time—the rate of inflation.
+One advantage to defining the price level as the GDP deflator is that it implies a 
+simple relation among nominal GDP, real GDP, and the GDP deflator. To see this, reor-
+ganize the previous equation to get:
+
+Compute the GDP deflator and 
+the associated rate of inflation 
+from 2004 to 2005 and from 
+2005 to 2006 in our car exam-
+ple in Section 2-1, when real 
+GDP is constructed using the 
+2005 price of cars as the com-
+mon price.
+
+
+
+$Yt = Pt Yt
+
+Nominal GDP is equal to the GDP deflator times real GDP. Or, putting it in terms of 
+rates of change: The rate of growth of nominal GDP is equal to the rate of inflation plus 
+the rate of growth of real GDP.
+
+For a refresher, see Appendix 2, 
+Proposition 7.
+
+
+The Consumer Price Index
+
+The GDP deflator gives the average price of output—the final goods produced in the 
+economy. But consumers care about the average price of consumption—the goods 
+they consume. The two prices need not be the same: The set of goods produced in the 
+economy is not the same as the set of goods purchased by consumers, for two reasons:
+
+■ 
+Some of the goods in GDP are sold not to consumers but to firms (machine tools, 
+for example), to the government, or to foreigners.
+■ 
+Some of the goods bought by consumers are not produced domestically but are 
+imported from abroad.
+
+Do not confuse the CPI with the 
+PPI, or producer price index, 
+which is an index of prices of 
+domestically produced goods 
+in manufacturing, mining, ag-
+riculture, fishing, forestry, and 
+electric utility industries.
+
+To measure the average price of consumption, or, equivalently, the cost of  living, 
+macroeconomists look at another index, the Consumer Price Index, or CPI. The CPI has 
+been in existence in the United States since 1917 and is published monthly (in contrast, 
+numbers for GDP and the GDP deflator are only constructed and published quarterly).
+The CPI gives the cost in dollars of a specific list of goods and services over 
+time. The list, which is based on a detailed study of consumer spending, attempts to
+
+
+
+Chapter 2 
+A Tour of the Book 
+29

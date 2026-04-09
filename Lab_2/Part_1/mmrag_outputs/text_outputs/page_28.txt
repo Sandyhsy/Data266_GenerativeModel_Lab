@@ -1,0 +1,74 @@
+ 
+Chapter 2 
+A Tour of the Book 
+31
+Take, for example, the workers’ real wage—the wage measured in terms of goods 
+rather than in dollars. In an economy with 10% more inflation, prices would increase 
+by 10% more a year. But wages would also increase by 10% more a year, so real wages 
+would be unaffected by inflation. Inflation would not be entirely irrelevant; people 
+would have to keep track of the increase in prices and wages when making decisions. 
+But this would be a small burden, hardly justifying making control of the inflation rate 
+one of the major goals of macroeconomic policy.
+So why do economists care about inflation? Precisely because there is no such 
+thing as pure inflation:
+■ 
+During periods of inflation, not all prices and wages rise proportionately. Because they 
+don’t, inflation affects income distribution. For example, retirees in many countries re-
+ceive payments that do not keep up with the price level, so they lose in relation to other 
+groups when inflation is high. This is not the case in the United States, where Social 
+Security benefits automatically rise with the CPI, protecting retirees from inflation. But 
+during the very high inflation that took place in Russia in the 1990s, retirement pen-
+sions did not keep up with inflation, and many retirees were pushed to near starvation.
+■ 
+Inflation leads to other distortions. Variations in relative prices also lead to more 
+uncertainty, making it harder for firms to make decisions about the future, such 
+as investment decisions. Some prices, which are fixed by law or by regulation, lag 
+behind the others, leading to changes in relative prices. Taxation interacts with 
+inflation to create more distortions. If tax brackets are not adjusted for inflation, 
+for example, people move into higher and higher tax brackets as their nominal in-
+come increases, even if their real income remains the same.
+If inflation is so bad, does this imply that deflation (negative inflation) is good?
+The answer is no. First, high deflation (a large negative rate of inflation) would create 
+many of the same problems as high inflation, from distortions to increased uncertainty. Sec-
+ond, as we shall see later in the book, even a low rate of deflation limits the ability of monetary 
+policy to affect output. So what is the “best” rate of inflation? Most macroeconomists believe 
+that the best rate of inflation is a low and stable rate of inflation, somewhere between 1 and 
+4%. We shall look at the pros and cons of different rates of inflation later in the book.
+2-4 Output, Unemployment, and the Inflation 
+Rate: Okun’s Law and the Phillips Curve
+We have looked separately at the three main dimensions of aggregate economic activ-
+ity: output growth, the unemployment rate, and the inflation rate. Clearly they are not 
+independent, and much of this book will be spent looking at the relations among them 
+in detail. But it is useful to have a first look now.
+Okun’s Law
+Intuition suggests that if output growth is high, unemployment will decrease, and this is 
+indeed true. This relation was first examined by American economist Arthur Okun and 
+for this reason has become known as Okun’s law. Figure 2-5 plots the change in the un-
+employment rate on the vertical axis against the rate of growth of output on the horizon-
+tal axis for the United States since 1960. It also draws the line that best fits the cloud of 
+points in the figure. Looking at the figure and the line suggests two conclusions:
+■ 
+The line is downward sloping and fits the cloud of points quite well. Put in eco-
+nomic terms: There is a tight relation between the two variables: Higher output 
+Newspapers sometimes con-
+fuse deflation and recession. 
+They may happen together but 
+they are not the same. Deflation 
+is a decrease in the price level. 
+A recession is a decrease in 
+real output.
+ 
+This is known as bracket creep. 
+In the United States, the tax 
+brackets are adjusted automat-
+ically for inflation: If inflation is 
+5%, all tax brackets also go up 
+by 5%—in other words, there is 
+no bracket creep.
+ 
+Arthur Okun was an adviser 
+to President Kennedy in 
+the 1960s. Okun’s law is, of 
+course, not a law, but an em-
+pirical regularity.
+

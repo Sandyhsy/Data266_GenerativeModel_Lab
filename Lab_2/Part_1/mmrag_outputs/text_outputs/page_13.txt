@@ -1,0 +1,103 @@
+Key Terms
+European Union (EU), 9
+euro area, 10
+common currency area, 10
+Questions and Problems
+QUICK CHECK
+All Quick Check questions and problems are available 
+on MyEconLab.
+1. Using the information in this chapter, label each of the fol-
+lowing statements true, false, or uncertain. Explain briefly.
+ a. Output growth was negative in both advanced as well as 
+emerging and developing countries in 2009. 
+ b. Stock prices fell between 2007 and 2010 around the world. 
+ c. In the 1960s and early 1970s, the United States had a 
+higher rate of unemployment than Europe, but today it 
+has a much lower rate of unemployment.
+ d. China’s seemingly high growth rate is a myth, a product 
+solely of misleading official statistics.
+ e. The high rate of unemployment in Europe started when a 
+group of major European countries adopted a common 
+currency.
+ f. The Federal Reserve lowers interest rates when it wants to 
+avoid recession and raises interest rates when it wants to 
+slow the rate of growth in the economy.
+ g. Output per person is very different in the euro area, the 
+United States, and China. 
+ h. The United States federal government has never run a 
+budget surplus in the last two decades. 
+2. Macroeconomic policy in Europe
+Beware of simplistic answers to complicated macroeco-
+nomic questions. Consider each of the following statements and 
+comment on whether there is another side to the story.
+ a. There is a simple solution to the problem of high European 
+unemployment: Reduce labor market rigidities.
+ b. What can be wrong about joining forces and adopt-
+ing a common currency? The euro is obviously good for 
+Europe.
+DIG DEEPER
+All Dig Deeper questions and problems are available 
+on MyEconLab.
+3. Chinese economic growth is the outstanding feature of the 
+world economic scene over the past two decades. 
+ a. In 2010, U.S. output was $14.7 trillion, and Chinese out-
+put was $5.8 trillion. Suppose that from now on, the out-
+put of China grows at an annual rate of 10.5% per year, 
+while the output of the United States grows at an annual 
+rate of 2.6% per year. These are the values in each coun-
+try for the period 2000–2007 as stated in the text. Using 
+these assumptions and a spreadsheet, calculate and 
+plot U.S. and Chinese output from 2010 over the next 
+100 years. How many years will it take for China to have 
+a total level of output equal to that of the United States?
+ b. When China catches up with the United States in total 
+ output, will residents of China have the same standard of 
+living as U.S. residents? Explain.
+ c. Another word for standard of living is output per person. 
+How has China raised its output per person in the last 
+two decades? Are these methods applicable to the United 
+States? 
+ d. Do you think China’s experience in raising its standard of 
+living (output per person) provides a model for developing 
+countries to follow?
+4. Deficit reduction was identified as the major issue facing the 
+United States as of the writing of this chapter. 
+ a. Go to the most recent Economic Report of the President 
+to ascertain whether deficits as a percent of GDP have in-
+creased or decreased compared to what was expected for 
+2011 and 2012 as of the writing of the chapter.
+ b. Calculate the total change in the deficit as a percent of 
+GDP between 2011 and most recent data. Now split the 
+change in the deficit since 2011 into (1) the changes in tax 
+revenue as a percent of GDP, (2) the change in expendi-
+tures as a percent of GDP. 
+ c. Use the data entitled Economic and Financial Indicators 
+found in The Economist to find the country with largest 
+budget deficit and largest budget surplus. In this list the 
+budget deficit is called the “Budget Balance.” Then find the 
+OECD member in this list with the largest budget deficit 
+and largest budget surplus. 
+EXPLORE FURTHER
+5. U.S. postwar recessions
+This question looks at the recessions over the past 40 years. 
+To work this problem, first obtain quarterly data on U.S. output 
+growth for the period 1960 to the most recent date from the 
+Web site www.bea.gov. Table 1.1.1 presents the percent change 
+in real gross domestic product. This data can be downloaded 
+to a spreadsheet. Plot the quarterly GDP growth rates from 
+1960:1 to the latest observations. Did any quarters have nega-
+tive growth? Using the definition of a recession as two or more 
+consecutive quarters of negative growth, answer the following 
+questions.
+ a. How many recessions has the U.S. economy undergone 
+since 1960, quarter 2?
+ b. How many quarters has each recession lasted?
+ c. In terms of length and magnitude, which two recessions 
+have been the most severe?
+6. From Problem 5, write down the quarters in which the six 
+traditional recessions started. Find the monthly series in the 
+Federal Reserve Bank of St. Louis (FRED) database for the 
+seasonally adjusted unemployment rate. Retrieve the monthly 
+16 
+Introduction 
+The Core

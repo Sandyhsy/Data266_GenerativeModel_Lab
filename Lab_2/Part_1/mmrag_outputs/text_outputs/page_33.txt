@@ -1,0 +1,75 @@
+■ 
+The core chapters treat the economy as closed, ignoring its interactions with the 
+rest of the world. But the fact is, economies are increasingly open, trading goods 
+and services and financial assets with one another. As a result, countries are be-
+coming more and more interdependent. The nature of this interdependence and 
+the implications for fiscal and monetary policy are the topics of Chapters 18 to 21.
+Back to Policy
+Monetary policy and fiscal policy are discussed in nearly every chapter of this book. 
+But once the core and the extensions have been covered, it is useful to go back and put 
+things together in order to assess the role of policy.
+■ 
+Chapter 22 focuses on general issues of policy, whether macroeconomists really 
+know enough about how the economy works to use policy as a stabilization tool at 
+all, and whether policy makers can be trusted to do what is right.
+■ 
+Chapters 23 and 24 return to the role of fiscal and monetary policy.
+Epilogue
+Macroeconomics is not a fixed body of knowledge. It evolves over time. The final chapter, 
+Chapter 25, looks at the history of macroeconomics and how macroeconomists have come 
+to believe what they believe today. From the outside, macroeconomics sometimes looks 
+like a field divided among schools—“Keynesians,” “monetarists,” “new classicals,” “supply-
+siders,” and so on—hurling arguments at each other. The actual process of research is more 
+orderly and more productive than this image suggests. We identify what we see as the main 
+differences among macroeconomists, the set of propositions that define the core of 
+macroeconomics today, and the challenges posed to macroeconomists by the crisis.
+increases. Macroeconomists look at two measures of the 
+price level. The first is the GDP deflator, which is the av-
+erage price of the goods produced in the economy. The 
+second is the Consumer Price Index (CPI), which is the av-
+erage price of goods consumed in the economy.
+■ Inflation leads to changes in income distribution, to distor-
+tions, and to increased uncertainty.
+■ There are two important relations among output, unem-
+ployment, and inflation. The first, called Okun’s law, is a 
+relation between output growth and the change in unem-
+ployment: High output growth typically leads to a decrease 
+in the unemployment rate. The second, called the Phillips 
+curve, is a relation between unemployment and inflation: 
+A low unemployment rate typically leads to an increase in 
+the inflation rate.
+■ Macroeconomists distinguish between the short run (a few 
+years), the medium run (a decade), and the long run (a few 
+decades or more). They think of output as being determined 
+by demand in the short run. They think of output as being 
+determined by the level of technology, the capital stock, and 
+the labor force in the medium run. Finally, they think of out-
+put as being determined by factors like education, research, 
+saving, and the quality of government in the long run.
+■ We can think of GDP, the measure of aggregate output, 
+in three equivalent ways: (1) GDP is the value of the fi-
+nal goods and services produced in the economy during 
+a given period; (2) GDP is the sum of value added in the 
+economy during a given period; and (3) GDP is the sum of 
+incomes in the economy during a given period.
+■ Nominal GDP is the sum of the quantities of final goods 
+produced times their current prices. This implies that 
+changes in nominal GDP reflect both changes in quanti-
+ties and changes in prices. Real GDP is a measure of output. 
+Changes in real GDP reflect changes in quantities only.
+■ A person is classified as unemployed if he or she does not 
+have a job and is looking for one. The unemployment rate 
+is the ratio of the number of people unemployed to the 
+number of people in the labor force. The labor force is 
+the  sum of those employed and those unemployed.
+■ Economists care about unemployment because of the hu-
+man cost it represents. They also look at unemployment 
+because it sends a signal about how efficiently the economy 
+is using its resources. High unemployment indicates that 
+the country is not utilizing its resources efficiently.
+■ Inflation is a rise in the general level of prices—the price 
+level. The inflation rate is the rate at which the price level 
+Summary
+36 
+Introduction 
+The Core

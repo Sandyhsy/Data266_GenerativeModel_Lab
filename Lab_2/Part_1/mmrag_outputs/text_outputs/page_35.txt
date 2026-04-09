@@ -1,0 +1,114 @@
+ c. Using the prices for 2006 as the set of common prices, 
+what is real GDP in 2005 and in 2006? By what percentage 
+does real GDP change from 2005 to 2006?
+ d. Why are the two output growth rates constructed in (b) and 
+(c) different? Which one is correct? Explain your answer.
+5. Consider the economy described in Problem 4.
+ a. Use the prices for 2005 as the set of common prices to 
+compute real GDP in 2005 and in 2006. Compute the GDP 
+deflator for 2005 and for 2006 and compute the rate of in-
+flation from 2005 to 2006.
+ b. Use the prices for 2006 as the set of common prices to 
+compute real GDP in 2005 and in 2006. Compute the GDP 
+deflator for 2005 and for 2006 and compute the rate of in-
+flation from 2005 to 2006.
+ c. Why are the two rates of inflation different? Which one is 
+correct? Explain your answer.
+6. Consider the economy described in Problem 4.
+ a.  Construct real GDP for years 2005 and 2006 by using the 
+average price of each good over the two years.
+ b. By what percentage does real GDP change from 2005 to 2006?
+ c. What is the GDP deflator in 2005 and 2006? Using the GDP 
+deflator, what is the rate of inflation from 2005 to 2006?
+ d. Is this an attractive solution to the problems pointed out in 
+Problems 4 and 5 (i.e., two different growth rates and two 
+different inflation rates, depending on which set of prices 
+is used)? (The answer is yes and is the basis for the con-
+struction of chained-type deflators. See the appendix to 
+this chapter for more discussion.)
+7. Using macroeconomic relations:
+ a. Okun’s law stated that when output growth is higher than 
+usual, the unemployment rate tends to fall.  Explain why 
+usual output growth is positive.
+ b. In which year, a year where output growth is 2% or a year 
+where output growth is –2%, will the unemployment rate rise 
+more?
+ c. The Phillips curve is a relation between the change in the 
+inflation rate and the level of the unemployment rate. 
+Using the Phillips curve, is the unemployment rate zero 
+when the rate of inflation is neither rising nor falling.
+ d. The Phillips curve is often portrayed a line with a negative 
+slope. In the text, the slope is –0.4.  In your opinion, is this 
+a “better” economy if the line has a large slope, say –0.8, or 
+a smaller slope, say –0.2? 
+DIG DEEPER
+All Dig Deeper questions and problems are available 
+on MyEconLab.
+8. Hedonic pricing
+As the first Focus box in this chapter explains, it is difficult to 
+measure the true increase in prices of goods whose characteristics 
+change over time. For such goods, part of any price increase can 
+be attributed to an increase in quality. Hedonic pricing offers a 
+method to compute the quality-adjusted increase in prices.
+ a. Consider the case of a routine medical checkup. Name 
+some reasons you might want to use hedonic pricing to 
+measure the change in the price of this service.
+Now consider the case of a medical checkup for a pregnant 
+woman. Suppose that a new ultrasound method is introduced. 
+In the first year that this method is available, half of doctors 
+ offer the new method, and half offer the old method. A checkup 
+using the new method costs 10% more than a checkup using the 
+old method.
+ b. In percentage terms, how much of a quality increase does 
+the new method represent over the old method? (Hint: 
+Consider the fact that some women choose to see a doctor 
+offering the new method when they could have chosen to 
+see a doctor offering the old method.)
+Now, in addition, suppose that in the first year the new ultra-
+sound method is available, the price of checkups using the new 
+method is 15% higher than the price of checkups in the previous 
+year (when everyone used the old method).
+ c. How much of the higher price for checkups using the new 
+method (as compared to checkups in the previous year) re-
+flects a true price increase of checkups and how much repre-
+sents a quality increase? In other words, how much higher is 
+the quality-adjusted price of checkups using the new method 
+as compared to the price of checkups in the previous year?
+In many cases, the kind of information we used in parts (b) and 
+(c) is not available. For example, suppose that in the year the 
+new ultrasound method is introduced, all doctors adopt the 
+new method, so the old method is no longer used. In addition, 
+continue to assume that the price of checkups in the year the 
+new method is introduced is 15% higher than the price of check-
+ups in the previous year (when everyone used the old method). 
+Thus, we observe a 15% price increase in checkups, but we real-
+ize that the quality of checkups has increased.
+ d. Under these assumptions, what information required to 
+compute the quality-adjusted price increase of checkups 
+is lacking? Even without this information, can we say any-
+thing about the quality-adjusted price increase of check-
+ups? Is it more than 15%? less than 15%? Explain.
+9. Measured and true GDP
+Suppose that instead of cooking dinner for an hour, you de-
+cide to work an extra hour, earning an additional $12. You then 
+purchase some (takeout) Chinese food, which costs you $10.
+ a. By how much does measured GDP increase?
+ b. Do you think the increase in measured GDP accurately re-
+flects the effect on output of your decision to work? Explain.
+EXPLORE FURTHER
+10. Comparing the recessions of 2009 and 2001: 
+One very easy source for data is the Federal Reserve Bank 
+of St. Louis FRED database. The series that measures real GDP 
+is GDPC1, real GDP in each quarter of the year expressed 
+at a seasonally adjusted annual rate (denoted SAAR).  The 
+monthly series for the unemployment rate is UNRATE.  You 
+can download these series in a variety of ways from this 
+database.
+ a. Look at the data on quarterly real GDP growth from 1999 
+through 2001 and then from 2007 through 2009.  Which 
+recession has larger negative values for GDP growth, the 
+recession centered on 2000 or the recession centered on 
+2008? 
+38 
+Introduction 
+The Core

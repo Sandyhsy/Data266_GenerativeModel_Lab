@@ -1,0 +1,72 @@
+ 
+Chapter 1 
+A Tour of the World 
+5
+at risk of going bankrupt as well. For a few weeks, it looked as if the whole financial 
+system might collapse.
+This financial crisis quickly turned into a major economic crisis. Stock prices col-
+lapsed. Figure 1-1 plots the evolution of three stock price indexes, for the United States, 
+for the Euro area, and for emerging economies, from the beginning of 2007 on. The 
+ indexes are set equal to 1 in January 2007. Note how, by the end of 2008, stock prices 
+had lost half or more of their value from their previous peak. Note also that, despite the 
+fact that the crisis originated in the United States, European and emerging market stock 
+prices decreased by as much as their U.S. counterparts; we shall return to this later.
+Hit by the decrease in housing prices and the collapse in stock prices, and wor-
+ried that this might be the beginning of another Great Depression, people sharply 
+cut their consumption. Worried about sales and uncertain about the future, firms 
+sharply cut back investment. With housing prices dropping and many vacant homes 
+on the market, very few new homes were built. Despite strong actions by the Fed, 
+which cut interest rates all the way down to zero, and by the U.S. government, which 
+cut taxes and increased spending, demand decreased, and so did output. In  the third 
+quarter of 2008, U.S. output growth turned negative and remained so in 2009.
+One might have hoped that the crisis would remain largely contained in the 
+United States. As Table 1-1 and Figure 1-1 both show, this was not the case. The U.S. 
+crisis quickly became a world crisis. Other countries were affected through two chan-
+nels. The first channel was trade. As U.S. consumers and firms cut spending, part of the 
+decrease fell on imports of foreign goods. Looking at it from the viewpoint of countries 
+exporting to the United States, their exports went down, and so, in turn, did their out-
+put. The second channel was financial. U.S. banks, badly needing funds in the United 
+States, repatriated funds from other countries, creating problems for banks in those 
+countries as well. The result was not just a U.S. but a world recession. By 2009, average 
+growth in advanced economies was -3.7%, by far the lowest annual growth rate since 
+the Great Depression. Growth in emerging and developing economies remained posi-
+tive but was nearly 4 percentage points lower than the 2000–2007 average.
+Since then, thanks to strong monetary and fiscal policies and to the slow repair of the 
+financial system, most economies have turned around. As you can see from Table 1-1, 
+Figure 1-1
+Stock prices in the United 
+States, the Euro area, 
+and emerging economies, 
+2007–2010
+Source: Haver Analytics USA 
+(S111ACD), Eurogroup (S023ACD), 
+all emerging markets (S200ACD), 
+all monthly averages)
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+1.4
+1.6
+United States
+Euro area
+Emerging economies
+2007–01
+2007–06
+2008–01
+2008–06
+2009–01
+2009–06
+2010–01
+2010–06
+2010–11
+Index,  equal to 1.0 in January 2007
+The Great Depression saw 
+four years of negative output 
+growth from 1929 to 1932. The 
+unemployment rate peaked at 
+24.9%.
+ 

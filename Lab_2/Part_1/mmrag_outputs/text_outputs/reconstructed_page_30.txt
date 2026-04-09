@@ -1,0 +1,84 @@
+6
+
+Figure 2-6
+
+Change in inflation rate (percentage points)
+
+Changes in the 
+inflation rate versus the 
+unemployment rate in the 
+United States, 1960–2010
+
+4
+
+2
+
+A low unemployment rate 
+leads to an increase in the in-
+flation rate, a high unemploy-
+ment rate to a decrease in the 
+inflation rate.
+
+0
+
+–2
+
+Source: See Figures 2-3 and 2-4.
+
+–4
+
+–6
+
+3
+4
+5
+6
+7
+8
+9
+10
+
+Unemployment (percent)
+
+■ 
+The line crosses the horizontal axis at the point where the unemployment rate is 
+roughly equal to 6%. In economic terms: When unemployment has been below 6%, 
+inflation has typically increased, suggesting that the economy was overheating, oper-
+ating above its potential. When unemployment has been above 6%, inflation has typi-
+cally decreased, suggesting that the economy was operating below potential. But, again 
+here, the relation is not tight enough that the unemployment rate at which the econ-
+omy  overheats can be pinned down very precisely. This explains why some economists 
+ believe that we should try to maintain a lower unemployment rate, say 4 or 5%, and oth-
+ers believe that it may be dangerous, leading to overheating and increasing inflation.
+
+Clearly, a successful economy is an economy that combines high output growth, low 
+unemployment, and low inflation. Can all these objectives be achieved simultane-
+ously? Is low unemployment compatible with low and stable inflation? Do policy mak-
+ers have the tools to sustain growth, to achieve low unemployment while maintaining 
+low inflation? These are the questions we shall take up as we go through the book. The 
+next two sections give you the road map.
+
+2-5 The Short Run, the Medium Run, 
+the Long Run
+
+What determines the level of aggregate output in an economy?
+
+■ 
+Reading newspapers suggests a first answer: Movements in output come from move-
+ments in the demand for goods. You probably have read news stories that  begin like 
+this: “Production and sales of automobiles were higher last month due to a surge in 
+consumer confidence, which drove consumers to showrooms in record numbers.” Sto-
+ries like these highlight the role demand plays in determining aggregate output; they 
+point to factors that affect demand, ranging from consumer confidence to interest rates.
+■ 
+But, surely, no amount of Indian consumers rushing to Indian showrooms can 
+increase India’s output to the level of output in the United States. This suggests 
+a second answer: What matters when it comes to aggregate output is the sup-
+ply side—how much the economy can produce. How much can be produced de-
+pends on how advanced the technology of the country is, how much capital it is 
+using, and the size and the skills of its labor force. These factors—not consumer 
+confidence—are the fundamental determinants of a country’s level of output.
+
+Chapter 2 
+A Tour of the Book 
+33

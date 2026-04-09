@@ -1,0 +1,103 @@
+20 
+Introduction 
+The Core
+2-1 Aggregate Output
+Economists studying economic activity in the nineteenth century or during the Great 
+ Depression had no measure of aggregate activity (aggregate is the word macroecono-
+mists use for total) on which to rely. They had to put together bits and pieces of infor-
+mation, such as the shipments of iron ore or sales at some department stores, to try to 
+infer what was happening to the economy as a whole.
+It was not until the end of World War II that national income and product accounts 
+(or national income accounts, for short) were put together. Measures of aggregate out-
+put have been published on a regular basis in the United States since October 1947. 
+(You will find measures of aggregate output for earlier times, but these have been con-
+structed retrospectively.)
+Like any accounting system, the national income accounts first define concepts 
+and then construct measures corresponding to these concepts. You need only to 
+look at statistics from countries that have not yet developed such accounts to realize 
+that precision and consistency in such accounts are crucial. Without precision and 
+ consistency, numbers that should add up do not; trying to understand what is going 
+on feels like trying to balance someone else’s checkbook. We shall not burden you with 
+the details of national income accounting here. But because you will occasionally need 
+to know the definition of a variable and how variables relate to each other, Appendix 
+1 at the end of the book gives you the basic accounting framework used in the United 
+States (and, with minor variations, in most other countries) today. You will find it use-
+ful whenever you want to look at economic data on your own.
+GDP: Production and Income
+The measure of aggregate output in the national income accounts is called the gross 
+domestic product, or GDP, for short. To understand how GDP is constructed, it is best 
+to work with a simple example. Consider an economy composed of just two firms:
+■ 
+Firm 1 produces steel, employing workers and using machines to produce the 
+steel. It sells the steel for $100 to Firm 2, which produces cars. Firm 1 pays its work-
+ers $80, leaving $20 in profit to the firm.
+■ 
+Firm 2 buys the steel and uses it, together with workers and machines, to produce 
+cars. Revenues from car sales are $200. Of the $200, $100 goes to pay for steel and 
+$70 goes to workers in the firm, leaving $30 in profit to the firm.
+We can summarize this information in a table: 
+Two economists, Simon 
+Kuznets, from Harvard Uni-
+versity, and Richard Stone, 
+from Cambridge University, 
+were given the Nobel Prize 
+for their contributions to the 
+development of the national 
+income and product ac-
+counts—a  gigantic intellectual 
+and  empirical achievement.
+Steel Company (Firm 1)
+Car Company (Firm 2)
+Revenues from sales
+$100
+Revenues from sales
+$200
+Expenses
+  Wages
+$80
+  $80
+Expenses
+  Wages
+  Steel purchases
+ $70
+$100
+$170
+Proﬁt
+  $20
+Proﬁt
+  $30
+You may come across another 
+term, gross national product, 
+or GNP. There is a subtle differ-
+ence between “domestic” and 
+“national,” and thus between 
+GDP and GNP. We examine the 
+distinction in Chapter 18 and 
+in Appendix 1 at the end of the 
+book. For now, ignore it.
+In reality, not only workers 
+and machines are required for 
+steel production, but so are 
+iron ore, electricity, and so on. 
+We shall ignore these to keep 
+the example simple.
+An intermediate good is a 
+good used in the production 
+of another good. Some goods 
+can be both final goods and 
+intermediate goods. Potatoes 
+sold directly to consumers are 
+final goods. Potatoes used 
+to produce potato chips are 
+intermediate goods. Can you 
+think of other examples?
+How would you define aggregate output in this economy? As the sum of the values 
+of all goods produced in the economy—the sum of $100 from the production of steel 
+and $200 from the production of cars, so $300? Or as just the value of cars, which is 
+equal to $200?
+Some thought suggests that the right answer must be $200. Why? Because steel 
+is an intermediate good: It is used in the production of cars. Once we count the 
+ 
+ 
+ 
+ 

@@ -1,0 +1,95 @@
+■ 
+Real GDP is also called GDP in terms of goods, GDP in constant dollars, GDP 
+ adjusted for inflation, or GDP in (chained) 2005 dollars or GDP in 2005 
+ dollars—if the year in which real GDP is set equal to nominal GDP is 2005, as is the 
+case in the United States at this time.
+
+In the chapters that follow, unless we indicate otherwise,
+
+■ 
+GDP will refer to real GDP and Yt will denote real GDP in year t.
+■ 
+Nominal GDP, and variables measured in current dollars, will be denoted by a dol-
+lar sign in front of them—for example, $Yt for nominal GDP in year t.
+
+GDP: Level versus Growth Rate
+
+We have focused so far on the level of real GDP. This is an important number that gives 
+the economic size of a country. A country with twice the GDP of another country is 
+economically twice as big as the other country. Equally important is the level of real 
+GDP per person, the ratio of real GDP to the population of the country. It gives us the 
+average standard of living of the country.
+In assessing the performance of the economy from year to year, economists focus, 
+however, on the rate of growth of real GDP, often called just GDP growth. Periods of positive 
+GDP growth are called expansions. Periods of negative GDP growth are called recessions.
+The evolution of GDP growth in the United States since 1960 is given in Figure 2-2. 
+GDP growth in year t is constructed as 1Yt - Yt-12 >Yt-1 and expressed as a percent. 
+The figure shows how the U.S. economy has gone through a series of expansions, inter-
+rupted by short recessions. Again, you can see the effects of the crisis: zero growth in 
+2008, and a large negative growth rate in 2009.
+The figure raises a small puzzle. According to the graph, growth was positive in 
+2001. But you may have heard people refer to the “recession of 2001.” Why do they do 
+so? Because they look at GDP growth quarter by quarter, rather than year by year. There
+
+Warning: One must be care-
+ful about how one does the 
+comparison: Recall the dis-
+cussion in Chapter 1 about 
+the standard of living in China. 
+This is  discussed further in 
+Chapter 10.
+
+
+
+It is actually the subject of one 
+of the boxes in Chapter 5.
+
+
+
+Figure 2-2
+
+8
+
+Growth rate of U.S. GDP, 
+1960–2010
+
+6
+
+Since 1960, the U.S. economy 
+has gone through a series of 
+expansions, interrupted by 
+short recessions. The most 
+recent recession was the most 
+severe recession in the period 
+from 1960 to 2010.
+
+4
+
+Percent
+
+2
+
+Source: Calculated using series 
+GDPCA in Figure 2-1
+
+0
+
+–2
+
+–4
+
+1960
+1965
+1970
+1975
+1980
+1985
+1990
+1995
+2000
+2005
+2010
+
+24 
+Introduction 
+The Core

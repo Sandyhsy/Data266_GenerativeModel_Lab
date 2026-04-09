@@ -1,0 +1,47 @@
+Non Sequitur © 2006 Wiley Ink, Inc. Distributed by 
+Universal Uclick. Reprinted with permission. All rights 
+reserved.
+
+The unemployment rate is the ratio of the number of people who are unemployed 
+to the number of people in the labor force:
+
+u = U
+
+L
+ unemployment rate = unemployment>labor force
+
+Constructing the unemployment rate is less obvious than you might have thought. 
+The cartoon above not withstanding, determining whether somebody is employed 
+is straightforward. Determining whether somebody is unemployed is harder.  Recall 
+from the definition that, to be classified as unemployed, a person must meet two 
+ conditions: that he or she does not have a job, and he or she is looking for one; this 
+second condition is harder to assess.
+Until the 1940s in the United States, and until more recently in most other 
+countries, the only available source of data on unemployment was the number of 
+people registered at unemployment offices, and so only those workers who were 
+registered in unemployment offices were counted as unemployed. This system 
+led to a poor measure of unemployment. How many of those looking for jobs ac-
+tually registered at the unemployment office varied both across countries and 
+across time. Those who had no incentive to register—for example, those who had 
+ exhausted their unemployment benefits—were unlikely to take the time to come to 
+the unemployment office, so they were not counted. Countries with less generous 
+benefit systems were likely to have fewer unemployed registering, and therefore 
+smaller measured unemployment rates.
+Today, most rich countries rely on large surveys of households to compute the 
+unemployment rate. In the United States, this survey is called the Current Population 
+Survey (CPS). It relies on interviews of 50,000 households every month. The survey 
+classifies a person as employed if he or she has a job at the time of the interview; it clas-
+sifies a person as unemployed if he or she does not have a job and has been looking for 
+a job in the last four weeks. Most other countries use a similar definition of unemploy-
+ment. In the United States, estimates based on the CPS show that, during 2010, an aver-
+age of 139.0 million people were employed, and 14.8 million people were unemployed, 
+so the unemployment rate was 14.8>1139.0 + 14.82 = 9.6%.
+Note that only those looking  for a job are counted as unemployed; those who do 
+not have a job and are not looking for one are counted as not in the labor force. When 
+unemployment is high, some of the unemployed give up looking for a job and therefore 
+are no longer counted as unemployed. These people are known as discouraged workers. 
+Take an extreme example: If all workers without a job gave up looking for one, the
+
+26 
+Introduction 
+The Core

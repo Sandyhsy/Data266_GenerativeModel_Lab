@@ -1,0 +1,2798 @@
+page_number,block_id,x0,y0,x1,y1,block_type,text
+1,0,29.5,669.9068603515625,251.3920135498047,678.9068603515625,0,"4 
+Introduction 
+The Core"
+1,1,149.5,28.049739837646484,262.03997802734375,45.218971252441406,0,1-1 The Crisis
+1,2,149.5,55.35285949707031,517.8280639648438,497.35284423828125,0,"Table 1-1 gives you output growth rates for the world economy, for advanced econ-
+omies and for other countries separately, since 2000. As you can see, from 2000 to 
+2007 the world economy had a sustained expansion. Annual average world output 
+growth was 3.2%, with advanced economies (the group of 30 or so richest countries 
+in the world) growing at 2.6% per year, and emerging and developing economies 
+(the other 150 or so other countries in the world) growing at an even faster 6.5% per 
+year.
+In 2007 however, signs that the expansion might be coming to an end started to 
+appear. U.S. housing prices, which had doubled since 2000, started declining. In mid-
+2007, as we wrote the previous edition of this book, we described how economists were 
+divided as to whether this might lead to a recession—a decrease in output. Optimists 
+believed that, while lower housing prices might lead to lower housing construction 
+and to lower spending by consumers, the Fed (the short name for the U.S. central bank, 
+formally known as the Federal Reserve Board) could lower interest rates to stimulate 
+demand and avoid a recession. Pessimists believed that the decrease in interest rates 
+might not be enough to sustain demand, and that the United States may go through a 
+short recession.
+Even the pessimists turned out not to be pessimistic enough. As housing prices 
+continued to decline, it became clear that many of the mortgage loans that had 
+been given out during the earlier expansion were of poor quality. Many of the bor-
+rowers had taken too large a loan and were increasingly unable to make mortgage 
+payments. And, with declining housing prices, the value of their mortgage often 
+exceeded the price of the house, giving them an incentive to default. This was not 
+the worst of it: The banks that had issued the mortgages had often bundled and 
+packaged them together into new securities and then sold these securities to other 
+banks and investors. These  securities had often been repackaged into yet new se-
+curities, and so on. The result is that many banks, instead of holding the mortgages 
+themselves, held these securities, which were so complex that their value was 
+nearly impossible to assess.
+This complexity and opaqueness turned a housing price decline into a major 
+financial crisis, a development that very few economists had anticipated. Not know-
+ing the quality of the assets that other banks had on their balance sheets, banks 
+became very reluctant to lend to each other for fear that the bank to which they lent 
+might not be able to repay. Unable to borrow, and with assets of uncertain value, 
+many banks found themselves in trouble. On September 15, 2008, a major bank, 
+Lehman Brothers, went bankrupt. The effects were dramatic. Because the links be-
+tween Lehman and other banks were so opaque, many other banks looked appeared"
+1,3,155.75,520.9161987304688,339.7010192871094,530.06396484375,0,Table 1-1 World Output Growth since 2000
+1,4,209.97300720214844,542.1500244140625,510.6514587402344,562.6519775390625,0,"Percent
+2000–2007 
+(average)
+2008
+2009
+2010
+2011*
+2012*"
+1,5,273.6050109863281,568.364013671875,504.0929870605469,576.364013671875,0,"World
+3.2
+1.5
+−2.3
+4.0
+3.0
+3.2"
+1,6,213.74900817871094,585.0759887695312,504.09295654296875,593.0759887695312,0,"Advanced economies
+2.6
+0.1
+−3.7
+3.0
+1.6
+1.9"
+1,7,153.62901306152344,601.2839965820312,504.0849609375,609.2839965820312,0,"Emerging and developing economies
+6.5
+6.0
+2.8
+7.3
+6.4
+6.0"
+1,8,153.625,617.2460327148438,486.3841247558594,633.248046875,0,"Output growth: Annual rate of growth of gross domestic product (GDP). *The numbers for 2011 and 2012 are  
+forecasts, as of the fall of 2011."
+1,9,153.625,639.3030395507812,338.6769714355469,646.3030395507812,0,"Source: World Economic Outlook database, September 2011"
+1,10,29.5,336.3133544921875,139.76719665527344,394.3133544921875,0,"“Banks” here actually means 
+“banks and other financial in-
+stitutions.” But this is too long 
+to write and we do not want to 
+go into these complications in 
+Chapter 1."
+1,11,139.95948791503906,354.8299865722656,147.0399932861328,363.3299865722656,0,
+2,0,47.5,669.7590942382812,532.2960205078125,678.9068603515625,0,"Chapter 1 
+A Tour of the World 
+5"
+2,1,47.49699401855469,281.04486083984375,415.9200439453125,651.0448608398438,0,"at risk of going bankrupt as well. For a few weeks, it looked as if the whole financial 
+system might collapse.
+This financial crisis quickly turned into a major economic crisis. Stock prices col-
+lapsed. Figure 1-1 plots the evolution of three stock price indexes, for the United States, 
+for the Euro area, and for emerging economies, from the beginning of 2007 on. The 
+ indexes are set equal to 1 in January 2007. Note how, by the end of 2008, stock prices 
+had lost half or more of their value from their previous peak. Note also that, despite the 
+fact that the crisis originated in the United States, European and emerging market stock 
+prices decreased by as much as their U.S. counterparts; we shall return to this later.
+Hit by the decrease in housing prices and the collapse in stock prices, and wor-
+ried that this might be the beginning of another Great Depression, people sharply 
+cut their consumption. Worried about sales and uncertain about the future, firms 
+sharply cut back investment. With housing prices dropping and many vacant homes 
+on the market, very few new homes were built. Despite strong actions by the Fed, 
+which cut interest rates all the way down to zero, and by the U.S. government, which 
+cut taxes and increased spending, demand decreased, and so did output. In  the third 
+quarter of 2008, U.S. output growth turned negative and remained so in 2009.
+One might have hoped that the crisis would remain largely contained in the 
+United States. As Table 1-1 and Figure 1-1 both show, this was not the case. The U.S. 
+crisis quickly became a world crisis. Other countries were affected through two chan-
+nels. The first channel was trade. As U.S. consumers and firms cut spending, part of the 
+decrease fell on imports of foreign goods. Looking at it from the viewpoint of countries 
+exporting to the United States, their exports went down, and so, in turn, did their out-
+put. The second channel was financial. U.S. banks, badly needing funds in the United 
+States, repatriated funds from other countries, creating problems for banks in those 
+countries as well. The result was not just a U.S. but a world recession. By 2009, average 
+growth in advanced economies was -3.7%, by far the lowest annual growth rate since 
+the Great Depression. Growth in emerging and developing economies remained posi-
+tive but was nearly 4 percentage points lower than the 2000–2007 average.
+Since then, thanks to strong monetary and fiscal policies and to the slow repair of the 
+financial system, most economies have turned around. As you can see from Table 1-1,"
+2,2,425.5,28.734973907470703,482.1390075683594,39.7349739074707,0,Figure 1-1
+2,3,425.5,47.3349723815918,528.3970336914062,89.32893371582031,0,"Stock prices in the United 
+States, the Euro area, 
+and emerging economies, 
+2007–2010"
+2,4,425.5,102.93497467041016,533.93701171875,136.94100952148438,0,"Source: Haver Analytics USA 
+(S111ACD), Eurogroup (S023ACD), 
+all emerging markets (S200ACD), 
+all monthly averages)"
+2,5,59.30099868774414,220.80099487304688,70.4209976196289,228.80099487304688,0,0.0
+2,6,59.30099868774414,196.7449951171875,70.4209976196289,204.7449951171875,0,0.2
+2,7,59.30099868774414,172.68096923828125,70.4209976196289,180.68096923828125,0,0.4
+2,8,59.30099868774414,148.616943359375,70.4209976196289,156.616943359375,0,0.6
+2,9,59.30099868774414,124.5609130859375,70.4209976196289,132.5609130859375,0,0.8
+2,10,59.30099868774414,100.49688720703125,70.4209976196289,108.49688720703125,0,1.0
+2,11,59.30099868774414,76.44091796875,70.4209976196289,84.44091796875,0,1.2
+2,12,59.30099868774414,52.37689208984375,70.4209976196289,60.37689208984375,0,1.4
+2,13,59.30179977416992,28.3209228515625,70.42179870605469,36.3209228515625,0,1.6
+2,14,340.9259948730469,102.77066040039062,398.4360046386719,111.77066040039062,0,United States
+2,15,329.8559875488281,168.59664916992188,371.37298583984375,177.59664916992188,0,Euro area
+2,16,202.86599731445312,62.243621826171875,293.8919982910156,71.24362182617188,0,Emerging economies
+2,17,54.894195556640625,230.33396911621094,82.56726837158203,258.0069885253906,0,2007–01
+2,18,90.8714370727539,230.33396911621094,118.54450988769531,258.0069885253906,0,2007–06
+2,19,139.83670043945312,230.33396911621094,167.5098114013672,258.0069885253906,0,2008–01
+2,20,175.27655029296875,230.3283233642578,202.9496612548828,258.0013427734375,0,2008–06
+2,21,223.96009826660156,230.3283233642578,251.63320922851562,258.0013427734375,0,2009–01
+2,22,259.82421875,230.3283233642578,287.4972229003906,258.0013427734375,0,2009–06
+2,23,308.92523193359375,230.3283233642578,336.5982360839844,258.0013427734375,0,2010–01
+2,24,344.37017822265625,230.32887268066406,372.0431823730469,258.00189208984375,0,2010–06
+2,25,379.3857727050781,230.32887268066406,407.05877685546875,258.00189208984375,0,2010–11
+2,26,47.703643798828125,62.809139251708984,55.703643798828125,196.64910888671875,0,"Index,  equal to 1.0 in January 2007"
+2,27,425.5,393.3133544921875,535.7400512695312,441.3133544921875,0,"The Great Depression saw 
+four years of negative output 
+growth from 1929 to 1932. The 
+unemployment rate peaked at 
+24.9%."
+2,28,416.0039978027344,414.3810119628906,425.2103576660156,422.8810119628906,0,
+3,0,29.5,669.9068603515625,251.3920135498047,678.9068603515625,0,"6 
+Introduction 
+The Core"
+3,1,149.49998474121094,246.99488830566406,517.8248901367188,556.994873046875,0,"growth in both advanced countries and in emerging and developing economies turned 
+positive in 2010, and the forecasts are for positive but low growth for 2011 and 2012.
+Emerging and developing economies have largely recovered. Their exports have 
+increased and foreign funds have returned. Indeed, some of these countries are start-
+ing to see increasing inflation, which is an indication that they may be overheating.
+In advanced countries, however, many problems remain. As shown in Figure 1-2, 
+both in the United States and the Euro area, unemployment increased a lot in the 
+crisis and remains very high. The increase in the unemployment rate in the United 
+States is particularly striking, increasing from 4.6% in 2007 to 9.6% in 2010, with fore-
+casts implying only a slow decrease in 2011 and 2012. What is behind this persistently 
+high unemployment is low output growth, and behind this low growth are many fac-
+tors: Housing prices are still declining, and housing investment remains very low. 
+Banks are still not in great shape, and bank lending is still tight. Consumers who have 
+seen the value of their housing and their financial wealth fall are cutting consump-
+tion. And the crisis has led to serious fiscal problems. As output declined during the 
+crisis, so did government revenues, leading to a large increase in budget deficits. 
+Deficits have led in turn to a large increase in public debt over time. Countries must 
+now reduce their deficits, and this is proving difficult. There are serious worries that, 
+in some European countries, governments may not be able to adjust and may default 
+on their debt. This, in turn, makes economists and policy makers worry that we may 
+see yet another financial and economic crisis in the near future.
+In short, while the worst of the crisis is probably over, it has left many problems 
+in its wake, which will keep macroeconomists and policy makers busy for many years 
+to come. We shall return to these issues in more detail at many points in the book. In 
+the rest of the chapter, we take a closer look at the three main economic powers of the 
+world: the United States, the Euro area, and China."
+3,2,149.5,579.0917358398438,322.8320007324219,596.260986328125,0,1-2 The United States
+3,3,149.5,606.3948364257812,517.7450561523438,652.3948364257812,0,"When economists first look at a country, the first two questions they ask are: How 
+big is the country, from an economic point of view? And what is its standard of 
+living? To answer the first, they look at output—the level of production of the 
+country as a whole. To answer the second, they look at output per person. The"
+3,4,29.5,28.734973907470703,86.13899993896484,39.7349739074707,0,Figure 1-2
+3,5,29.5,47.3349723815918,138.70599365234375,78.33094787597656,0,"Unemployment rates in the 
+United States and the Euro 
+area, 2000–2012"
+3,6,29.49999237060547,91.93497467041016,131.6859893798828,107.9369888305664,0,"Source: World Economic Outlook 
+database, September 2011"
+3,7,166.156005859375,194.68899536132812,170.60400390625,202.68899536132812,0,0
+3,8,170.84019470214844,205.1475067138672,189.07774353027344,223.385009765625,0,2000
+3,9,197.12168884277344,205.1475067138672,215.35923767089844,223.385009765625,0,2001
+3,10,223.39752197265625,205.14186096191406,241.63507080078125,223.37936401367188,0,2002
+3,11,249.67901611328125,205.14186096191406,267.91650390625,223.37936401367188,0,2003
+3,12,275.96051025390625,205.14186096191406,294.197998046875,223.37936401367188,0,2004
+3,13,302.24200439453125,205.14186096191406,320.4794921875,223.37936401367188,0,2005
+3,14,328.52349853515625,205.14186096191406,346.760986328125,223.37936401367188,0,2006
+3,15,354.80499267578125,205.14186096191406,373.04248046875,223.37936401367188,0,2007
+3,16,381.08648681640625,205.14186096191406,399.323974609375,223.37936401367188,0,2008
+3,17,407.36798095703125,205.14186096191406,425.60546875,223.37936401367188,0,2009
+3,18,433.64947509765625,205.14186096191406,451.886962890625,223.37936401367188,0,2010
+3,19,459.93096923828125,205.14186096191406,478.16845703125,223.37936401367188,0,2011
+3,20,486.21246337890625,205.14186096191406,504.449951171875,223.37936401367188,0,2012
+3,21,166.156005859375,166.96002197265625,170.60400390625,174.96002197265625,0,2
+3,22,166.156005859375,139.23199462890625,170.60400390625,147.23199462890625,0,4
+3,23,166.156005859375,111.50396728515625,170.60400390625,119.50396728515625,0,6
+3,24,166.156005859375,83.77593994140625,170.60400390625,91.77593994140625,0,8
+3,25,161.7080078125,56.04791259765625,170.60400390625,64.04791259765625,0,10
+3,26,161.7080078125,28.32073974609375,170.60400390625,36.32073974609375,0,12
+3,27,359.85198974609375,151.33853149414062,417.36199951171875,160.33853149414062,0,United States
+3,28,329.53997802734375,54.741546630859375,371.0569763183594,63.741546630859375,0,Euro area
+3,29,150.04803466796875,102.86212158203125,158.04803466796875,132.20611572265625,0,Percent
+4,0,47.5,669.7590942382812,532.2960205078125,678.9068603515625,0,"Chapter 1 
+A Tour of the World 
+7"
+4,1,47.5,317.494873046875,415.6029968261719,411.494873046875,0,"answers, for the United States, are given in Figure 1-3: The United States is very 
+large, with an output of $14.7 trillion in 2010, accounting for 23% of world output. 
+This makes it the largest country in the world, in economic terms. And the stand-
+ard of living in the United States is very high: Output per person is $47,300. It is 
+not the country with the highest output per person in the world, but it is close to 
+the top.
+When economists want to dig deeper and look at the state of health of the country, 
+they look at three basic variables:"
+4,2,47.5,419.494873046875,415.5330810546875,477.494873046875,0,"■ 
+Output growth—the rate of change of output
+■ 
+The unemployment rate—the proportion of workers in the economy who are not 
+employed and are looking for a job
+■ 
+The inflation rate—the rate at which the average price of the goods in the economy 
+is increasing over time"
+4,3,47.50001525878906,485.494873046875,415.83612060546875,651.494873046875,0,"Numbers for the three variables for the U.S. economy are given in Table 1-2. To put 
+current numbers in perspective, the first column gives the average value of the rate 
+of growth of output, the unemployment rate, and the inflation rate in the United 
+States for the period 1980 to 1999. The next columns look at the more recent years, 
+giving you first average numbers for the period 2000 to 2007, and then numbers for 
+each year from 2008 to 2012. The numbers for 2011 and 2012 are forecasts as of the 
+fall of 2011.
+By looking at the first two columns, you can see why, in 2007, just before the cri-
+sis, economists felt good about the U.S. economy. The rate of growth of the economy 
+since 2000 was 2.6%, admittedly a bit lower than the previous 20-year average, but 
+still fairly high for an advanced country. Importantly, the average unemployment 
+rate since 2000 was 5.0%, substantially lower than in the previous 20 years. And infla-
+tion was low, 2.8% on average since 2000, again substantially lower than it had been 
+in the past."
+4,4,425.5,28.734973907470703,482.1390075683594,39.7349739074707,0,Figure 1-3
+4,5,425.5,47.3349723815918,494.9908142089844,56.3349723815918,0,The United States
+4,6,262.2590026855469,108.79055786132812,361.67303466796875,156.03118896484375,0,"The United States, 2010
+Output: $14.7 trillion
+Population: 308.7 million
+Output per person: $47,300
+Share of world output: 23%"
+4,7,425.5,358.7133483886719,535.7449340820312,466.7133483886719,0,"Can you guess some of 
+the countries with a higher 
+ standard of living than the 
+United States? Hint: Think 
+of oil producers and financial 
+centers. For the answers, go 
+to www.imf.org/external/pubs/
+ft/weo/2011/01/weodata/weo-
+selgr.aspx and look for “Gross 
+Domestic Product per capita, in 
+current prices.”"
+4,8,415.9150085449219,378.3810119628906,425.1213684082031,386.8810119628906,0,
+5,0,29.5,669.9068603515625,251.3920135498047,678.9068603515625,0,"8 
+Introduction 
+The Core"
+5,1,149.5,173.66590881347656,517.9130249023438,279.6658935546875,0,"Then the crisis came, and you can see it in the numbers from 2008 onward. Output 
+did not grow in 2008 and declined by 3.5% in 2009. Unemployment increased dramati-
+cally, to nearly 10%. Inflation declined, being slightly negative in 2009 and then staying 
+positive but low since then. The economy rebounded in 2010, with growth of 3%. Since 
+then, however, growth has decreased again, becoming so weak that unemployment is 
+forecast to remain high for a long time to come. Inflation is forecast to remain low.
+Apart from high unemployment, perhaps the most serious macroeconomic prob-
+lem facing the United States is its very large budget deficit. We now turn to it, and to 
+some of its implications."
+5,2,149.5,290.5185241699219,452.1921081542969,303.5185241699219,0,Should You Worry about the United States Deficit?
+5,3,149.5,311.6658630371094,517.5530395507812,369.6658630371094,0,"Figure 1-4 shows the evolution of the U.S. federal budget surplus (a negative value 
+represents a deficit) since 1990. You can see that after an increase in deficits due 
+to the 1990–1991 recession, the rest of the decade was associated with a steady 
+improvement and by 1998, the budget had actually gone from deficit to surplus. The 
+main reasons for the steady improvement were twofold. First, strong output growth"
+5,4,155.8699951171875,34.98664855957031,499.9682312011719,44.2821159362793,0,"Table 1-2 Growth, Unemployment, and Inflation in the United States, 1980–2012"
+5,5,184.41900634765625,56.5689697265625,511.34716796875,77.07098388671875,0,"Percent
+1980–1999 
+(average)
+2000–2007 
+(average)
+2008
+2009
+2010
+2011
+2012"
+5,6,172.09800720214844,82.86297607421875,506.96197509765625,90.86297607421875,0,"Output growth rate
+3.0
+2.6
+0.0
+−3.5
+3.0
+1.5
+1.8"
+5,7,169.47401428222656,99.574951171875,506.969970703125,107.574951171875,0,"Unemployment rate
+6.5
+5.0
+5.8
+9.3
+9.6
+9.1
+9.0"
+5,8,196.45001220703125,116.28692626953125,506.97796630859375,124.28692626953125,0,"Inflation rate
+4.2
+2.8
+3.8
+−0.3
+1.7
+2.9
+1.2"
+5,9,153.625,132.18411254882812,502.9740905761719,148.18612670898438,0,"Output growth rate: annual rate of growth of output (GDP). Unemployment rate: average over the year. Inflation rate: 
+annual rate of change of the price level (GDP deflator)."
+5,10,153.625,154.18515014648438,338.6769714355469,161.18515014648438,0,"Source: World Economic Outlook database, September 2011"
+5,11,29.5,384.5350036621094,86.13899993896484,395.5350036621094,0,Figure 1-4
+5,12,29.5,403.1349792480469,128.089599609375,434.1309509277344,0,"U.S. Federal Budget 
+surpluses as a percent of 
+GDP since 1990"
+5,13,29.499998092651367,447.7349853515625,121.58499908447266,481.7409973144531,0,"Source: Table B-79 Economic 
+ Report of the President 2010. 
+Values for 2011 and 2012 are 
+estimates."
+5,14,162.19900512695312,629.7789916992188,175.09500122070312,639.3789672851562,0,–12
+5,15,162.19900512695312,599.010986328125,175.09500122070312,608.6109619140625,0,–10
+5,16,166.64500427246094,568.2490234375,175.09300231933594,577.8489990234375,0,–8
+5,17,166.64500427246094,537.4830322265625,175.09300231933594,547.0830078125,0,–6
+5,18,166.64500427246094,506.719970703125,175.09300231933594,516.3199462890625,0,–4
+5,19,166.64500427246094,475.95501708984375,175.09300231933594,485.5550231933594,0,–2
+5,20,170.64500427246094,445.19000244140625,175.09300231933594,453.19000244140625,0,0
+5,21,170.64500427246094,414.427001953125,175.09300231933594,422.427001953125,0,2
+5,22,170.64500427246094,383.6609802246094,175.09300231933594,391.6609802246094,0,4
+5,23,169.18299865722656,639.3809814453125,515.5,647.3809814453125,0,"1990
+1992
+1994
+1996
+1998
+2000
+2002
+2004
+2006
+2008
+2010"
+5,24,149.7400360107422,497.052001953125,157.7400360107422,526.39599609375,0,Percent
+6,0,47.5,669.7590942382812,532.2960205078125,678.9068603515625,0,"Chapter 1 
+A Tour of the World 
+9"
+6,1,47.5,29.495010375976562,415.8098449707031,351.4949951171875,0,"for most of the decade led to strong growth of government revenues. Second, rules 
+were devised and implemented to contain government spending, from the use of 
+spending caps on some categories of spending to the requirement that any new 
+spending program be associated with an equal increase in revenues. Once budget 
+surpluses appeared, however, Congress became increasingly willing to break its 
+own rules and allow for more spending. At the same time, the Bush administra-
+tion convinced Congress to cut taxes, with the stated intent of spurring growth. The 
+result was a return to budget deficits. On the eve of the crisis, in 2007, the deficit 
+was equal to 1.7% of GDP, not very large but still a deficit. The crisis had a dramatic 
+effect on the deficit, which increased to 9% of GDP in 2010 and appears likely to be 
+even higher in 2011. The factors behind the increase are straightforward. Lower 
+output has led to lower government revenues. Federal revenues, which were equal 
+to 18.9% of GDP in 2007, had declined to 16.2% of GDP in 2010. Federal spending, 
+which was equal to 20.6% in 2007, had increased to 25.3% in 2010. This reflects not 
+only an increase in transfers, such as higher unemployment benefits, but a more 
+general increase in spending across the board as the government tried to counter-
+act the decrease in private demand through an increase in public spending.
+You may conclude that, as output recovers further and unemployment de-
+creases, revenues will increase and some of the spending will be phased out. This is 
+indeed likely to be the case, and forecasts are for a reduction in the deficit to around 
+5% by the middle of the decade. A 5% deficit, however, is still too a large number 
+and creates a steadily increasing debt. Budget forecasts for the more distant future 
+are even gloomier. The U.S. population is getting older, and Social Security benefits 
+will increase substantially in the future. And, even more importantly, health expen-
+ditures are growing very fast and, with them, spending in government programs 
+such as Medicare and Medicaid. So there is wide agreement that the budget deficit 
+must be reduced further. But there is disagreement as to both when and how."
+6,2,47.5,359.494873046875,415.77191162109375,549.494873046875,0,"■ 
+Some economists argue that deficit reduction should start now and proceed rapidly. 
+They argue that the credibility of the U.S. government is at stake, and that only a strong 
+reduction will convince people that the government will do what is needed to stabi-
+lize the debt. Other economists argue, however, that too fast a reduction in the deficit 
+would be dangerous. A reduction in the deficit can be achieved by a combination of 
+an increase in taxes and a decrease in spending. Either one, they argue, will decrease 
+demand and slow down growth at a time when unemployment is still very high. Their 
+recommendation is thus to reduce the deficit, but to do it slowly and steadily.
+■ 
+Even if there is agreement on the need for deficit reduction, there is much less 
+agreement on how it should be achieved. The disagreement is along political lines. 
+Republicans believe that it should be done primarily through decreases in spend-
+ing. They suggest the elimination of a number of government programs and caps 
+on such programs as Medicare. Democrats believe that most existing programs are 
+justified, and they are more inclined to want to do the adjustment through an in-
+crease in taxes. The worry, at this juncture, is that these positions are hard to rec-
+oncile, and that, as a result, large deficits may continue for a long time to come."
+6,3,47.5,578.5917358398438,191.86399841308594,595.760986328125,0,1-3 The Euro Area
+6,4,47.5,605.8948364257812,415.55999755859375,651.8948364257812,0,"In 1957, six European countries decided to form a common European market—an eco-
+nomic zone where people and goods could move freely. Since then, 21 more countries 
+have joined, bringing the total to 27. This group is now known as the European Union, 
+or EU for short."
+6,5,416.0039978027344,613.3133544921875,535.8910522460938,651.447998046875,0,"Until a few years ago, the  official 
+name was the European Com-
+munity, or EC. You may still en-
+counter that name.
+"
+7,0,29.5,669.9068603515625,251.3880157470703,678.9068603515625,0,"10 
+Introduction 
+The Core"
+7,1,149.5,29.495010375976562,517.9050903320312,363.4949951171875,0,"In 1999, the European Union decided to go one step further and started the proc-
+ess of replacing national currencies with one common currency, called the Euro. 
+Only eleven countries participated at the start; since then, six more have joined. 
+Some countries, in particular the United Kingdom, have decided not to join, at least 
+for the time being. The official name for the group of member countries is the Euro 
+area. The transition took place in steps. On January 1, 1999, each of the 11 coun-
+tries fixed the value of its currency to the Euro. For example, 1 Euro was set equal to 
+6.56 French francs, to 166 Spanish pesetas, and so on. From 1999 to 2002, prices were 
+quoted both in national currency units and in Euros, but the Euro was not yet used as 
+currency. This happened in 2002, when Euro notes and coins replaced national cur-
+rencies. Seventeen countries now belong to this common currency area.
+As you can see from Figure 1-5, the Euro area is a strong economic power. 
+Its output is nearly equal to that of the United States, and its standard of living is 
+not far behind. (The European Union as a whole has an output that exceeds that 
+of  the United States.) As the numbers in Table 1-3 show, however, it is not doing 
+very well.
+Look at the first two columns of Table 1-3. Even during the pre-crisis period, from 
+2000 to 2007, the Euro area was not doing very well compared to the United States. Out-
+put growth was lower than in the United States over the same period. Unemployment 
+was substantially higher than in the United States. Admittedly, inflation was lower than 
+in the United States and fell over the decade after 2000. The overall picture was of a 
+slowly growing economy with high unemployment. Not surprisingly, the crisis made 
+things worse. Growth was negative in 2009, and while it has turned positive, the fore-
+casts for 2011 and 2012 are of very low growth. Unemployment has increased to 10% 
+and, because of low growth, is forecast to decrease only slowly. The Euro area faces 
+two main issues today. First (and this is a problem it shares with the rest of Europe) 
+is how to reduce unemployment. Second is how to function efficiently as a common 
+ currency area. We consider these two issues in turn."
+7,2,149.5,378.3475341796875,445.45806884765625,391.3475341796875,0,How Can European Unemployment Be Reduced?
+7,3,149.5,399.494873046875,517.7640380859375,517.494873046875,0,"The increase in European unemployment since 2007 is primarily due to the crisis, and 
+it is reasonable to expect that the unemployment rate will eventually return to its pre-
+crisis level. But this pre-crisis level was already high, 8.5% for the Euro area over the 
+period 2000–2007. Why is this? Despite a large amount of research, there is still no full 
+agreement on the answers.
+Some politicians blame macroeconomic policy. They argue that the monetary 
+policy followed by the European Central Bank has kept interest rates too high, lead-
+ing to low demand and high unemployment. According to them, the central bank 
+should decrease interest rates and allow for an increase in demand, and unemploy-
+ment would decrease."
+7,4,155.75,542.0692138671875,478.61602783203125,551.2169799804688,0,"Table 1-3   Growth, Unemployment, and Inflation in the Euro Area, 1980–2012"
+7,5,181.22300720214844,563.302978515625,511.1252746582031,583.8049926757812,0,"Percent
+1980–1999 
+(average)
+2000–2007 
+(average)
+2008
+2009
+2010
+2011
+2012"
+7,6,156.625,589.5169677734375,507.51287841796875,597.5169677734375,0,"Output growth rate
+2.2
+2.2
+0.4
+−4.2
+1.8
+1.6
+1.1"
+7,7,153.61700439453125,606.22900390625,507.50494384765625,614.22900390625,0,"Unemployment rate
+9.6
+8.5
+7.6
+9.5
+10.1
+9.9
+9.9"
+7,8,180.6090087890625,622.43701171875,507.4969482421875,630.43701171875,0,"Inflation rate
+5.2
+2.3
+3.2
+0.3
+1.6
+2.5
+1.5"
+7,9,153.625,639.3389892578125,338.6769714355469,646.3389892578125,0,"Source: World Economic Outlook database, September 2011"
+7,10,29.5,202.41323852539062,139.77200317382812,270.4132385253906,0,"The Euro area has existed only 
+since 1999 and membership 
+has increased; numbers for 
+1980 to 1999 are constructed 
+by adding national numbers 
+for each of the 17 current 
+member countries."
+7,11,138.83448791503906,221.04200744628906,148.0399932861328,229.54200744628906,0,
+7,12,29.5,70.2133560180664,139.76400756835938,128.21334838867188,0,"The area also goes by the 
+names of “Euro zone” or 
+ “Euroland.” The first sounds 
+too technocratic, and the 
+ second reminds one of Dis-
+neyland. We shall avoid them."
+7,13,137.83448791503906,89.17402648925781,147.0399932861328,97.67402648925781,0,
+8,0,47.5,669.7590942382812,532.2960815429688,678.9068603515625,0,"Chapter 1 
+A Tour of the World 
+11"
+8,1,59.167999267578125,592.0349731445312,115.80699920654297,603.0349731445312,0,Figure 1-5
+8,2,59.167999267578125,610.6349487304688,115.66819763183594,619.6349487304688,0,The Euro area
+8,3,83.50399780273438,50.6789665222168,112.50199890136719,59.6789665222168,0,EU17:
+8,4,83.50399780273438,132.92098999023438,117.09829711914062,171.0711669921875,0,"France
+Germany
+Italy
+Spain"
+8,5,153.04794311523438,132.92105102539062,164.37644958496094,171.07122802734375,0,"2.5
+3.3
+2.0
+1.4"
+8,6,197.50537109375,132.92111206054688,213.3652801513672,171.0712890625,0,"62.0
+81.0
+60.0
+46.0"
+8,7,242.5993194580078,132.92117309570312,272.05340576171875,171.07135009765625,0,"$41,000
+$40,600
+$34,058
+$30,600"
+8,8,139.25732421875,100.77840423583984,277.2449951171875,128.92852783203125,0,"2010
+Output
+($ trillions)
+Population
+(millions)
+Output
+per Person"
+8,9,409.0459899902344,201.675537109375,440.8249816894531,210.675537109375,0,Finland
+8,10,277.82598876953125,370.4885559082031,316.5260009765625,379.4885559082031,0,Germany
+8,11,116.39299011230469,328.06256103515625,145.72396850585938,337.06256103515625,0,Ireland
+8,12,222.65599060058594,342.903564453125,258.1609802246094,351.903564453125,0,Belgium
+8,13,120.85699462890625,509.6195373535156,156.95596313476562,518.6195068359375,0,Portugal
+8,14,227.6689910888672,318.8465576171875,279.5449523925781,337.8455505371094,0,"The 
+Netherlands"
+8,15,133.12399291992188,396.966552734375,187.4029541015625,405.966552734375,0,Luxembourg
+8,16,311.7650146484375,419.8535461425781,342.3650207519531,428.8535461425781,0,Austria
+8,17,374.45001220703125,505.4615783691406,404.7890319824219,514.4615478515625,0,Greece
+8,18,288.0950012207031,444.4055480957031,305.9690246582031,453.4055480957031,0,Italy
+8,19,329.21600341796875,545.7454833984375,485.2669677734375,565.1495361328125,0,"Malta
+Cyprus"
+8,20,344.7139892578125,528.9965209960938,381.3710021972656,537.9965209960938,0,Slovenia
+8,21,353.1470031738281,403.99554443359375,389.30902099609375,412.99554443359375,0,Slovakia
+8,22,400.072998046875,270.4625549316406,432.4010009765625,279.4625549316406,0,Estonia
+8,23,222.7729949951172,427.7465515136719,251.60899353027344,436.7465515136719,0,France
+8,24,175.77499389648438,496.7495422363281,200.281982421875,505.7495422363281,0,Spain
+8,25,115.7979965209961,50.478546142578125,220.03172302246094,97.71929931640625,0,"Euro area, 2010
+Output:  $12.2 trillion
+Population: 331.3 million
+Output per person: $36,800
+Share of world output: 19.6%"
+9,0,29.5,669.9068603515625,251.3880157470703,678.9068603515625,0,"12 
+Introduction 
+The Core"
+9,1,149.49998474121094,29.495010375976562,517.822021484375,291.4949951171875,0,"Most economists believe, however, that the source of the problem is not macroeco-
+nomic policy, but labor market institutions. Too tight a monetary policy, they concede, 
+can indeed lead to high unemployment for some time, but surely not for 20 years. The 
+fact that unemployment has been so high for so long points to problems in the labor 
+market. The challenge is then to identify exactly what these problems are.
+Some economists believe the main problem is that European states protect workers 
+too much. To prevent workers from losing their jobs, they make it expensive for firms to lay 
+off workers. One of the unintended results of this policy is to deter firms from hiring work-
+ers in the first place, and this increases unemployment. To protect workers who  become 
+unemployed, European governments provide generous unemployment insurance. But, 
+by doing so, they decrease the incentives for the unemployed to look for jobs; this also 
+ increases unemployment. The solution, they argue, is to be less protective, to eliminate 
+these labor market rigidities, and to adopt U.S.-style labor-market institutions. This is what 
+the United Kingdom has largely done, and, until the crisis, its unemployment rate was low.
+Others are more skeptical. They point to the fact that, before the crisis, unemploy-
+ment was not high everywhere in Europe. It was low in a number of smaller countries—for 
+example, the Netherlands or Denmark, where the unemployment rate was under 4%. Yet 
+these countries are very different from the United States and provide generous social in-
+surance to workers. This suggests that the problem may lie not so much with the degree of 
+protection but with the way it is implemented. The challenge, these economists argue, is to 
+understand what the Netherlands or Denmark have done right. Resolving these questions 
+is one of the major tasks facing European macroeconomists and policy makers today."
+9,2,149.5,302.3475341796875,402.8440856933594,315.3475341796875,0,What Has the Euro Done for Its Members?
+9,3,149.5,323.494873046875,517.8109130859375,645.494873046875,0,"Supporters of the euro point first to its enormous symbolic importance. In light of the 
+many past wars among European countries, what better proof of the permanent end to 
+military conflict than the adoption of a common currency? They also point to the eco-
+nomic advantages of having a common currency: no more changes in the relative price 
+of currencies for European firms to worry about, no more need to change currencies 
+when crossing borders. Together with the removal of other obstacles to trade among 
+European countries, the euro contributes, they argue, to the creation of a large eco-
+nomic power in the world. There is little question that the move to the euro was indeed 
+one of the main economic events of the start of the twenty-first century.
+Others worry, however, that the symbolism of the euro may come with substantial 
+economic costs. They point out that a common currency means a common monetary 
+policy, which means the same interest rate across the euro countries. What if, they ar-
+gue, one country plunges into recession while another is in the middle of an economic 
+boom? The first country needs lower interest rates to increase spending and output; 
+the second country needs higher interest rates to slow down its economy. If interest 
+rates have to be the same in both countries, what will happen? Isn’t there the risk that 
+one country will remain in recession for a long time or that the other will not be able to 
+slow down its booming economy?
+Until recently, the debate was somewhat abstract. It no longer is. A number of euro 
+members, from Ireland, to Portugal, to Greece, are going through deep recessions. If 
+they had their own currency, they likely would have decreased their interest rate or de-
+preciated their currency vis à vis other euro members to increase the demand for their 
+exports. Because they share a currency with their neighbors, this is not possible. Thus, 
+some economists argue that they should drop out of the euro. Others argue that such 
+an exit would be both unwise, as it would give up on the other advantages of being in 
+the euro, and extremely disruptive, leading to even deeper problems for the country 
+that has exited. This issue is likely to remain a hot one for some time to come."
+10,0,47.5,669.7590942382812,532.2960815429688,678.9068603515625,0,"Chapter 1 
+A Tour of the World 
+13"
+10,1,47.5,28.049739837646484,128.57301330566406,45.218971252441406,0,1-4 China
+10,2,47.5,55.35285949707031,415.7989196777344,389.35284423828125,0,"China is in the news every day. It is increasingly seen as one of the major economic 
+powers in the world. Is the attention justified? A first look at the numbers in Figure 1-6 
+suggests it may not be. True, the population of China is enormous, more than four times 
+that of the United States. But its output, expressed in dollars by multiplying the number 
+in yuans (the Chinese currency) by the dollar–yuan exchange rate, is only 5.8 trillion 
+dollars, less than half that of the United States. Output per person is only $4,300, roughly 
+one-tenth of output per person in the United States.
+So why is so much attention paid to China? There are two reasons. To understand 
+the first, we need to go back to the number for output per person. When compar-
+ing output per person in a rich country like the United States and a relatively poor 
+country like China, one must be careful. The reason is that many goods are cheaper 
+in poor countries. For example, the price of an average restaurant meal in New York 
+City is about 20 dollars; the price of an average restaurant meal in Beijing is about 25 
+yuans, or, at the current exchange rate, about 4 dollars. Put another way, the same 
+income (expressed in dollars) buys you much more in Beijing than in New York City. 
+If we want to compare standards of living, we have to correct for these differences; 
+measures which do so are called PPP (for purchasing power parity) measures. Using 
+such a measure, output per person in China is estimated to be about $7,500, roughly 
+one-sixth of the output per person in the United States. This gives a more accurate 
+picture of the standard of living in China. It is obviously still much lower than that of 
+the United States or other rich countries. But it is higher than suggested by the num-
+bers in Figure 1-6.
+Second, and more importantly, China has been growing rapidly for more than 
+three decades. This is shown in Table 1-4, which gives output growth, unemployment, 
+and inflation for the periods 1980–1999, 2000–2007, and each of the years 2008 to 2012. 
+The numbers for 2011 and 2012 are forecasts as of the fall of 2011.
+Look at the first two columns of Table 1-4. The most impressive numbers are those 
+for output growth. Since 1980, China’s output has grown at roughly 10% a year. This"
+10,3,425.6669921875,288.8133544921875,535.9630737304688,356.8133544921875,0,"The issue is less important 
+when comparing two rich 
+countries. Thus, this was not 
+a major issue when compar-
+ing standards of living in the 
+United States and the euro 
+area earlier."
+10,4,425.6669921875,419.27301025390625,482.3059997558594,430.27301025390625,0,Figure 1-6
+10,5,183.92100524902344,437.87298583984375,450.5538024902344,485.7601318359375,0,"China
+China, 2010
+Output: $5.8 trillion
+Population: 1,340 million
+Output per person: $4,300
+Share of world output: 9.3%"
+10,6,416.0039978027344,308.1340026855469,423.0845031738281,316.6340026855469,0,
+11,0,29.5,669.9068603515625,251.3880157470703,678.9068603515625,0,"14 
+Introduction 
+The Core"
+11,1,149.49996948242188,172.74501037597656,517.8159790039062,434.7449951171875,0,"represents a doubling of output every seven years. Compare this number to the num-
+bers for the United States and for Europe we saw earlier, and you understand why the 
+importance of the emerging economies in the world economy, China being the main 
+one, is increasing so rapidly. Turn to unemployment. Numbers for unemployment are 
+typically less reliable in poorer countries, so you should take those numbers with a 
+grain of salt: Many workers stay in the countryside rather than being unemployed in 
+the cities. Nevertheless, the numbers suggest consistently low unemployment. And in-
+flation, which was high before 2000, is now relatively low.
+Another striking aspect of Table 1-4 is how difficult it is to see the effects of the cri-
+sis in the data. Growth has barely decreased, and unemployment has barely increased 
+since 2007. The reason is not that China is closed to the rest of the world. Chinese exports 
+slowed during the crisis. But the adverse effect on demand was nearly fully offset by a 
+major fiscal expansion by the Chinese government, with, in particular, a major increase 
+in public investment. The result was sustained growth of demand and, in turn, of output.
+This sustained growth performance raises obvious questions. The first is whether 
+the numbers are for real. Could it be that growth has been overstated? After all, China 
+is still officially a communist country, and government officials may have incentives to 
+overstate the economic performance of their sector or their province. Economists who 
+have looked at this carefully conclude that this is probably not the case. The statistics 
+are not as reliable as they are in richer countries, but there is no obvious bias. Output 
+growth is indeed very high in China.
+So where does the growth come from? It clearly comes from two sources:"
+11,2,149.5,442.744873046875,517.7542114257812,572.744873046875,0,"■ 
+The first is high accumulation of capital. The investment rate (the ratio of invest-
+ment to output) in China exceeds 40% of output, a high number. For comparison, 
+the investment rate in the United States is only 17%. More capital means higher 
+productivity and higher output.
+■ 
+The second is rapid technological progress. One of the strategies followed by the 
+Chinese government has been to encourage foreign firms to relocate and produce 
+in China. As foreign firms are typically much more productive than Chinese firms, 
+this has increased productivity and output. Another aspect of the strategy has been 
+to encourage joint ventures between foreign and Chinese firms. By making Chi-
+nese firms work with and learn from foreign firms, the productivity of the Chinese 
+firms has increased dramatically."
+11,3,149.49996948242188,580.744873046875,517.7662353515625,650.744873046875,0,"When described in this way, achieving high productivity and high output growth 
+appears easy, a recipe that every poor country could and should follow. In fact, things 
+are less obvious. China is one of a number of countries that made the transition from 
+central planning to a market economy. Most of the other countries, from Central Europe 
+to Russia and the other former Soviet republics, experienced a large decrease in output 
+at the time of transition. Most still have growth rates far below that of China. In many"
+11,4,155.75,34.88433837890625,374.386962890625,44.0321159362793,0,"Table 1-4 Growth and Inflation in China, 1980–2012"
+11,5,181.2050018310547,56.11798095703125,510.6992492675781,76.6199951171875,0,"Percent
+1980–1999 
+(average)
+2000–2007 
+(average)
+2008
+2009
+2010
+2011
+2012"
+11,6,161.6699981689453,82.33197021484375,507.6539306640625,90.33197021484375,0,"Output growth rate
+9.8
+10.5
+9.6
+9.2
+10.3
+9.5
+9.0"
+11,7,159.02999877929688,99.0439453125,507.64593505859375,107.0439453125,0,"Unemployment rate
+2.7
+3.9
+4.2
+4.3
+4.1
+4.0
+4.0"
+11,8,185.989990234375,115.251953125,507.637939453125,123.251953125,0,"Inflation rate
+8.1
+1.6
+5.9
+−0.6
+3.3
+5.5
+3.3"
+11,9,153.625,132.15310668945312,507.76922607421875,148.15512084960938,0,"Output growth rate: annual rate of growth of output (GDP). Inflation rate: annual rate of change of the price level (GDP 
+deflator)."
+11,10,153.625,154.15414428710938,338.6769714355469,161.15414428710938,0,"Source: World Economic Outlook database, September 2011"
+12,0,47.5,669.7590942382812,532.2960815429688,678.9068603515625,0,"Chapter 1 
+A Tour of the World 
+15"
+12,1,47.5,29.495010375976562,415.6500549316406,135.49501037597656,0,"countries, widespread corruption and poor property rights make firms unwilling to in-
+vest. So why has China fared so much better? Some economists believe that this is the 
+result of a slower transition: The first Chinese reforms took place in agriculture as early 
+as 1980, and even today, many firms remain owned by the state. Others argue that the 
+fact that the communist party has remained in control has actually helped the economic 
+transition; tight political control has allowed for a better protection of property rights, at 
+least for new firms, giving them incentives to invest. Getting the answers to these ques-
+tions, and thus learning what other poor countries can take from the Chinese experi-
+ence, can clearly make a huge difference, not only for China but for the rest of the world."
+12,2,47.5,157.591796875,198.80001831054688,174.76101684570312,0,1-5 Looking Ahead
+12,3,47.5,184.89491271972656,415.2710876464844,206.89491271972656,0,"This concludes our world tour. There are many other regions of the world we could 
+have looked at:"
+12,4,47.5,214.89488220214844,415.7870178222656,440.8948669433594,0,"■ 
+India, another poor and large country, with a population of 1,200 million people, 
+which, like China, is now growing very fast. In 2010, India’s output growth rate 
+was 10%.
+■ 
+Japan, whose growth performance for the 40 years following World War II was so 
+impressive that it was referred to as an economic miracle, but has done very poorly 
+in the last two decades. Since a stock market crash in the early 1990s, Japan has 
+been in a prolonged slump, with average output growth under 1% per year.
+■ 
+Latin America, which went from very high inflation to low inflation in the 1990s. 
+Many countries, such as Chile and Brazil, appear to be in good economic shape 
+and have done relatively well in the crisis. Argentina, which went through a col-
+lapse of its exchange rate and a major banking crisis in the early 2000s, has now 
+largely recovered and is also growing rapidly.
+■ 
+Central and Eastern Europe, which shifted from central planning to a market sys-
+tem in the early 1990s. In most countries, the shift was characterized by a sharp 
+decline in output at the start of transition. Some countries, such as Poland, now 
+have high growth rates; others, such as Bulgaria or Romania, are still struggling.
+■ 
+Africa, which has suffered decades of economic stagnation, but where, contrary to 
+common perceptions, growth has been high since 2000, averaging 5.5% per year 
+during the decade and reflecting growth in most of the countries of the continent."
+12,5,47.5,448.8948669433594,415.8919982910156,470.8948669433594,0,"There is a limit to how much you can absorb in this first chapter. Think about the 
+questions to which you have been exposed:"
+12,6,47.5,478.8948669433594,415.822021484375,608.8948364257812,0,"■ 
+The big issues triggered by the crisis: What caused the crisis? Why did it transmit 
+so fast from the United States to the rest of the world? In retrospect, what could 
+and should have been done to prevent it? Were the monetary and fiscal responses 
+appropriate? Why is the recovery so slow in advanced countries? How was China 
+able to maintain high growth?
+■ 
+Can monetary and fiscal policies be used to avoid recessions? At what rate should 
+the United States reduce its budget deficit? What are the pros and cons of joining 
+a common currency area such as the euro area? What measures could be taken in 
+Europe to reduce persistently high unemployment?
+■ 
+Why do growth rates differ so much across countries, even over long periods of 
+time? Can other countries emulate China and grow at the same rate?"
+12,7,47.5,616.8948364257812,415.6321716308594,650.8948364257812,0,"The purpose of this book is to give you a way of thinking about these questions. 
+As we develop the tools you need, we shall show you how to use them by returning to 
+these questions and showing you the answers the tools suggest."
+13,0,29.499900817871094,28.247127532958984,96.93790435791016,42.247127532958984,0,Key Terms
+13,1,29.5,54.11246871948242,379.79339599609375,74.11045837402344,0,"European Union (EU), 9
+euro area, 10
+common currency area, 10"
+13,2,29.5,85.733154296875,188.49801635742188,99.73314666748047,0,Questions and Problems
+13,3,29.499998092651367,110.16796875,269.96197509765625,363.4093017578125,0,"QUICK CHECK
+All Quick Check questions and problems are available 
+on MyEconLab.
+1. Using the information in this chapter, label each of the fol-
+lowing statements true, false, or uncertain. Explain briefly.
+ a. Output growth was negative in both advanced as well as 
+emerging and developing countries in 2009. 
+ b. Stock prices fell between 2007 and 2010 around the world. 
+ c. In the 1960s and early 1970s, the United States had a 
+higher rate of unemployment than Europe, but today it 
+has a much lower rate of unemployment.
+ d. China’s seemingly high growth rate is a myth, a product 
+solely of misleading official statistics.
+ e. The high rate of unemployment in Europe started when a 
+group of major European countries adopted a common 
+currency.
+ f. The Federal Reserve lowers interest rates when it wants to 
+avoid recession and raises interest rates when it wants to 
+slow the rate of growth in the economy.
+ g. Output per person is very different in the euro area, the 
+United States, and China. 
+ h. The United States federal government has never run a 
+budget surplus in the last two decades."
+13,4,29.499998092651367,368.4132995605469,269.4670104980469,465.397216796875,0,"2. Macroeconomic policy in Europe
+Beware of simplistic answers to complicated macroeco-
+nomic questions. Consider each of the following statements and 
+comment on whether there is another side to the story.
+ a. There is a simple solution to the problem of high European 
+unemployment: Reduce labor market rigidities.
+ b. What can be wrong about joining forces and adopt-
+ing a common currency? The euro is obviously good for 
+Europe."
+13,5,29.499998092651367,477.1207275390625,270.1149597167969,642.426513671875,0,"DIG DEEPER
+All Dig Deeper questions and problems are available 
+on MyEconLab.
+3. Chinese economic growth is the outstanding feature of the 
+world economic scene over the past two decades. 
+ a. In 2010, U.S. output was $14.7 trillion, and Chinese out-
+put was $5.8 trillion. Suppose that from now on, the out-
+put of China grows at an annual rate of 10.5% per year, 
+while the output of the United States grows at an annual 
+rate of 2.6% per year. These are the values in each coun-
+try for the period 2000–2007 as stated in the text. Using 
+these assumptions and a spreadsheet, calculate and 
+plot U.S. and Chinese output from 2010 over the next 
+100 years. How many years will it take for China to have 
+a total level of output equal to that of the United States?"
+13,6,277.5039978027344,112.55149841308594,517.5387573242188,220.5333709716797,0,"b. When China catches up with the United States in total 
+ output, will residents of China have the same standard of 
+living as U.S. residents? Explain.
+ c. Another word for standard of living is output per person. 
+How has China raised its output per person in the last 
+two decades? Are these methods applicable to the United 
+States? 
+ d. Do you think China’s experience in raising its standard of 
+living (output per person) provides a model for developing 
+countries to follow?"
+13,7,277.5039978027344,225.53736877441406,517.530517578125,410.5042419433594,0,"4. Deficit reduction was identified as the major issue facing the 
+United States as of the writing of this chapter. 
+ a. Go to the most recent Economic Report of the President 
+to ascertain whether deficits as a percent of GDP have in-
+creased or decreased compared to what was expected for 
+2011 and 2012 as of the writing of the chapter.
+ b. Calculate the total change in the deficit as a percent of 
+GDP between 2011 and most recent data. Now split the 
+change in the deficit since 2011 into (1) the changes in tax 
+revenue as a percent of GDP, (2) the change in expendi-
+tures as a percent of GDP. 
+ c. Use the data entitled Economic and Financial Indicators 
+found in The Economist to find the country with largest 
+budget deficit and largest budget surplus. In this list the 
+budget deficit is called the “Budget Balance.” Then find the 
+OECD member in this list with the largest budget deficit 
+and largest budget surplus."
+13,8,277.5040283203125,416.2247619628906,517.2548828125,647.4652709960938,0,"EXPLORE FURTHER
+5. U.S. postwar recessions
+This question looks at the recessions over the past 40 years. 
+To work this problem, first obtain quarterly data on U.S. output 
+growth for the period 1960 to the most recent date from the 
+Web site www.bea.gov. Table 1.1.1 presents the percent change 
+in real gross domestic product. This data can be downloaded 
+to a spreadsheet. Plot the quarterly GDP growth rates from 
+1960:1 to the latest observations. Did any quarters have nega-
+tive growth? Using the definition of a recession as two or more 
+consecutive quarters of negative growth, answer the following 
+questions.
+ a. How many recessions has the U.S. economy undergone 
+since 1960, quarter 2?
+ b. How many quarters has each recession lasted?
+ c. In terms of length and magnitude, which two recessions 
+have been the most severe?
+6. From Problem 5, write down the quarters in which the six 
+traditional recessions started. Find the monthly series in the 
+Federal Reserve Bank of St. Louis (FRED) database for the 
+seasonally adjusted unemployment rate. Retrieve the monthly"
+13,9,29.500030517578125,669.7997436523438,251.3880157470703,678.7997436523438,0,"16 
+Introduction 
+The Core"
+14,0,47.5,669.7590942382812,532.2960815429688,678.9068603515625,0,"Chapter 1 
+A Tour of the World 
+17"
+14,1,47.5,228.24713134765625,302.9299621582031,242.24713134765625,0,APPENDIX: Where to Find the Numbers
+14,2,47.5,251.08448791503906,287.3266296386719,381.0614318847656,0,"Suppose you want to find the numbers for inflation in Ger-
+many over the past five years. Fifty years ago, the answer would 
+have been to learn German, find a library with German pub-
+lications, find the page where inflation numbers were given, 
+write them down, and plot them by hand on a clean sheet of 
+paper. Today, improvements in the collection of data, the de-
+velopment of computers and electronic databases, and access 
+to the Internet make the task much easier. This appendix will 
+help you find the numbers you are looking for, be it inflation in 
+Malaysia last year, or consumption in the United States in 1959, 
+or unemployment in Ireland in the 1980s. In most cases, the 
+data can be downloaded to spreadsheets for further treatment."
+14,3,47.5,387.0644226074219,198.04483032226562,396.0644226074219,0,For a Quick Look at Current Numbers
+14,4,47.5,402.08447265625,287.15692138671875,477.0724182128906,0,"■ The best source for the most recent numbers on output, 
+unemployment, inflation, exchange rates, interest rates, 
+and stock prices for a large number of countries is the last 
+four pages of The Economist, published each week (www.
+economist.com). The Web site, like many of the Web sites 
+listed below, contains both information available free to 
+anyone and information available only to subscribers."
+14,5,47.5,480.0845031738281,287.1190185546875,522.0784912109375,0,"■ A good source for recent numbers about the U.S. economy 
+is National Economic Trends, published monthly by the 
+Federal Reserve Bank of Saint Louis (www.research.stlou-
+isfed.org/publications/net/)."
+14,6,47.50299835205078,532.0775146484375,207.7984161376953,541.0775146484375,0,For More Detail about the U.S. Economy
+14,7,47.5,547.0845336914062,287.19097900390625,611.0745239257812,0,"■ A convenient database, with numbers often going back to 
+the 1960s, for both the United States and other countries, 
+is the Federal Reserve Economic Database (called FRED), 
+maintained by the Federal Reserve Bank of Saint Louis. Ac-
+cess is free, and much of the data used in this book comes 
+from that database. (www.research.stlouisfed.org/fred2/)"
+14,8,295.75,251.08448791503906,535.458984375,337.0694885253906,0,"■ Once a year, the Economic Report of the President, written 
+by the Council of Economic Advisers and published by the 
+U.S. Government Printing Office in Washington, D.C., gives 
+a description of current evolutions, as well as numbers for 
+most major macroeconomic variables, often going back to 
+the 1950s. (It contains two parts, a report on the economy, 
+and a set of statistical tables. Both can be found at www.ori-
+gin.www.gpoaccess.gov/eop/.)"
+14,9,295.75,340.08447265625,535.525390625,415.0723876953125,0,"■ A detailed presentation of the most recent numbers for 
+national income accounts is given in the Survey of Current 
+Business, published monthly by the U.S. Department of 
+Commerce, Bureau of Economic Analysis (www.bea.gov). 
+A user’s guide to the statistics published by the Bureau of 
+Economic Analysis is given in the Survey of Current Busi-
+ness, April 1996."
+14,10,295.75,418.08447265625,535.357177734375,471.0764465332031,0,"■ The standard reference for national income accounts is 
+the National Income and Product Accounts of the United 
+States. Volume 1, 1929–1958, and Volume 2, 1959–1994, are 
+published by the U.S. Department of Commerce, Bureau of 
+Economic Analysis (www.bea.gov)."
+14,11,295.75,474.0845031738281,535.4500122070312,527.0765380859375,0,"■ For data on just about everything, including economic 
+data, a precious source is the Statistical Abstract of the 
+United States, published annually by the U.S. Department 
+of Commerce, Bureau of the Census (www.census.gov/
+prod/www/statistical-abstract.html)."
+14,12,295.75299072265625,535.0775146484375,413.077880859375,544.0775146484375,0,Numbers for Other Countries
+14,13,295.7460021972656,549.337890625,535.3746337890625,615.0765380859375,0,"The Organization for Economic Cooperation and De-
+velopment, OECD for short, located in Paris, France (www.
+oecd.org), is an organization that includes most of the rich 
+countries in the world (Australia, Austria, Belgium, Canada, 
+Chile, the Czech Republic, Denmark, Estonia, Finland, France, 
+Germany, Greece, Hungary, Iceland, Israel, Italy, Japan, Korea,"
+14,14,47.5059814453125,30.175519943237305,287.27313232421875,94.16545104980469,0,"data series on the unemployment rate for the period 1969 to 
+the end of the data. Make sure all data series are seasonally 
+adjusted.
+ a. Look at each recession since 1969. What was the unem-
+ployment rate in the first month of the first quarter of 
+negative growth? What was the unemployment rate in the"
+14,15,295.50994873046875,29.500471115112305,535.4678955078125,93.49040222167969,0,"last month of the last quarter of negative growth? By how 
+much did the unemployment rate increase?
+ b. Which recession had the largest increase in the rate of un-
+employment?  Begin with the month before the quarter in 
+which output first falls and measure to the highest level of 
+the unemployment rate before the next recession."
+14,16,47.5,118.14482116699219,159.2050018310547,133.1448211669922,0,Further Reading
+14,17,47.5,143.5126190185547,535.3392944335938,163.51060485839844,0,"■ The best way to follow current economic events and issues 
+is to read The Economist, a weekly magazine published in 
+England. The articles in The Economist are well informed, well 
+written, witty, and opinionated. Make sure to read it regularly."
+15,0,29.5,669.9068603515625,251.3880157470703,678.9068603515625,0,"18 
+Introduction 
+The Core"
+15,1,289.5,29.513471603393555,517.3746337890625,49.51145935058594,0,"fiscal developments. All three publications are available on 
+the IMF Web site (www.imf.org/external/index.htm)."
+15,2,277.50299072265625,61.50846481323242,355.14947509765625,70.50846862792969,0,Historical Statistics
+15,3,277.5,76.51347351074219,517.3958740234375,129.5054168701172,0,"■ For long-term historical statistics for the United States, the 
+basic reference is Historical Statistics of the United States, 
+Colonial Times to 1970, Parts 1 and 2, published by the U.S. 
+Department of Commerce, Bureau of the Census (www.
+census.gov/prod/www/abs/statab.html)."
+15,4,277.5,132.5134735107422,517.4754028320312,229.4973602294922,0,"■ For long-term historical statistics for several countries, a 
+precious data source is Angus Maddison’s Monitoring the 
+World Economy, 1820–1992, Development Centre Studies, 
+OECD, Paris, 1995. This study gives data going back to 1820 
+for 56 countries. Two even longer and broader sources are 
+The World Economy: A Millenial Perspective, Development 
+Studies, OECD, 2001, and The World Economy: Historical 
+Statistics, Development Studies, OECD 2004, both also by 
+Angus Maddison."
+15,5,277.50299072265625,241.49436950683594,403.2454833984375,250.49436950683594,0,Current Macroeconomic Issues
+15,6,277.50299072265625,255.4983673095703,517.5362548828125,374.47821044921875,0,"A number of Web sites offer information and commentaries 
+about the macroeconomic issues of the day. In addition to The 
+Economist Web site mentioned earlier, the site maintained by 
+Nouriel Roubini (www.rgemonitor.com) offers an extensive set 
+of links to articles and discussions on macroeconomic issues 
+(by subscription).
+Finally, if you still have not found what you were looking for, 
+a site maintained by Bill Goffe at the State University of New York 
+(SUNY) (www.rfe.org), lists not only many more data sources, but 
+also sources for economic information in general, from working 
+papers, to data, to jokes, to jobs in economics, and to blogs."
+15,7,277.5,399.8031311035156,344.93798828125,413.8031311035156,0,Key Terms
+15,8,277.5,421.51348876953125,451.626708984375,452.50946044921875,0,"Organization for Economic Cooperation and  
+ Development (OECD), 17
+International Monetary Fund (IMF), 18"
+15,9,29.496002197265625,29.509504318237305,269.41259765625,126.49339294433594,0,"Luxembourg, Mexico, the Netherlands, New Zealand, Norway, 
+Poland, Portugal, the Slovak Republic, Slovenia, Spain, Swe-
+den, Switzerland, Turkey, the United Kingdom, and the United 
+States). Together, these countries account for about 70% of 
+the world’s output. One strength of the OECD data is that, for 
+many variables, the OECD tries to make the variables compa-
+rable across member countries (or tells you when they are not 
+comparable). The OECD puts out three useful publications, all 
+available on the OECD site:"
+15,10,29.5,135.5134735107422,269.4889221191406,199.50340270996094,0,"■ The first is the OECD Economic Outlook, published twice 
+a year. In addition to describing current macroeconomic 
+ issues and evolutions, it includes a data appendix, with 
+data for many macroeconomic variables. The data typically 
+go back to the 1980s and are reported consistently, both 
+across time and across countries."
+15,11,29.5,202.5135040283203,269.3367919921875,233.5094757080078,0,"■ The second is the OECD Employment Outlook, published 
+annually. It focuses more specifically on labor-market is-
+sues and numbers."
+15,12,29.5,236.5135040283203,269.4159851074219,267.50946044921875,0,"■ Occasionally, the OECD puts together current and past 
+data, and publishes a set of OECD Historical Statistics in 
+which various years are grouped together."
+15,13,29.503997802734375,275.7668762207031,269.50823974609375,330.5074462890625,0,"The main strength of the publications of the Interna-
+tional Monetary Fund (IMF for short, located in Washing-
+ton, D.C.) is that they cover nearly all of the countries of the 
+world. The IMF has 187 member countries and provides data 
+on each of them (www.imf.org)."
+15,14,29.5,339.51348876953125,269.504150390625,425.4993896484375,0,"■ A particularly useful IMF publication is the World Eco-
+nomic Outlook (WEO for short), which is published twice 
+a year and which describes major economic events in the 
+world and in specific member countries. Selected series 
+associated with the Outlook are available in the WEO da-
+tabase, available on the IMF site (www.imf.org/external/
+data.htm). Most of the data shown in this chapter come 
+from this database."
+15,15,29.5,428.51348876953125,269.3512268066406,459.5094909667969,0,"■ Two other useful publications are the Global Financial Sta-
+bility Report (GFSR for short), which focuses on financial 
+developments, and the Fiscal Monitor, which focuses on"
+16,0,521.4760131835938,669.9068603515625,533.5000610351562,678.9068603515625,0,19
+16,1,43.29999923706055,234.41099548339844,119.1405029296875,340.4110107421875,0,T
+16,2,76.88700103759766,258.0113830566406,463.33355712890625,302.51739501953125,0,"he words  output, unemployment, and inflation appear daily in newspapers and on the evening 
+news. So when we used these words in Chapter 1, you knew roughly what we were talking about. 
+It is now time to define these words more precisely, and this is what we do in the first three sec-
+tions of this chapter."
+16,3,77.04934692382812,311.4003601074219,193.71949768066406,321.6003723144531,0,Section 2-1 looks at output.
+16,4,77.04934692382812,330.3970031738281,261.22650146484375,340.5970153808594,0,Section 2-2 looks at the unemployment rate.
+16,5,77.04934692382812,349.3953552246094,233.51649475097656,359.5953674316406,0,Section 2-3 looks at the inflation rate.
+16,6,77.04934692382812,368.3919982910156,398.9520568847656,378.5920104980469,0,Section 2-4 introduces two important relations between these three variables:
+16,7,89.05135345458984,379.3909912109375,224.88131713867188,387.8909912109375,0,Okun’s law and the Phillips curve.
+16,8,77.04934692382812,398.38934326171875,452.35760498046875,408.58935546875,0,Section 2-5 then introduces the three central concepts around which the book is organized:
+16,9,77.04934692382812,418.3890075683594,353.37066650390625,428.4930114746094,0,■ The short run: What happens to the economy from year to year
+16,10,76.88265228271484,438.39263916015625,376.34710693359375,448.4930114746094,0,■ The medium run: What happens to the economy over a decade or so
+16,11,76.88265228271484,458.39263916015625,395.08868408203125,468.4930114746094,0,■ The long run: What happens to the economy over a half century or longer
+16,12,76.88265228271484,478.39263916015625,451.0526428222656,488.5080261230469,0,"Building on these three concepts, Section 2-6 gives you the road map to the rest of the book."
+16,13,76.5,170.64007568359375,414.2220153808594,212.64007568359375,0,A Tour of the Book
+17,0,29.5,669.9068603515625,251.3880157470703,678.9068603515625,0,"20 
+Introduction 
+The Core"
+17,1,149.5,28.049739837646484,322.22003173828125,45.218971252441406,0,2-1 Aggregate Output
+17,2,149.5,55.35285949707031,517.931884765625,305.35284423828125,0,"Economists studying economic activity in the nineteenth century or during the Great 
+ Depression had no measure of aggregate activity (aggregate is the word macroecono-
+mists use for total) on which to rely. They had to put together bits and pieces of infor-
+mation, such as the shipments of iron ore or sales at some department stores, to try to 
+infer what was happening to the economy as a whole.
+It was not until the end of World War II that national income and product accounts 
+(or national income accounts, for short) were put together. Measures of aggregate out-
+put have been published on a regular basis in the United States since October 1947. 
+(You will find measures of aggregate output for earlier times, but these have been con-
+structed retrospectively.)
+Like any accounting system, the national income accounts first define concepts 
+and then construct measures corresponding to these concepts. You need only to 
+look at statistics from countries that have not yet developed such accounts to realize 
+that precision and consistency in such accounts are crucial. Without precision and 
+ consistency, numbers that should add up do not; trying to understand what is going 
+on feels like trying to balance someone else’s checkbook. We shall not burden you with 
+the details of national income accounting here. But because you will occasionally need 
+to know the definition of a variable and how variables relate to each other, Appendix 
+1 at the end of the book gives you the basic accounting framework used in the United 
+States (and, with minor variations, in most other countries) today. You will find it use-
+ful whenever you want to look at economic data on your own."
+17,3,149.5,316.2055358886719,325.05206298828125,329.2055358886719,0,GDP: Production and Income
+17,4,149.4949951171875,337.3528747558594,517.4421997070312,371.3528747558594,0,"The measure of aggregate output in the national income accounts is called the gross 
+domestic product, or GDP, for short. To understand how GDP is constructed, it is best 
+to work with a simple example. Consider an economy composed of just two firms:"
+17,5,149.5,379.3528747558594,517.499267578125,449.3528747558594,0,"■ 
+Firm 1 produces steel, employing workers and using machines to produce the 
+steel. It sells the steel for $100 to Firm 2, which produces cars. Firm 1 pays its work-
+ers $80, leaving $20 in profit to the firm.
+■ 
+Firm 2 buys the steel and uses it, together with workers and machines, to produce 
+cars. Revenues from car sales are $200. Of the $200, $100 goes to pay for steel and 
+$70 goes to workers in the firm, leaving $30 in profit to the firm."
+17,6,167.5,457.3528747558594,365.20599365234375,467.3528747558594,0,We can summarize this information in a table:
+17,7,29.467998504638672,108.2703628540039,139.7535858154297,206.27035522460938,0,"Two economists, Simon 
+Kuznets, from Harvard Uni-
+versity, and Richard Stone, 
+from Cambridge University, 
+were given the Nobel Prize 
+for their contributions to the 
+development of the national 
+income and product ac-
+counts—a  gigantic intellectual 
+and  empirical achievement."
+17,8,194.0,477.593017578125,428.09600830078125,485.593017578125,0,"Steel Company (Firm 1)
+Car Company (Firm 2)"
+17,9,194.0,493.0616455078125,476.45599365234375,501.0616455078125,0,"Revenues from sales
+$100
+Revenues from sales
+$200"
+17,10,194.0,508.0616455078125,450.45599365234375,541.0616455078125,0,"Expenses
+  Wages
+$80
+  $80
+Expenses
+  Wages
+  Steel purchases
+ $70
+$100"
+17,11,458.66400146484375,508.0616455078125,476.45599365234375,516.0616455078125,0,$170
+17,12,194.0,547.0936279296875,476.45599365234375,555.0936279296875,0,"Proﬁt
+  $20
+Proﬁt
+  $30"
+17,13,29.472003936767578,290.40936279296875,139.73599243164062,378.40936279296875,0,"You may come across another 
+term, gross national product, 
+or GNP. There is a subtle differ-
+ence between “domestic” and 
+“national,” and thus between 
+GDP and GNP. We examine the 
+distinction in Chapter 18 and 
+in Appendix 1 at the end of the 
+book. For now, ignore it."
+17,14,29.456005096435547,392.40936279296875,139.7080078125,450.40936279296875,0,"In reality, not only workers 
+and machines are required for 
+steel production, but so are 
+iron ore, electricity, and so on. 
+We shall ignore these to keep 
+the example simple."
+17,15,29.47200584411621,552.7613525390625,139.7360076904297,650.7613525390625,0,"An intermediate good is a 
+good used in the production 
+of another good. Some goods 
+can be both final goods and 
+intermediate goods. Potatoes 
+sold directly to consumers are 
+final goods. Potatoes used 
+to produce potato chips are 
+intermediate goods. Can you 
+think of other examples?"
+17,16,149.5,581.5948486328125,517.8500366210938,651.5948486328125,0,"How would you define aggregate output in this economy? As the sum of the values 
+of all goods produced in the economy—the sum of $100 from the production of steel 
+and $200 from the production of cars, so $300? Or as just the value of cars, which is 
+equal to $200?
+Some thought suggests that the right answer must be $200. Why? Because steel 
+is an intermediate good: It is used in the production of cars. Once we count the"
+17,17,137.83448791503906,348.4419860839844,147.0399932861328,356.9419860839844,0,
+17,18,137.83448791503906,390.2696228027344,147.0399932861328,398.7696228027344,0,
+17,19,137.83448791503906,126.55799865722656,147.0399932861328,135.05799865722656,0,
+17,20,137.83448791503906,638.4450073242188,147.0399932861328,646.9450073242188,0,
+18,0,47.5,669.7590942382812,532.3030395507812,678.9068603515625,0,"Chapter 2 
+A Tour of the Book 
+21"
+18,1,47.5,29.495010375976562,415.4960021972656,63.49501037597656,0,"production of cars, we do not want to count the production of the goods that went into 
+the production of these cars.
+This motivates the first definition of GDP:"
+18,2,47.49000549316406,68.96112060546875,416.3599548339844,141.49501037597656,0,"1.  GDP Is the Value of the Final Goods and Services Produced in the Economy 
+during a Given Period.
+The important word here is final. We want to count only the production of final goods, not 
+intermediate goods. Using our example, we can make this point in another way. Suppose 
+the two firms merged, so that the sale of steel took place inside the new firm and was no 
+longer  recorded. The accounts of the new firm would be given by the following table:"
+18,3,185.1999969482422,159.97601318359375,275.4239501953125,167.97601318359375,0,Steel and Car Company
+18,4,163.95999145507812,175.52467346191406,292.751953125,195.47669982910156,0,"Revenues from sales
+$200
+Expenses (wages)
+$150"
+18,5,163.95999145507812,199.6287078857422,292.8079833984375,207.6287078857422,0,"Proﬁt
+$50"
+18,6,47.49900817871094,228.22288513183594,415.5830383300781,310.223876953125,0,"All we would see would be one firm selling cars for $200, paying workers 
+$80 + $70 = $150, and making $20 + $30 = $50 in profits. The $200 measure 
+would remain unchanged—as it should. We do not want our measure of aggregate out-
+put to depend on whether firms decide to merge or not.
+This first definition gives us one way to construct GDP: by recording and adding up the 
+production of all final goods—and this is indeed roughly the way actual GDP numbers are 
+put together. But it also suggests a second way of thinking about and constructing GDP:"
+18,7,47.49601745605469,315.69000244140625,415.74212646484375,652.223876953125,0,"2. GDP Is the Sum of Value Added in the Economy during a Given Period.
+The term value added means exactly what it suggests. The value added by a firm is defined 
+as the value of its production minus the value of the intermediate goods used in production.
+In our two-firms example, the steel company does not use intermediate goods. Its 
+value added is simply equal to the value of the steel it produces, $100. The car com-
+pany, however, uses steel as an intermediate good. Thus, the value added by the car 
+company is equal to the value of the cars it produces minus the value of the steel it 
+uses in production, $200 - $100 = $100. Total value added in the economy, or GDP, 
+equals $100 + $100 = $200. (Note that aggregate value added would remain the 
+same if the steel and car firms merged and became a single firm. In this case, we would 
+not observe intermediate goods at all—as steel would be produced and then used to 
+produce cars within the single firm—and the value added in the single firm would sim-
+ply be equal to the value of cars, $200.)
+This definition gives us a second way of thinking about GDP. Put together, the 
+two definitions imply that the value of final goods and services—the first definition 
+of GDP—can also be thought of as the sum of the value added by all the firms in the 
+ economy—the second definition of GDP.
+So far, we have looked at GDP from the production side. The other way of looking 
+at GDP is from the income side. Go back to our example and think about the revenues 
+left to a firm after it has paid for its intermediate goods: Some of the revenues go to 
+pay workers—this component is called labor income. The rest goes to the firm—that 
+component is called capital income or profit income.
+Of the $100 of value added by the steel manufacturer, $80 goes to workers (labor 
+income) and the remaining $20 goes to the firm (capital income). Of the $100 of value 
+added by the car manufacturer, $70 goes to labor income and $30 to capital income. 
+For the economy as a whole, labor income is equal to $150 1 $80 + $702, capital 
+ income is equal to $50 1$20 + $302. Value added is equal to the sum of labor income 
+and capital income is equal to $200 1$150 + $502."
+18,8,415.9599914550781,601.7463989257812,535.7398681640625,649.85400390625,0,"The labor share in the exam-
+ple is thus 75%. In advanced 
+countries, the share of labor 
+is indeed typically between 65 
+and 75%.
+"
+19,0,29.5,669.9068603515625,251.3880157470703,678.9068603515625,0,"22 
+Introduction 
+The Core"
+19,1,167.5,29.495010375976562,347.95611572265625,39.49501037597656,0,This motivates the third definition of GDP:
+19,2,149.5,44.96112060546875,517.530029296875,81.49501037597656,0,"3. GDP Is the Sum of Incomes in the Economy during a Given Period.
+To summarize: You can think about aggregate output— GDP—in three different but 
+equivalent ways."
+19,3,149.5,89.49501037597656,517.4278564453125,159.49501037597656,0,"■ 
+From the production side: GDP equals the value of the final goods and services 
+produced in the economy during a given period.
+■ 
+Also from the production side: GDP is the sum of value added in the economy dur-
+ing a given period.
+■ 
+From the income side: GDP is the sum of incomes in the economy during a given 
+period."
+19,4,149.5,170.34767150878906,287.0009765625,183.34767150878906,0,Nominal and Real GDP
+19,5,149.4980010986328,191.49488830566406,517.7678833007812,273.494873046875,0,"U.S. GDP was $14,660 billion in 2010, compared to $526 billion in 1960. Was U.S. output 
+really 28 times higher in 2010 than in 1960? Obviously not: Much of the increase re-
+flected an increase in prices rather than an increase in quantities produced. This leads 
+to the distinction between nominal GDP and real GDP.
+Nominal GDP is the sum of the quantities of final goods produced times their 
+ current price. This definition makes clear that nominal GDP increases over time for 
+two reasons:"
+19,6,149.5,281.494873046875,408.4280090332031,303.494873046875,0,"■ 
+First, the production of most goods increases over time.
+■ 
+Second, the prices of most goods also increase over time."
+19,7,149.4949951171875,311.494873046875,517.8557739257812,465.494873046875,0,"If our goal is to measure production and its change over time, we need to elimi-
+nate the effect of increasing prices on our measure of GDP. That’s why real GDP is con-
+structed as the sum of the quantities of final goods times constant (rather than current) 
+prices.
+If the economy produced only one final good, say, a particular car model, con-
+structing real GDP would be easy: We would use the price of the car in a given year 
+and then use it to multiply the quantity of cars produced in each year. An example will 
+help here. Consider an economy that only produces cars—and to avoid issues we shall 
+tackle later, assume the same model is produced every year. Suppose the number and 
+the price of cars in three successive years are given by: 
+Nominal GDP, which is equal to the quantity of cars times their price, goes up from 
+$200,000 in 2004 to $288,000 in 2005—a 44% increase—and from $288,000 in 2005 to 
+$338,000 in 2006—a 16% increase."
+19,8,171.5,487.39300537109375,188.39599609375,505.39300537109375,0,Year
+19,9,222.5050048828125,487.39300537109375,259.10498046875,505.39300537109375,0,"Quantity  
+of Cars"
+19,10,288.63800048828125,487.39300537109375,316.7828063964844,505.39300537109375,0,"Price  
+of Cars"
+19,11,351.1059875488281,487.39300537109375,387.08197021484375,505.39300537109375,0,"Nominal  
+GDP"
+19,12,416.1990051269531,487.39300537109375,475.8869934082031,505.39300537109375,0,"Real GDP  
+(in 2005 dollars)"
+19,13,171.5030059814453,514.8455810546875,462.7269592285156,522.8455810546875,0,"2004
+10
+$20,000
+$200,000
+$240,000"
+19,14,171.5030059814453,529.8856201171875,462.7269592285156,537.8856201171875,0,"2005
+12
+$24,000
+$288,000
+$288,000"
+19,15,171.5030059814453,544.8776245117188,462.7269592285156,552.8776245117188,0,"2006
+13
+$26,000
+$338,000
+$312,000"
+19,16,29.503005981445312,55.185340881347656,123.4469985961914,63.185340881347656,0,Two lessons to remember:
+19,17,29.503005981445312,68.65911865234375,139.97189331054688,172.17947387695312,0,"i.  GDP is the measure of 
+ aggregate output, which 
+we can look at from the 
+production side (aggregate 
+production), or the income 
+side (aggregate income); 
+and
+ii.  Aggregate production and 
+aggregate income are  always 
+equal."
+19,18,137.83448791503906,71.32411193847656,147.0399932861328,79.82411193847656,0,
+19,19,29.48400115966797,232.91336059570312,139.7432098388672,320.9133605957031,0,"Warning! People often use 
+nominal to denote small 
+amounts. Economists use 
+nominal for variables ex-
+pressed in current prices. And 
+they surely do not refer to 
+small amounts: The numbers 
+typically run in the billions or 
+trillions of dollars."
+19,20,137.83448791503906,251.47499084472656,147.0399932861328,259.9749755859375,0,
+19,21,149.5,570.4389038085938,517.6881713867188,652.4389038085938,0,"■ 
+To construct real GDP, we need to multiply the number of cars in each year by a 
+common price. Suppose we use the price of a car in 2005 as the common price. 
+This approach gives us in effect real GDP in 2005 dollars.
+■ 
+Using this approach, real GDP in 2004 (in 2005 dollars) equals 10 cars * $24,000 
+per car = $240,000. Real GDP in 2005 (in 2005 dollars) equals 12 cars * $24,000 
+per car = $288,000, the same as nominal GDP in 2005. Real GDP in 2006 (in 2005 
+dollars) is equal to 13 * $24,000 = $312,000."
+20,0,47.5,669.7590942382812,532.3030395507812,678.9068603515625,0,"Chapter 2 
+A Tour of the Book 
+23"
+20,1,47.5,29.495010375976562,415.489990234375,99.49501037597656,0,"So real GDP goes up from $240,000 in 2004 to $288,000 in 2005—a 20% increase—
+and from $288,000 in 2005 to $312,000 in 2006—an 8% increase.
+■ 
+How different would our results have been if we had decided to construct real GDP 
+using the price of a car in, say, 2006 rather than 2005? Obviously, the level of real 
+GDP in each year would be different (because the prices are not the same in 2006 
+as in 2005); but its rate of change from year to year would be the same as above."
+20,2,47.49501037597656,107.49501037597656,415.7401123046875,369.494873046875,0,"The problem in constructing real GDP in practice is that there is obviously more 
+than one final good. Real GDP must be defined as a weighted average of the output of 
+all final goods, and this brings us to what the weights should be.
+The relative prices of the goods would appear to be the natural weights. If one good 
+costs twice as much per unit as another, then that good should count for twice as much 
+as the other in the construction of real output. But this raises the question: What if, as 
+is typically the case, relative prices change over time? Should we choose the relative 
+prices of a particular year as weights, or should we change the weights over time? More 
+discussion of these issues, and of the way real GDP is constructed in the United States, 
+is left to the appendix to this chapter. Here, what you should know is that the meas-
+ure of real GDP in the U.S. national income accounts uses weights that reflect relative 
+prices and which change over time. The measure is called real GDP in chained (2005) 
+dollars. We use 2005 because, as in our example above, 2005 is the year when, by con-
+struction, real GDP is equal to nominal GDP. It is our best measure of the output of the 
+U.S. economy, and its evolution shows how U.S. output has increased over time.
+Figure 2-1 plots the evolution of both nominal GDP and real GDP since 1960. By 
+construction, the two are equal in 2005. The figure shows that real GDP in 2010 was 
+about 4.7 times its level of 1960—a considerable increase, but clearly much less than 
+the 28-fold increase in nominal GDP over the same period. The difference between the 
+two results comes from the increase in prices over the period.
+The terms nominal GDP and real GDP each have many synonyms, and you are 
+likely to encounter them in your readings:"
+20,3,47.5,377.494873046875,346.27099609375,387.494873046875,0,"■ 
+Nominal GDP is also called dollar GDP or GDP in current dollars."
+20,4,425.54400634765625,280.7703552246094,535.7848510742188,338.7703552246094,0,"Suppose real GDP was meas-
+ured in 2000 dollars rather 
+than 2005 dollars. Where 
+would the nominal GDP and 
+real GDP lines on the graph 
+intersect?"
+20,5,416.0039978027344,301.2380065917969,425.2103576660156,309.7380065917969,0,
+20,6,425.5,68.66336822509766,535.7263793945312,116.66336822509766,0,"To be sure, compute real GDP 
+in 2006 dollars, and compute 
+the rate of growth from 2004 
+to 2005, and from 2005 to 
+2006."
+20,7,416.0039978027344,88.84397888183594,425.2103576660156,97.34397888183594,0,
+20,8,79.29199981689453,631.5869750976562,83.73999786376953,639.5869750976562,0,0
+20,9,63.7239990234375,601.9229736328125,83.739990234375,609.9229736328125,0,"2,000"
+20,10,63.7239990234375,572.2630004882812,83.739990234375,580.2630004882812,0,"4,000"
+20,11,63.7239990234375,542.5999755859375,83.739990234375,550.5999755859375,0,"6,000"
+20,12,63.7239990234375,512.9400024414062,83.739990234375,520.9400024414062,0,"8,000"
+20,13,59.2760009765625,483.2760009765625,83.73999786376953,491.2760009765625,0,"10,000"
+20,14,59.2760009765625,453.614013671875,83.73999786376953,461.614013671875,0,"12,000"
+20,15,59.2760009765625,423.95098876953125,83.73999786376953,431.95098876953125,0,"14,000"
+20,16,59.2760009765625,394.28900146484375,83.73999786376953,402.28900146484375,0,"16,000"
+20,17,77.81400299072266,641.3809814453125,413.07000732421875,649.3809814453125,0,"1960
+1965
+1970
+1975
+1980
+1985
+1990
+1995
+2000
+2005
+2010"
+20,18,263.8500061035156,576.2405395507812,321.3600158691406,585.2405395507812,0,Nominal GDP
+20,19,145.32000732421875,491.43353271484375,248.3519287109375,511.2335510253906,0,"Real GDP
+(billions of 2005 dollars)"
+20,20,47.70414352416992,484.458984375,55.70414352416992,551.5869750976562,0,Billions of dollars
+20,21,424.75,393.02001953125,481.3890075683594,404.02001953125,0,Figure 2-1
+20,22,424.75,411.6199951171875,515.1702880859375,431.61798095703125,0,"Nominal and real U.S. 
+GDP, 1960–2010"
+20,23,424.72601318359375,439.3403625488281,534.9821166992188,477.3403625488281,0,"From 1960 to 2010, nominal 
+GDP increased by a factor of 
+28. Real GDP increased by a 
+factor of about 5."
+20,24,424.75,491.2200012207031,534.593994140625,516.2239990234375,0,"Source: Series GDPCA,GDPA: Fed-
+eral Reserve Economic Data (FRED) 
+http://research.stlouisfed.org/fred2/"
+21,0,29.5,669.9068603515625,251.3880157470703,678.9068603515625,0,"24 
+Introduction 
+The Core"
+21,1,149.46719360351562,29.495010375976562,517.5447998046875,75.49501037597656,0,"■ 
+Real GDP is also called GDP in terms of goods, GDP in constant dollars, GDP 
+ adjusted for inflation, or GDP in (chained) 2005 dollars or GDP in 2005 
+ dollars—if the year in which real GDP is set equal to nominal GDP is 2005, as is the 
+case in the United States at this time."
+21,2,167.4649658203125,83.49501037597656,407.7389221191406,93.49501037597656,0,"In the chapters that follow, unless we indicate otherwise,"
+21,3,149.4669952392578,101.42047119140625,515.4711303710938,136.6826629638672,0,"■ 
+GDP will refer to real GDP and Yt will denote real GDP in year t.
+■ 
+Nominal GDP, and variables measured in current dollars, will be denoted by a dol-
+lar sign in front of them—for example, $Yt for nominal GDP in year t."
+21,4,149.4669952392578,152.34767150878906,338.52606201171875,165.34767150878906,0,GDP: Level versus Growth Rate
+21,5,149.46200561523438,173.49501037597656,517.7787475585938,363.494873046875,0,"We have focused so far on the level of real GDP. This is an important number that gives 
+the economic size of a country. A country with twice the GDP of another country is 
+economically twice as big as the other country. Equally important is the level of real 
+GDP per person, the ratio of real GDP to the population of the country. It gives us the 
+average standard of living of the country.
+In assessing the performance of the economy from year to year, economists focus, 
+however, on the rate of growth of real GDP, often called just GDP growth. Periods of positive 
+GDP growth are called expansions. Periods of negative GDP growth are called recessions.
+The evolution of GDP growth in the United States since 1960 is given in Figure 2-2. 
+GDP growth in year t is constructed as 1Yt - Yt-12 >Yt-1 and expressed as a percent. 
+The figure shows how the U.S. economy has gone through a series of expansions, inter-
+rupted by short recessions. Again, you can see the effects of the crisis: zero growth in 
+2008, and a large negative growth rate in 2009.
+The figure raises a small puzzle. According to the graph, growth was positive in 
+2001. But you may have heard people refer to the “recession of 2001.” Why do they do 
+so? Because they look at GDP growth quarter by quarter, rather than year by year. There"
+21,6,29.492000579833984,201.91336059570312,139.74000549316406,269.9133605957031,0,"Warning: One must be care-
+ful about how one does the 
+comparison: Recall the dis-
+cussion in Chapter 1 about 
+the standard of living in China. 
+This is  discussed further in 
+Chapter 10."
+21,7,29.5,379.7350158691406,86.13899993896484,390.7350158691406,0,Figure 2-2
+21,8,29.5,398.3349914550781,128.9311065673828,418.3329772949219,0,"Growth rate of U.S. GDP, 
+1960–2010"
+21,9,29.47599983215332,426.05535888671875,139.7223663330078,494.05535888671875,0,"Since 1960, the U.S. economy 
+has gone through a series of 
+expansions, interrupted by 
+short recessions. The most 
+recent recession was the most 
+severe recession in the period 
+from 1960 to 2010."
+21,10,29.5,507.9349670410156,126.23300170898438,523.93701171875,0,"Source: Calculated using series 
+GDPCA in Figure 2-1"
+21,11,162.4550018310547,629.4569702148438,170.9029998779297,639.0569458007812,0,–4
+21,12,162.4550018310547,588.0009765625,170.9029998779297,597.6009521484375,0,–2
+21,13,166.45399475097656,546.5419921875,170.90199279785156,554.5419921875,0,0
+21,14,166.45399475097656,505.0849609375,170.90199279785156,513.0849609375,0,2
+21,15,166.45399475097656,463.6259765625,170.90199279785156,471.6259765625,0,4
+21,16,166.45399475097656,422.16998291015625,170.90199279785156,430.16998291015625,0,6
+21,17,166.45399475097656,380.7129821777344,170.90199279785156,388.7129821777344,0,8
+21,18,164.927001953125,639.3809814453125,515.5,647.3809814453125,0,"1960
+1965
+1970
+1975
+1980
+1985
+1990
+1995
+2000
+2005
+2010"
+21,19,150.05303955078125,495.697021484375,158.05303955078125,525.041015625,0,Percent
+21,20,28.992000579833984,332.9133605957031,139.21600341796875,350.9133605957031,0,"It is actually the subject of one 
+of the boxes in Chapter 5."
+21,21,137.83448791503906,219.8419952392578,147.0399932861328,228.3419952392578,0,
+21,22,137.58883666992188,340.677978515625,146.79434204101562,349.177978515625,0,
+22,0,47.5,669.7590942382812,532.3030395507812,678.9068603515625,0,"Chapter 2 
+A Tour of the Book 
+25"
+22,1,47.5,28.432971954345703,348.25201416015625,62.4329719543457,0,"Real GDP, Technological Progress, and  
+the Price of Computers"
+22,2,47.5,85.15412902832031,253.24391174316406,387.0419006347656,0,"A tough problem in computing real GDP is how to deal with 
+changes in quality of existing goods. One of the most dif-
+ficult cases is computers. It would clearly be absurd to as-
+sume that a personal computer in 2010 is the same good as 
+a personal computer produced in 1981 (the year in which 
+the IBM PC was introduced): The same amount of money 
+can clearly buy much more computing in 2010 than it could 
+in 1981. But how much more? Does a 2010 computer pro-
+vide 10 times, 100 times, or 1,000 times the computing serv-
+ices of a 1981 computer? How should we take into account 
+the improvements in internal speed, the size of the random 
+access memory (RAM) or of the hard disk, the fact that com-
+puters can access the Internet, and so on?
+The approach used by economists to adjust for these 
+improvements is to look at the market for computers and 
+how it values computers with different characteristics in 
+a given year. Example: Suppose the evidence from prices 
+of different models on the market shows that people are 
+willing to pay 10% more for a computer with a speed of 3 
+GHz (3,000 megahertz) rather than 2 GHz. (The first edi-
+tion of this book, published in 1996, compared two com-
+puters, with speeds of 50 and 16 megaherz, respectively. 
+This change is a good indication of technological progress. 
+A further indication of technological progress is that, for 
+the past few years, progress has not been made by increas-
+ing the speed of processors, but rather by using multicore 
+processors. We shall leave this aspect aside here, but peo-
+ple in charge of national income accounts cannot; they 
+have to take this change into account as well.) Suppose"
+22,3,263.8719787597656,85.04188537597656,470.08392333984375,387.1460876464844,0,"new computers this year have a speed of 3 GHz compared 
+to a speed of 2 GHz for new computers last year. And sup-
+pose the dollar price of new computers this year is the 
+same as the dollar price of new computers last year. Then 
+economists in charge of computing the adjusted price of 
+computers will conclude that new computers are in fact 
+10% cheaper than last year.
+This approach, which treats goods as providing a col-
+lection of characteristics—for computers, speed, mem-
+ory, and so on—each with an implicit price, is called 
+hedonic pricing (“hedone” means “pleasure” in Greek). 
+It is used by the Department of Commerce—which con-
+structs real GDP—to estimate changes in the price of 
+complex and fast changing goods, such as automobiles 
+and computers. Using this approach, the Department of 
+Commerce estimates that, for a given price, the quality of 
+new computers has increased on average by 18% a year 
+since 1981. Put another way, a typical personal computer 
+in 2010 delivers 1.1829  121 times the computing serv-
+ices a typical personal computer delivered in 1981.
+Not only do computers deliver more services, they have 
+become cheaper as well: Their dollar price has declined by 
+about 10% a year since 1981. Putting this together with the 
+information in the previous paragraph, this implies that 
+their quality–adjusted price has fallen at an average rate 
+of 18%  10%  28% per year. Put another way, a dol-
+lar spent on a computer today buys 1.2829  1,285 times 
+more computing services than a dollar spent on a computer 
+in 1981."
+22,4,518.5599975585938,46.82301330566406,548.5599975585938,153.4730224609375,0,FOCUS
+22,5,47.5,434.0948791503906,415.921875,480.0948791503906,0,"is no official definition of what constitutes a recession, but the convention is to refer to 
+a “recession” if the economy goes through at least two consecutive quarters of negative 
+growth. Although GDP growth was positive for 2001 as a whole, it was negative during 
+each of the first three quarters of 2001; thus 2001 qualifies as a (mild) recession."
+22,6,47.5,499.1917724609375,273.447021484375,516.3610229492188,0,2-2 The Unemployment Rate
+22,7,47.49900817871094,526.494873046875,415.7099914550781,608.494873046875,0,"Because it is a measure of aggregate activity, GDP is obviously the most important 
+macroeconomic variable. But two other variables, unemployment and inflation, tell us 
+about other important aspects of how an economy is performing. This section focuses 
+on the unemployment rate.
+We start with two definitions: Employment is the number of people who have a 
+job. Unemployment is the number of people who do not have a job but are looking for 
+one. The labor force is the sum of employment and unemployment:"
+22,8,126.7979965209961,608.9742431640625,334.30499267578125,641.4203491210938,0,"L          =             N       +            U
+ labor force = employment + unemployment"
+23,0,29.5,669.9068603515625,251.3880157470703,678.9068603515625,0,"26 
+Introduction 
+The Core"
+23,1,149.5050048828125,197.49488830566406,517.6350708007812,219.49488830566406,0,"The unemployment rate is the ratio of the number of people who are unemployed 
+to the number of people in the labor force:"
+23,2,301.46502685546875,227.42034912109375,331.634033203125,244.42034912109375,0,u = U
+23,3,217.489990234375,241.42034912109375,447.6280212402344,266.42034912109375,0,"L
+ unemployment rate = unemployment>labor force"
+23,4,149.49896240234375,274.494873046875,517.87890625,644.494873046875,0,"Constructing the unemployment rate is less obvious than you might have thought. 
+The cartoon above not withstanding, determining whether somebody is employed 
+is straightforward. Determining whether somebody is unemployed is harder.  Recall 
+from the definition that, to be classified as unemployed, a person must meet two 
+ conditions: that he or she does not have a job, and he or she is looking for one; this 
+second condition is harder to assess.
+Until the 1940s in the United States, and until more recently in most other 
+countries, the only available source of data on unemployment was the number of 
+people registered at unemployment offices, and so only those workers who were 
+registered in unemployment offices were counted as unemployed. This system 
+led to a poor measure of unemployment. How many of those looking for jobs ac-
+tually registered at the unemployment office varied both across countries and 
+across time. Those who had no incentive to register—for example, those who had 
+ exhausted their unemployment benefits—were unlikely to take the time to come to 
+the unemployment office, so they were not counted. Countries with less generous 
+benefit systems were likely to have fewer unemployed registering, and therefore 
+smaller measured unemployment rates.
+Today, most rich countries rely on large surveys of households to compute the 
+unemployment rate. In the United States, this survey is called the Current Population 
+Survey (CPS). It relies on interviews of 50,000 households every month. The survey 
+classifies a person as employed if he or she has a job at the time of the interview; it clas-
+sifies a person as unemployed if he or she does not have a job and has been looking for 
+a job in the last four weeks. Most other countries use a similar definition of unemploy-
+ment. In the United States, estimates based on the CPS show that, during 2010, an aver-
+age of 139.0 million people were employed, and 14.8 million people were unemployed, 
+so the unemployment rate was 14.8>1139.0 + 14.82 = 9.6%.
+Note that only those looking  for a job are counted as unemployed; those who do 
+not have a job and are not looking for one are counted as not in the labor force. When 
+unemployment is high, some of the unemployed give up looking for a job and therefore 
+are no longer counted as unemployed. These people are known as discouraged workers. 
+Take an extreme example: If all workers without a job gave up looking for one, the"
+23,5,485.7340087890625,36.890960693359375,506.134033203125,174.68096923828125,0,"Non Sequitur © 2006 Wiley Ink, Inc. Distributed by 
+Universal Uclick. Reprinted with permission. All rights 
+reserved."
+24,0,47.5,669.7590942382812,532.3030395507812,678.9068603515625,0,"Chapter 2 
+A Tour of the Book 
+27"
+24,1,47.5,322.994873046875,415.78790283203125,452.994873046875,0,"unemployment rate would equal zero. This would make the unemployment rate a very 
+poor indicator of what is happening in the labor market. This example is too extreme; in 
+practice, when the economy slows down, we typically observe both an increase in un-
+employment and an increase in the number of people who drop out of the labor force. 
+Equivalently, a higher unemployment rate is typically associated with a lower participa-
+tion rate, defined as the ratio of the labor force to the total population of working age.
+Figure 2-3 shows the evolution of unemployment in the United States since 1970. 
+Since 1960, the U.S. unemployment rate has fluctuated between 3 and 10%, going up 
+during recessions and down during expansions. Again, you can see the effect of the 
+crisis, with the unemployment rate reaching a peak at nearly 10% in 2010, the highest 
+such rate since the 1980s."
+24,2,47.5,463.8475341796875,341.03997802734375,476.8475341796875,0,Why Do Economists Care about Unemployment?
+24,3,47.5,484.994873046875,415.82806396484375,650.994873046875,0,"Economists care about unemployment for two reasons. First, they care about 
+ unemployment because of its direct effect on the welfare of the unemployed. Although 
+unemployment benefits are more generous today than they were during the Great 
+ Depression, unemployment is still often associated with financial and psychologi-
+cal suffering. How much suffering depends on the nature of the unemployment. One 
+image of unemployment is that of a stagnant pool, of people remaining unemployed 
+for long periods of time. In normal times, in the United States, this image is not right: 
+Every month, many people become unemployed, and many of the unemployed find 
+jobs. When unemployment increases, however, as is the case now, the image becomes 
+more accurate. Not only are more people unemployed, but also many of them are un-
+employed for a long time. For example, the mean duration of unemployment, which 
+was 9 weeks on average during 2000–2007, increased to 33 weeks in 2010. In short, 
+when the unemployment increases, not only does unemployment become both more 
+widespread, but it also becomes more painful."
+24,4,425.49200439453125,333.9133605957031,535.7478637695312,451.9133605957031,0,"At the start of economic re-
+form in Eastern Europe in the 
+early 1990s, unemployment 
+increased dramatically. But 
+equally dramatic was the fall 
+in the participation rate. In 
+Poland in 1990, 70% of the 
+decrease in employment was 
+reflected in early retirements—
+by people dropping out of the 
+labor force rather than becom-
+ing unemployed."
+24,5,415.9599914550781,383.5559997558594,425.1654968261719,392.0559997558594,0,
+24,6,63.68600082397461,278.2275085449219,67.99305725097656,285.9739990234375,0,3
+24,7,63.68600082397461,242.53163146972656,67.99305725097656,250.27813720703125,0,4
+24,8,63.68600082397461,206.83848571777344,67.99305725097656,214.58499145507812,0,5
+24,9,63.6870002746582,171.14247131347656,67.99405670166016,178.88897705078125,0,6
+24,10,63.6870002746582,135.4474639892578,67.99405670166016,143.1939697265625,0,7
+24,11,63.6870002746582,99.75350189208984,67.99405670166016,107.5,0,8
+24,12,63.6870002746582,64.0575180053711,67.99405670166016,71.80401611328125,0,9
+24,13,59.38100051879883,28.36348533630371,67.99510955810547,36.1099853515625,0,10
+24,14,61.99399948120117,287.5255126953125,413.5002746582031,295.2720031738281,0,"1960
+1965
+1970
+1975
+1980
+1985
+1990
+1995
+2000
+2005
+2010"
+24,15,47.99168395996094,143.73992919921875,55.73818588256836,172.15411376953125,0,Percent
+24,16,413.5,28.734973907470703,470.1390075683594,39.7349739074707,0,Figure 2-3
+24,17,413.5,47.3349723815918,513.5648193359375,67.33296203613281,0,"U.S. unemployment rate, 
+1960–2010"
+24,18,413.5,75.05533599853516,535.776611328125,163.05532836914062,0,"Since 1960, the U.S. unemploy-
+ment rate has fluctuated between 
+3 and 10%, going down during 
+expansions, and going up during 
+recessions. The effect of the crisis 
+is highly visible, with the unem-
+ployment rate reaching close to 
+10%, the highest such rate since 
+the 1980s."
+24,19,413.5,176.93496704101562,529.1610717773438,201.93899536132812,0,"Source: Series UNRATE: Federal 
+ Reserve Economic Data (FRED) http://
+research.stlouisfed.org/fred2/"
+25,0,29.5,669.9068603515625,251.3880157470703,678.9068603515625,0,"28 
+Introduction 
+The Core"
+25,1,149.5,497.494873046875,517.7860107421875,651.494873046875,0,"Second, economists also care about the unemployment rate because it provides 
+a signal that the economy may not be using some of its resources efficiently. Many 
+workers who want to work do not find jobs; the economy is not utilizing its human 
+resources efficiently. From this viewpoint, can very low unemployment also be a prob-
+lem? The answer is yes. Like an engine running at too high a speed, an economy in 
+which unemployment is very low may be overutilizing its resources and run into labor 
+shortages. How low is “too low”? This is a difficult question, a question we will take up 
+at more length later in the book. The question came up in 2000 in the United States. At 
+the end of 2000, some economists worried that the unemployment rate, 4% at the time, 
+was indeed too low. So, while they did not advocate triggering a recession, they favored 
+lower (but positive) output growth for some time, so as to allow the unemployment 
+rate to increase to a somewhat higher level. It turned out that they got more than they 
+had asked for: a recession rather than a slowdown."
+25,2,95.5,28.432971954345703,388.3800048828125,62.4329719543457,0,"Did Spain Have a 24% Unemployment  
+Rate in 1994?"
+25,3,22.0,47.42311096191406,52.0,154.0731201171875,0,FOCUS
+25,4,95.5,85.15412902832031,301.262451171875,460.51312255859375,0,"In 1994, the official unemployment rate in Spain reached 
+24%. (It then decreased steadily, reaching a low of 8% in 
+2007, only to increase dramatically again since the begin-
+ning of the crisis. It now exceeds 20% and is still increasing. 
+Thus, many of the issues in this Focus box are becoming 
+relevant again.) This was roughly the same unemployment 
+rate as in the United States in 1933, the worst year of the 
+Great Depression. Yet Spain in 1994 looked nothing like the 
+United States in 1933: There were few homeless, and most 
+cities looked prosperous. Can we really believe that nearly 
+one–fifth of the Spanish labor force was looking for work?
+To answer this question, we must first examine how the 
+Spanish unemployment number is put together. Like the 
+CPS in the United States, unemployment is measured using 
+a large survey of 60,000 households. People are classified as 
+unemployed if they indicate that they are not working but 
+are seeking work.
+Can we be sure that people tell the truth? No.  Although 
+there is no obvious incentive to lie—answers to the survey 
+are confidential and are not used to determine whether 
+people are eligible for unemployment benefits—those 
+who are working in the underground economy may prefer 
+to play it safe and report that they are unemployed instead.
+The size of the underground economy—the part of eco-
+nomic activity that is not measured in official statistics, either 
+because the activity is illegal or because firms and workers 
+would rather not report it and thus not pay taxes—is an old 
+issue in Spain. And because of that, we actually know more 
+about the underground economy in Spain than in many other 
+countries: In 1985, the Spanish government tried to find out 
+more and organized a detailed survey of 60,000 individuals. 
+To try to elicit the truth from those interviewed, the question-
+naire asked interviewees for an extremely precise account of 
+the use of their time, making it more difficult to misreport. 
+The answers were interesting. The underground economy 
+in Spain—defined as the number of people working without"
+25,5,311.5,85.01710510253906,517.2921142578125,460.37689208984375,0,"declaring it to the social security administration—accounted 
+for between 10 and 15% of employment. But it was composed 
+mostly of people who already had a job and were taking a sec-
+ond or even a third job. The best estimate from the survey was 
+that only about 15% of the unemployed were in fact working. 
+This implied that the unemployment rate, which was officially 
+21% at the time, was in fact closer to 18%, still a very high 
+number. In short, the Spanish underground economy was sig-
+nificant, but it just was not the case that most of the Spanish 
+unemployed work in the underground economy.
+How did the unemployed survive? Did they survive be-
+cause unemployment benefits were unusually generous in 
+Spain? No. Except for very generous unemployment ben-
+efits in two regions, Andalusia and Extremadura—which, 
+not surprisingly, had even higher unemployment than the 
+rest of the country—unemployment benefits were roughly 
+in line with unemployment benefits in other OECD coun-
+tries. Benefits were typically 70% of the wage for the first six 
+months, and 60% thereafter. They were given for a period of 
+4 to 24 months, depending on how long people had worked 
+before becoming unemployed. The 30% of the unemployed 
+who had been unemployed for more than two years did not 
+receive unemployment benefits.
+So how did they survive? A key to the answer lies with 
+the Spanish family structure. The unemployment rate was 
+highest among the young: In 1994, it was close to 50% for 
+those between 16 and 19, and around 40% for those be-
+tween 20 and 24. The young typically stay at home until 
+their late 20s, and have increasingly done so as unemploy-
+ment increased. Looking at households rather than at 
+individuals, the proportion of households where nobody 
+was employed was less than 10% in 1994; the proportion 
+of households that received neither wage income nor un-
+employment benefits was around 3%. In short, the family 
+structure, and transfers from the rest of the family, were the 
+factors that allowed many of the unemployed to survive."
+25,6,29.492000579833984,536.0941772460938,139.70477294921875,574.0941772460938,0,"It is probably because of 
+statements like this that eco-
+nomics is known as the “dis-
+mal science.”"
+25,7,137.78965759277344,544.6089477539062,146.99600219726562,553.1089477539062,0,
+26,0,47.5,669.7590942382812,532.3030395507812,678.9068603515625,0,"Chapter 2 
+A Tour of the Book 
+29"
+26,1,47.5,28.049739837646484,217.66998291015625,45.218971252441406,0,2-3 The Inflation Rate
+26,2,47.498992919921875,55.35285949707031,415.73809814453125,125.35285949707031,0,"Inflation is a sustained rise in the general level of prices—the price level. The infla-
+tion rate is the rate at which the price level increases. (Symmetrically,  deflation is 
+a sustained decline in the price level. It corresponds to a negative  inflation rate).
+The practical issue is how to define the price level so the inflation rate can be 
+measured. Macroeconomists typically look at two measures of the price level, at two 
+price indexes: the GDP deflator and the Consumer Price Index."
+26,3,47.5,136.2055206298828,152.73500061035156,149.2055206298828,0,The GDP Deflator
+26,4,47.5,157.3528594970703,415.716064453125,216.54054260253906,0,"We saw earlier how increases in nominal GDP can come either from an increase in real 
+GDP, or from an increase in prices. Put another way, if we see nominal GDP increase 
+faster than real GDP, the difference must come from an increase in prices.
+This remark motivates the definition of the GDP deflator. The GDP deflator in year 
+t, Pt, is defined as the ratio of nominal GDP to real GDP in year t:"
+26,5,169.9320068359375,223.27835083007812,259.84100341796875,242.31900024414062,0,Pt = Nominal GDPt
+26,6,204.46200561523438,223.27835083007812,290.6510009765625,249.04054260253906,0,"Real GDPt
+= $Yt"
+26,7,279.3139953613281,237.77835083007812,287.2389831542969,249.04054260253906,0,Yt
+26,8,47.492034912109375,255.85289001464844,415.6200866699219,373.8528747558594,0,"Note that, in the year in which, by construction, real GDP is equal to nominal GDP 
+(2005 at this point in the United States), this definition implies that the price level is 
+equal to 1. This is worth emphasizing: The GDP deflator is called an index number. Its 
+level is chosen arbitrarily—here it is equal to 1 in 2005—and has no economic interpre-
+tation. But its rate of change, 1Pt - Pt-12 >Pt-1 (which we shall denote by pt in the rest 
+of the book), has a clear economic interpretation: It gives the rate at which the general 
+level of prices increases over time—the rate of inflation.
+One advantage to defining the price level as the GDP deflator is that it implies a 
+simple relation among nominal GDP, real GDP, and the GDP deflator. To see this, reor-
+ganize the previous equation to get:"
+26,9,207.2310333251953,381.3190002441406,253.7760009765625,393.3190002441406,0,$Yt = Pt Yt
+26,10,47.5,399.8528747558594,415.70989990234375,433.8528747558594,0,"Nominal GDP is equal to the GDP deflator times real GDP. Or, putting it in terms of 
+rates of change: The rate of growth of nominal GDP is equal to the rate of inflation plus 
+the rate of growth of real GDP."
+26,11,47.5,451.7055358886719,206.68499755859375,464.7055358886719,0,The Consumer Price Index
+26,12,47.5,472.8528747558594,415.53802490234375,518.8528442382812,0,"The GDP deflator gives the average price of output—the final goods produced in the 
+economy. But consumers care about the average price of consumption—the goods 
+they consume. The two prices need not be the same: The set of goods produced in the 
+economy is not the same as the set of goods purchased by consumers, for two reasons:"
+26,13,47.5,526.8528442382812,415.47503662109375,572.8528442382812,0,"■ 
+Some of the goods in GDP are sold not to consumers but to firms (machine tools, 
+for example), to the government, or to foreigners.
+■ 
+Some of the goods bought by consumers are not produced domestically but are 
+imported from abroad."
+26,14,47.5,580.8528442382812,415.6070861816406,650.8528442382812,0,"To measure the average price of consumption, or, equivalently, the cost of  living, 
+macroeconomists look at another index, the Consumer Price Index, or CPI. The CPI has 
+been in existence in the United States since 1917 and is published monthly (in contrast, 
+numbers for GDP and the GDP deflator are only constructed and published quarterly).
+The CPI gives the cost in dollars of a specific list of goods and services over 
+time. The list, which is based on a detailed study of consumer spending, attempts to"
+26,15,416.0039978027344,210.91336059570312,535.812255859375,298.9133605957031,0,"Index numbers are often set 
+equal to 100 (in the base year) 
+rather than to 1. If you look at 
+the Economic Report of the 
+President (see Chapter 1) you 
+will see that the GDP deflator, 
+reported in Table B-3, is equal 
+to 100 for 2005 (the base year), 
+103.2 in 2006, and so on.
+"
+26,16,425.572998046875,318.7133483886719,535.8323364257812,396.7133483886719,0,"Compute the GDP deflator and 
+the associated rate of inflation 
+from 2004 to 2005 and from 
+2005 to 2006 in our car exam-
+ple in Section 2-1, when real 
+GDP is constructed using the 
+2005 price of cars as the com-
+mon price."
+26,17,416.0039978027344,328.1880187988281,423.0845031738281,336.6880187988281,0,
+26,18,416.0039978027344,412.1920166015625,535.7969360351562,430.4133605957031,0,"For a refresher, see Appendix 2, 
+Proposition 7.
+"
+26,19,425.7540283203125,578.6134033203125,536.010009765625,646.6134033203125,0,"Do not confuse the CPI with the 
+PPI, or producer price index, 
+which is an index of prices of 
+domestically produced goods 
+in manufacturing, mining, ag-
+riculture, fishing, forestry, and 
+electric utility industries."
+26,20,416.0039978027344,618.8809814453125,425.2103576660156,627.3809814453125,0,
+26,21,425.47601318359375,50.913246154785156,535.7318725585938,118.91324615478516,0,"Deflation is rare, but it hap-
+pens. Japan has had defla-
+tion, off and on, since the 
+late 1990s. The United States 
+experienced deflation in 
+the 1930s during the Great 
+Depression."
+26,22,415.9599914550781,78.95310974121094,425.1654968261719,87.45310974121094,0,
+27,0,29.5,669.9068603515625,251.3880157470703,678.9068603515625,0,"30 
+Introduction 
+The Core"
+27,1,149.49998474121094,227.49488830566406,517.5978393554688,393.494873046875,0,"represent the consumption basket of a typical urban consumer and is updated roughly 
+only once every 10 years.
+Each month, Bureau of Labor Statistics (BLS) employees visit stores to find out 
+what has happened to the price of the goods on the list; prices are collected in 87 cit-
+ies, from about 23,000 retail stores, car dealerships, gas stations, hospitals, and so on. 
+These prices are then used to construct the Consumer Price Index.
+Like the GDP deflator (the price level associated with aggregate output, GDP), the CPI 
+is an index. It is set equal to 100 in the period chosen as the base period and so its level has 
+no particular significance. The current base period is 1982 to 1984, so the average for the 
+period 1982 to 1984 is equal to 100. In 2010, the CPI was 222.8; thus, it cost more than twice 
+as much in dollars to purchase the same consumption basket than in 1982–1984.
+You may wonder how the rate of inflation differs depending on whether the GDP 
+deflator or the CPI is used to measure it. The answer is given in Figure 2-4, which plots 
+the two inflation rates since 1960 for the United States. The figure yields two conclusions:"
+27,2,149.5,401.494873046875,517.7969360351562,531.494873046875,0,"■ 
+The CPI and the GDP deflator move together most of the time. In most years, the 
+two inflation rates differ by less than 1%.
+■ 
+But there are clear exceptions. In 1979 and 1980, the increase in the CPI was signifi-
+cantly larger than the increase in the GDP deflator. The reason is not hard to find. Re-
+call that the GDP deflator is the price of goods produced in the United States, whereas 
+the CPI is the price of goods consumed in the United States. That means when the 
+price of imported goods increases relative to the price of goods produced in the United 
+States, the CPI increases faster than the GDP deflator. This is precisely what happened 
+in 1979 and 1980. The price of oil doubled. And although the United States is a pro-
+ducer of oil, it produces much less than it consumes: It was and still is a major oil im-
+porter. The result was a large increase in the CPI compared to the GDP deflator."
+27,3,149.50997924804688,539.494873046875,517.7457885742188,574.6825561523438,0,"In what follows, we shall typically assume that the two indexes move together so we 
+do not need to distinguish between them. we shall simply talk about the price level and 
+denote it by Pt, without indicating whether we have the CPI or the GDP deflator in mind."
+27,4,149.5,584.3475341796875,399.95806884765625,597.3475341796875,0,Why Do Economists Care about Inflation?
+27,5,149.5,605.494873046875,517.4330444335938,639.494873046875,0,"If a higher inflation rate meant just a faster but proportional increase in all prices and 
+wages—a case called pure inflation—inflation would be only a minor inconvenience, 
+as relative prices would be unaffected."
+27,6,29.5,28.734973907470703,86.13899993896484,39.7349739074707,0,Figure 2-4
+27,7,29.5,47.3349723815918,134.810791015625,78.33094787597656,0,"Inflation rate, using the 
+CPI and the GDP deflator, 
+1960–2010"
+27,8,29.492000579833984,86.05533599853516,139.73199462890625,124.05533599853516,0,"The inflation rates, com-
+puted using either the CPI or 
+the GDP deflator, are largely 
+similar."
+27,9,29.5,137.93496704101562,136.85899353027344,171.94100952148438,0,"Source: Calculated using series 
+GDPDEF, CPI-AUSCL Federal Re-
+serve Economic Data (FRED) http://
+research.stlouisfed.org/fred2/"
+27,10,336.10699462890625,50.891571044921875,351.1099853515625,59.891571044921875,0,CPI
+27,11,361.48699951171875,152.17758178710938,394.4900207519531,171.97756958007812,0,"GDP
+deflator"
+27,12,150.35604858398438,53.22802734375,158.35604858398438,173.70001220703125,0,Inflation Rate (percent per year)
+27,13,162.50399780273438,187.69000244140625,170.95199584960938,197.29000854492188,0,–2
+27,14,166.50399780273438,167.77001953125,170.95199584960938,175.77001953125,0,0
+27,15,166.50399780273438,147.8480224609375,170.95199584960938,155.8480224609375,0,2
+27,16,166.50399780273438,127.927001953125,170.95199584960938,135.927001953125,0,4
+27,17,166.50399780273438,108.0059814453125,170.95199584960938,116.0059814453125,0,6
+27,18,166.50399780273438,88.08502197265625,170.95199584960938,96.08502197265625,0,8
+27,19,162.05599975585938,68.16302490234375,170.95199584960938,76.16302490234375,0,10
+27,20,162.05599975585938,48.2430419921875,170.95199584960938,56.2430419921875,0,12
+27,21,162.05599975585938,28.32098388671875,170.95199584960938,36.32098388671875,0,14
+27,22,172.42100524902344,197.8809814453125,515.4990234375,205.8809814453125,0,"1960
+1965
+1970
+1975
+1980
+1985
+1990
+1995
+2000
+2005
+2010"
+27,23,29.459999084472656,490.5133361816406,145.739990234375,568.5133666992188,0,"You may wonder why the effect 
+of the increases in the price of 
+oil since 1999 is much less vis-
+ible in the figure. The answer: 
+The increases have taken place 
+more slowly over time, and 
+other factors have worked in 
+the opposite direction."
+27,24,143.83448791503906,508.761962890625,153.0399932861328,517.261962890625,0,
+27,25,29.5,336.9133605957031,139.73280334472656,364.9133605957031,0,"Do not ask why such a strange 
+base period was chosen. 
+ Nobody seems to remember."
+27,26,137.83448791503906,337.3619689941406,147.0399932861328,345.8619689941406,0,
+28,0,47.5,669.7590942382812,532.3030395507812,678.9068603515625,0,"Chapter 2 
+A Tour of the Book 
+31"
+28,1,47.5,29.495010375976562,415.8499450683594,135.49501037597656,0,"Take, for example, the workers’ real wage—the wage measured in terms of goods 
+rather than in dollars. In an economy with 10% more inflation, prices would increase 
+by 10% more a year. But wages would also increase by 10% more a year, so real wages 
+would be unaffected by inflation. Inflation would not be entirely irrelevant; people 
+would have to keep track of the increase in prices and wages when making decisions. 
+But this would be a small burden, hardly justifying making control of the inflation rate 
+one of the major goals of macroeconomic policy.
+So why do economists care about inflation? Precisely because there is no such 
+thing as pure inflation:"
+28,2,47.5,143.49501037597656,415.7139892578125,309.494873046875,0,"■ 
+During periods of inflation, not all prices and wages rise proportionately. Because they 
+don’t, inflation affects income distribution. For example, retirees in many countries re-
+ceive payments that do not keep up with the price level, so they lose in relation to other 
+groups when inflation is high. This is not the case in the United States, where Social 
+Security benefits automatically rise with the CPI, protecting retirees from inflation. But 
+during the very high inflation that took place in Russia in the 1990s, retirement pen-
+sions did not keep up with inflation, and many retirees were pushed to near starvation.
+■ 
+Inflation leads to other distortions. Variations in relative prices also lead to more 
+uncertainty, making it harder for firms to make decisions about the future, such 
+as investment decisions. Some prices, which are fixed by law or by regulation, lag 
+behind the others, leading to changes in relative prices. Taxation interacts with 
+inflation to create more distortions. If tax brackets are not adjusted for inflation, 
+for example, people move into higher and higher tax brackets as their nominal in-
+come increases, even if their real income remains the same."
+28,3,47.5,317.494873046875,415.6570739746094,399.494873046875,0,"If inflation is so bad, does this imply that deflation (negative inflation) is good?
+The answer is no. First, high deflation (a large negative rate of inflation) would create 
+many of the same problems as high inflation, from distortions to increased uncertainty. Sec-
+ond, as we shall see later in the book, even a low rate of deflation limits the ability of monetary 
+policy to affect output. So what is the “best” rate of inflation? Most macroeconomists believe 
+that the best rate of inflation is a low and stable rate of inflation, somewhere between 1 and 
+4%. We shall look at the pros and cons of different rates of inflation later in the book."
+28,4,47.5,423.1917724609375,398.8220520019531,459.19775390625,0,"2-4 Output, Unemployment, and the Inflation 
+Rate: Okun’s Law and the Phillips Curve"
+28,5,47.5,469.494873046875,415.5399169921875,515.494873046875,0,"We have looked separately at the three main dimensions of aggregate economic activ-
+ity: output growth, the unemployment rate, and the inflation rate. Clearly they are not 
+independent, and much of this book will be spent looking at the relations among them 
+in detail. But it is useful to have a first look now."
+28,6,47.5,526.3475341796875,117.10198974609375,539.3475341796875,0,Okun’s Law
+28,7,47.5,547.494873046875,415.8590393066406,617.494873046875,0,"Intuition suggests that if output growth is high, unemployment will decrease, and this is 
+indeed true. This relation was first examined by American economist Arthur Okun and 
+for this reason has become known as Okun’s law. Figure 2-5 plots the change in the un-
+employment rate on the vertical axis against the rate of growth of output on the horizon-
+tal axis for the United States since 1960. It also draws the line that best fits the cloud of 
+points in the figure. Looking at the figure and the line suggests two conclusions:"
+28,8,47.5,625.494873046875,415.6450500488281,647.494873046875,0,"■ 
+The line is downward sloping and fits the cloud of points quite well. Put in eco-
+nomic terms: There is a tight relation between the two variables: Higher output"
+28,9,425.509033203125,318.246337890625,535.8304443359375,386.246337890625,0,"Newspapers sometimes con-
+fuse deflation and recession. 
+They may happen together but 
+they are not the same. Deflation 
+is a decrease in the price level. 
+A recession is a decrease in 
+real output."
+28,10,416.0039978027344,318.83599853515625,425.2103576660156,327.33599853515625,0,
+28,11,416.0039978027344,240.58035278320312,535.7296142578125,308.7140197753906,0,"This is known as bracket creep. 
+In the United States, the tax 
+brackets are adjusted automat-
+ically for inflation: If inflation is 
+5%, all tax brackets also go up 
+by 5%—in other words, there is 
+no bracket creep.
+"
+28,12,425.5889892578125,572.0343627929688,535.8544921875,620.0343627929688,0,"Arthur Okun was an adviser 
+to President Kennedy in 
+the 1960s. Okun’s law is, of 
+course, not a law, but an em-
+pirical regularity."
+28,13,416.0039978027344,571.18798828125,423.0845031738281,579.68798828125,0,
+29,0,29.5,669.9068603515625,251.3880157470703,678.9068603515625,0,"32 
+Introduction 
+The Core"
+29,1,227.94088745117188,54.725914001464844,245.54257202148438,184.906005859375,0,"Change in the unemployment rate
+(percentage points)"
+29,2,303.010986328125,223.34788513183594,395.4372863769531,231.34933471679688,0,Output growth (percent)
+29,3,252.01499938964844,199.93055725097656,260.2577819824219,209.53204345703125,0,–3
+29,4,252.01499938964844,175.3067169189453,260.2577819824219,184.908203125,0,–2
+29,5,252.01499938964844,150.73011779785156,260.2577819824219,160.33160400390625,0,–1
+29,6,255.8082733154297,126.52149963378906,260.2577819824219,134.52294921875,0,0
+29,7,255.8082733154297,101.94569396972656,260.2577819824219,109.9471435546875,0,1
+29,8,255.8082733154297,77.41706848144531,260.2577819824219,85.41851806640625,0,2
+29,9,255.8082733154297,52.84126281738281,260.2577819824219,60.84271240234375,0,3
+29,10,255.8082733154297,28.321426391601562,260.2577819824219,36.3228759765625,0,4
+29,11,256.8486328125,210.3219757080078,437.25506591796875,219.9234619140625,0,"–4
+–2
+0
+2
+4
+6
+8"
+29,12,29.5,28.984119415283203,86.13899993896484,39.9841194152832,0,Figure 2-5
+29,13,29.5,47.5841178894043,135.49302673339844,89.57807922363281,0,"Changes in the 
+unemployment rate versus 
+output growth in the 
+United States, 1960–2010"
+29,14,29.459999084472656,97.30448150634766,139.7088165283203,165.30447387695312,0,"Output growth that is higher 
+than usual is associated with 
+a reduction in the unemploy-
+ment rate; output growth that 
+is lower than usual is associ-
+ated with an increase in the 
+unemployment rate."
+29,15,29.5,179.18411254882812,130.27198791503906,186.18411254882812,0,Source: See Figures 2-2 and 2-3.
+29,16,149.5,275.9989929199219,517.8062133789062,442.5328674316406,0,"growth leads to a decrease in unemployment. The slope of the line is -0.4. This 
+implies that, on average, an increase in the growth rate of 1% decreases the unem-
+ployment rate by roughly -0.4%. This is why unemployment goes up in recessions 
+and down in expansions. This relation has a simple but important implication: The 
+key to decreasing unemployment is a high enough rate of growth.
+■ 
+This vertical line crosses the horizontal axis at the point where output growth is 
+roughly equal to 3%. In economic terms: It takes a growth rate of about 3% to keep 
+unemployment constant. This is for two reasons. The first is that population, and 
+thus the labor force, increases over time, so employment must grow over time just to 
+keep the unemployment rate constant. The second is that output per worker is also 
+increasing with time, which implies that output growth is higher than employment 
+growth. Suppose, for example, that the labor force grows at 1% and that output per 
+worker grows at 2%. Then output growth must be equal to 3% 11% + 2%2 just to 
+keep the unemployment rate constant."
+29,17,149.5,453.3855285644531,257.8809814453125,466.3855285644531,0,The Phillips Curve
+29,18,149.49691772460938,474.5328674316406,517.6710205078125,604.5328979492188,0,"Okun’s law implies that, with strong enough growth, one can decrease the unemploy-
+ment rate to very low levels. But intuition suggests that, when unemployment becomes 
+very low, the economy is likely to overheat, and that this will lead to upward pressure 
+on inflation. And, to a large extent, this is true. This relation was first explored in 1958 
+by a New Zealand economist, A. W. Phillips, and has become known as the Phillips 
+curve. Phillips plotted the rate of inflation against the unemployment rate. Since then, 
+the Phillips curve has been redefined as a relation between the change in the rate of 
+inflation and the unemployment rate. Figure 2-6 plots the change in the inflation rate 
+(measured using the CPI) on the vertical axis against the unemployment rate on the 
+horizontal axis, together with the line that fits the cloud of points best, for the United 
+States since 1960. Looking at the figure again suggests two conclusions:"
+29,19,149.5,612.5328979492188,517.865966796875,658.5328979492188,0,"■ 
+The line is downward sloping, although the fit is not as tight as it was for Okun’s 
+law: Higher unemployment leads, on average, to a decrease in inflation; lower 
+unemployment leads to an increase in inflation. But this is only true on average. 
+Sometimes, high unemployment is associated with an increase in inflation."
+29,20,29.5,535.9503784179688,139.73440551757812,563.9503784179688,0,"It should probably be known 
+as the Phillips relation, but it is 
+too late to change that."
+29,21,137.83448791503906,536.6489868164062,147.0399932861328,545.1489868164062,0,
+29,22,29.5,275.2003479003906,139.78640747070312,333.2003479003906,0,"Such a graph, plotting one 
+variable against another, is 
+called a scatterplot. The line 
+is called a regression line. For 
+more on regressions, see Ap-
+pendix 3."
+29,23,137.78965759277344,274.26898193359375,146.99600219726562,282.76898193359375,0,
+30,0,47.5,669.7590942382812,532.3030395507812,678.9068603515625,0,"Chapter 2 
+A Tour of the Book 
+33"
+30,1,47.5,241.35487365722656,415.6599426269531,347.3548583984375,0,"■ 
+The line crosses the horizontal axis at the point where the unemployment rate is 
+roughly equal to 6%. In economic terms: When unemployment has been below 6%, 
+inflation has typically increased, suggesting that the economy was overheating, oper-
+ating above its potential. When unemployment has been above 6%, inflation has typi-
+cally decreased, suggesting that the economy was operating below potential. But, again 
+here, the relation is not tight enough that the unemployment rate at which the econ-
+omy  overheats can be pinned down very precisely. This explains why some economists 
+ believe that we should try to maintain a lower unemployment rate, say 4 or 5%, and oth-
+ers believe that it may be dangerous, leading to overheating and increasing inflation."
+30,2,47.5,355.3548583984375,415.5910949707031,425.3548583984375,0,"Clearly, a successful economy is an economy that combines high output growth, low 
+unemployment, and low inflation. Can all these objectives be achieved simultane-
+ously? Is low unemployment compatible with low and stable inflation? Do policy mak-
+ers have the tools to sustain growth, to achieve low unemployment while maintaining 
+low inflation? These are the questions we shall take up as we go through the book. The 
+next two sections give you the road map."
+30,3,47.5,440.0517578125,338.65899658203125,476.0577697753906,0,"2-5 The Short Run, the Medium Run, 
+the Long Run"
+30,4,47.5,486.3548583984375,312.1180419921875,496.3548583984375,0,What determines the level of aggregate output in an economy?
+30,5,47.5,504.3548583984375,415.7681579589844,658.3548583984375,0,"■ 
+Reading newspapers suggests a first answer: Movements in output come from move-
+ments in the demand for goods. You probably have read news stories that  begin like 
+this: “Production and sales of automobiles were higher last month due to a surge in 
+consumer confidence, which drove consumers to showrooms in record numbers.” Sto-
+ries like these highlight the role demand plays in determining aggregate output; they 
+point to factors that affect demand, ranging from consumer confidence to interest rates.
+■ 
+But, surely, no amount of Indian consumers rushing to Indian showrooms can 
+increase India’s output to the level of output in the United States. This suggests 
+a second answer: What matters when it comes to aggregate output is the sup-
+ply side—how much the economy can produce. How much can be produced de-
+pends on how advanced the technology of the country is, how much capital it is 
+using, and the size and the skills of its labor force. These factors—not consumer 
+confidence—are the fundamental determinants of a country’s level of output."
+30,6,425.5,28.734973907470703,482.1390075683594,39.7349739074707,0,Figure 2-6
+30,7,425.5,47.3349723815918,530.0675048828125,89.32893371582031,0,"Changes in the 
+inflation rate versus the 
+unemployment rate in the 
+United States, 1960–2010"
+30,8,425.4440002441406,97.05533599853516,535.69775390625,145.05532836914062,0,"A low unemployment rate 
+leads to an increase in the in-
+flation rate, a high unemploy-
+ment rate to a decrease in the 
+inflation rate."
+30,9,425.5,158.93496704101562,526.2720947265625,165.93496704101562,0,Source: See Figures 2-3 and 2-4.
+30,10,153.5279998779297,209.57113647460938,331.3396911621094,217.49398803710938,0,"3
+4
+5
+6
+7
+8
+9
+10"
+30,11,129.85411071777344,36.544063568115234,137.77696228027344,202.29898071289062,0,Change in inflation rate (percentage points)
+30,12,193.60499572753906,222.78810119628906,289.0848693847656,230.71095275878906,0,Unemployment (percent)
+30,13,144.49595642089844,199.192138671875,152.73831176757812,208.69769287109375,0,–6
+30,14,144.49595642089844,170.6077880859375,152.73831176757812,180.11334228515625,0,–4
+30,15,144.49595642089844,142.1270751953125,152.73831176757812,151.63262939453125,0,–2
+30,16,148.3280029296875,113.86005401611328,152.73831176757812,121.78289794921875,0,0
+30,17,148.3280029296875,85.27729034423828,152.73831176757812,93.20013427734375,0,2
+30,18,148.3280029296875,56.79657745361328,152.73831176757812,64.71942138671875,0,4
+30,19,148.32403564453125,28.32617950439453,152.73434448242188,36.2490234375,0,6
+31,0,29.5,669.9068603515625,251.3880157470703,678.9068603515625,0,"34 
+Introduction 
+The Core"
+31,1,149.5,29.495010375976562,517.8627319335938,147.49501037597656,0,"■ 
+The previous argument can be taken one step further: Neither technology, nor cap-
+ital, nor skills are given. The technological sophistication of a country  depends on 
+its ability to innovate and introduce new technologies. The size of its capital stock 
+depends on how much people save. The skills of workers depend on the quality 
+of the country’s education system. Other factors are also important: If firms are 
+to operate efficiently, for example, they need a clear system of laws under which 
+to operate and an honest government to enforce those laws. This suggests a third 
+answer: The true determinants of output are factors like a country’s education sys-
+tem, its saving rate, and the quality of its government. If we want to understand 
+what determines the level of output, we must look at these factors."
+31,2,149.49998474121094,159.49501037597656,517.5096435546875,181.49501037597656,0,"You might be wondering at this point, which of the three answers is right? The fact 
+is that all three are right. But each applies over a different time frame:"
+31,3,149.5,193.49497985839844,517.821044921875,359.494873046875,0,"■ 
+In the short run, say, a few years, the first answer is the right one. Year-to-year 
+movements in output are primarily driven by movements in demand. Changes 
+in demand, perhaps due to changes in consumer confidence or other factors, can 
+lead to a decrease in output (a recession) or an increase in output (an expansion).
+■ 
+In the medium run, say, a decade, the second answer is the right one. Over the me-
+dium run, the economy tends to return to the level of output determined by supply 
+factors: the capital stock, the level of technology, and the size of the labor force. And, 
+over a decade or so, these factors move sufficiently slowly that we can take them as 
+given.
+■ 
+In the long run, say, a few decades or more, the third answer is the right one. To 
+understand why China has been able to achieve such a high growth rate since 
+1980, we must understand why both the capital stock and the level of technology 
+in China are increasing so fast. To do so, we must look at factors like the education 
+system, the saving rate, and the role of the government."
+31,4,149.5,371.494873046875,517.62109375,393.494873046875,0,"This way of thinking about the determinants of output underlies macroeconomics, 
+and it underlies the organization of this book."
+31,5,149.5,422.3417663574219,327.8639831542969,439.510986328125,0,2-6 A Tour of the Book
+31,6,149.5,449.6448669433594,517.7700805664062,483.6448669433594,0,"The book is organized in three parts: A core; two extensions; and, finally, a comprehen-
+sive look at the role of macroeconomic policy. This organization is shown in Figure 2-7. 
+We now describe it in more detail."
+31,7,149.5,494.4975280761719,204.17800903320312,507.4975280761719,0,The Core
+31,8,149.5,515.6448364257812,515.5599975585938,525.6448364257812,0,"The core is composed of three parts—the short run, the medium run, and the long run."
+31,9,149.5,533.6448364257812,517.8939208984375,639.6448364257812,0,"■ 
+Chapters 3 to 5 look at how output is determined in the short run. To focus on 
+the role of demand, we assume that firms are willing to supply any quantity at a 
+given price. In other words, we ignore supply constraints. Chapter 3 looks at the 
+goods market. Chapter 4 focuses on financial markets. Chapter 5 puts the goods 
+and financial markets together. The resulting framework is known as the IS–LM 
+model. Developed in the late 1930s, the IS–LM model still provides a simple way 
+of thinking about the determination of output in the short run, and it remains a 
+ basic building block of macroeconomics. It also allows for a first pass at studying 
+the  effects of fiscal policy and monetary policy on output."
+32,0,47.5,669.7590942382812,532.3030395507812,678.9068603515625,0,"Chapter 2 
+A Tour of the Book 
+35"
+32,1,47.5,275.494873046875,415.80010986328125,477.494873046875,0,"■ 
+Chapters 6 to 9 develop the supply side and look at how output is determined in 
+the medium run. Chapter 6 introduces the labor market. Chapter 7 puts together 
+goods, financial, and labor markets and shows you how to think about the deter-
+mination of output both in the short run and in the medium run. The resulting 
+framework is called the aggregate supply–aggregate demand AS–AD model and, 
+together with the IS–LM, is another workhorse of macroeconomics. Chapter 8 
+ focuses on the relation between unemployment, inflation, and money growth. By 
+then, you will have all the elements we need to take a first detailed look at the crisis. 
+The crisis is unusual in a number of ways. The initial shock is a major shock to the 
+financial system. Both monetary and fiscal policies are facing sharp constraints. As 
+a result, the crisis is much deeper than a standard recession, and the recovery is 
+proving to be very slow. This is the subject of Chapter 9.
+■ 
+Chapters 10 to 13 focus on the long run. Chapter 10 introduces the relevant facts 
+by looking at the growth of output both across countries and over long periods of 
+time. Chapters 11 and 12 discuss how both capital accumulation and technologi-
+cal progress determine growth. Chapter 13 looks at the interaction among techno-
+logical progress, wages, and unemployment."
+32,2,47.5,494.3475341796875,113.48799896240234,507.3475341796875,0,Extensions
+32,3,47.5,515.494873046875,415.6897888183594,549.494873046875,0,"The core chapters give you a way of thinking about how output (and unemployment, 
+and inflation) is determined over the short, medium, and long run. However, they 
+leave out several elements, which are explored in two extensions:"
+32,4,47.5,557.494873046875,415.8529968261719,651.494873046875,0,"■ 
+Expectations play an essential role in macroeconomics. Nearly all the economic 
+decisions people and firms make—whether or not to buy a car, whether to buy 
+bonds or to buy stocks, whether or not to build a new plant—depend on their 
+expectations about future income, future profits, future interest rates, and so on. 
+Fiscal and monetary policy affect economic activity not only through their direct 
+effects, but also through their effects on people’s and firms’ expectations. While we 
+touch on these issues in the core, Chapters 14 to 17 offer a more detailed treatment 
+and draw the implications for fiscal and monetary policy."
+32,5,191.76699829101562,87.9020004272461,370.86639404296875,106.05206298828125,0,"Extension
+The short run (IS-LM)
+Chapters 3 to 5"
+32,6,185.26409912109375,117.90218353271484,277.0738525390625,136.05224609375,0,"The medium run (AS-AD)
+Chapters 6 to 9"
+32,7,199.4043426513672,147.90237426757812,262.92547607421875,166.05242919921875,0,"The long run
+Chapters 10 to 13"
+32,8,316.58502197265625,111.70821380615234,386.2259521484375,129.8582763671875,0,"The open economy
+Chapters 18 to 21"
+32,9,86.41699981689453,106.9010238647461,133.0757598876953,135.0511474609375,0,"Expectations
+Chapters
+14 to 17"
+32,10,176.5019989013672,31.210660934448242,285.83013916015625,60.451171875,0,"Introduction
+A tour of the world (Chapter 1)
+A tour of the book (Chapter 2)"
+32,11,211.09100341796875,220.81256103515625,251.24688720703125,240.05300903320312,0,"Epilogue
+Chapter 25"
+32,12,199.02000427246094,184.24966430664062,263.3161926269531,203.49008178710938,0,"Back to policy
+Chapters 22 to 24"
+32,13,211.7550048828125,77.18753051757812,250.58099365234375,86.18753051757812,0,The Core
+32,14,90.29299926757812,93.89533996582031,129.11961364746094,102.04533386230469,0,Extension
+32,15,425.5,28.734973907470703,482.1390075683594,39.7349739074707,0,Figure 2-7
+32,16,425.5,47.3349723815918,498.0435485839844,67.33296203613281,0,"The organization  
+of the book"
+33,0,149.5,27.854873657226562,517.6680297851562,85.85487365722656,0,"■ 
+The core chapters treat the economy as closed, ignoring its interactions with the 
+rest of the world. But the fact is, economies are increasingly open, trading goods 
+and services and financial assets with one another. As a result, countries are be-
+coming more and more interdependent. The nature of this interdependence and 
+the implications for fiscal and monetary policy are the topics of Chapters 18 to 21."
+33,1,149.5,96.70752716064453,235.97598266601562,109.70752716064453,0,Back to Policy
+33,2,149.5,117.85487365722656,517.7830810546875,151.85487365722656,0,"Monetary policy and fiscal policy are discussed in nearly every chapter of this book. 
+But once the core and the extensions have been covered, it is useful to go back and put 
+things together in order to assess the role of policy."
+33,3,149.5,159.85487365722656,517.5799560546875,205.85487365722656,0,"■ 
+Chapter 22 focuses on general issues of policy, whether macroeconomists really 
+know enough about how the economy works to use policy as a stabilization tool at 
+all, and whether policy makers can be trusted to do what is right.
+■ 
+Chapters 23 and 24 return to the role of fiscal and monetary policy."
+33,4,149.5,216.70753479003906,202.00698852539062,229.70753479003906,0,Epilogue
+33,5,149.5,237.85487365722656,517.8880004882812,331.8548583984375,0,"Macroeconomics is not a fixed body of knowledge. It evolves over time. The final chapter, 
+Chapter 25, looks at the history of macroeconomics and how macroeconomists have come 
+to believe what they believe today. From the outside, macroeconomics sometimes looks 
+like a field divided among schools—“Keynesians,” “monetarists,” “new classicals,” “supply-
+siders,” and so on—hurling arguments at each other. The actual process of research is more 
+orderly and more productive than this image suggests. We identify what we see as the main 
+differences among macroeconomists, the set of propositions that define the core of 
+macroeconomics today, and the challenges posed to macroeconomists by the crisis."
+33,6,289.5,389.8854675292969,517.439208984375,442.8774108886719,0,"increases. Macroeconomists look at two measures of the 
+price level. The first is the GDP deflator, which is the av-
+erage price of the goods produced in the economy. The 
+second is the Consumer Price Index (CPI), which is the av-
+erage price of goods consumed in the economy."
+33,7,277.5,445.8854675292969,515.517822265625,465.88348388671875,0,"■ Inflation leads to changes in income distribution, to distor-
+tions, and to increased uncertainty."
+33,8,277.5,468.8854675292969,517.5059814453125,554.8715209960938,0,"■ There are two important relations among output, unem-
+ployment, and inflation. The first, called Okun’s law, is a 
+relation between output growth and the change in unem-
+ployment: High output growth typically leads to a decrease 
+in the unemployment rate. The second, called the Phillips 
+curve, is a relation between unemployment and inflation: 
+A low unemployment rate typically leads to an increase in 
+the inflation rate."
+33,9,277.5,557.885498046875,517.5548095703125,643.8715209960938,0,"■ Macroeconomists distinguish between the short run (a few 
+years), the medium run (a decade), and the long run (a few 
+decades or more). They think of output as being determined 
+by demand in the short run. They think of output as being 
+determined by the level of technology, the capital stock, and 
+the labor force in the medium run. Finally, they think of out-
+put as being determined by factors like education, research, 
+saving, and the quality of government in the long run."
+33,10,29.5,389.8854675292969,269.5545654296875,453.8753967285156,0,"■ We can think of GDP, the measure of aggregate output, 
+in three equivalent ways: (1) GDP is the value of the fi-
+nal goods and services produced in the economy during 
+a given period; (2) GDP is the sum of value added in the 
+economy during a given period; and (3) GDP is the sum of 
+incomes in the economy during a given period."
+33,11,29.5,456.8854675292969,269.3998718261719,509.8774719238281,0,"■ Nominal GDP is the sum of the quantities of final goods 
+produced times their current prices. This implies that 
+changes in nominal GDP reflect both changes in quanti-
+ties and changes in prices. Real GDP is a measure of output. 
+Changes in real GDP reflect changes in quantities only."
+33,12,29.5,512.885498046875,269.5294189453125,565.8775024414062,0,"■ A person is classified as unemployed if he or she does not 
+have a job and is looking for one. The unemployment rate 
+is the ratio of the number of people unemployed to the 
+number of people in the labor force. The labor force is 
+the  sum of those employed and those unemployed."
+33,13,29.5,568.885498046875,269.5257873535156,621.8775024414062,0,"■ Economists care about unemployment because of the hu-
+man cost it represents. They also look at unemployment 
+because it sends a signal about how efficiently the economy 
+is using its resources. High unemployment indicates that 
+the country is not utilizing its resources efficiently."
+33,14,29.5,624.885498046875,269.5060729980469,644.883544921875,0,"■ Inflation is a rise in the general level of prices—the price 
+level. The inflation rate is the rate at which the price level"
+33,15,29.5,364.17510986328125,90.94600677490234,378.17510986328125,0,Summary
+33,16,29.5,669.9068603515625,251.3880157470703,678.9068603515625,0,"36 
+Introduction 
+The Core"
+34,0,47.5,53.91648483276367,287.3202819824219,249.88133239746094,0,"national income and product accounts, 20
+aggregate output, 20
+gross domestic product, GDP, 20
+gross national product, GNP, 20
+intermediate good, 20
+final good, 21
+value added, 21
+nominal GDP, 22
+real GDP, 22
+real GDP in chained (2005) dollars, 23
+dollar GDP, GDP in current dollars, 23
+GDP in terms of goods, GDP in constant dollars, GDP adjusted 
+for inflation, GDP in 2005 dollars, 24
+real GDP per person, 24
+GDP growth, expansions, recessions, 24
+hedonic pricing, 25
+employment, 25
+unemployment, 25"
+34,1,295.5039978027344,53.87931442260742,450.1511535644531,249.84507751464844,0,"labor force, 25
+unemployment rate, 26
+Current Population Survey (CPS), 26
+not in the labor force, 26
+discouraged workers, 26
+participation rate, 27
+underground economy, 28
+inflation, 29
+price level, 29
+inflation rate, 29
+deflation, 29
+GDP deflator, 29
+index number, 29
+cost of living, 29
+Consumer Price Index (CPI), 29
+Okun’s law, 31
+Phillips curve, 32
+short run, medium run, and long run, 34"
+34,2,47.5,271.90423583984375,206.49801635742188,285.90423583984375,0,Questions and Problems
+34,3,47.5,296.3389892578125,287.9619445800781,549.5813598632812,0,"QUICK CHECK
+All Quick Check questions and problems are available 
+on MyEconLab.
+1. Using the information in this chapter, label each of the fol-
+lowing statements true, false, or uncertain.  Explain briefly.
+ a. U.S. GDP was 28 times higher in 2010 than it was in 1960.
+ b. When the unemployment rate is high, the participation 
+rate is also likely to be high.
+ c. The rate of unemployment tends to fall during expansions 
+and rise during recessions.
+ d. If the Japanese CPI is currently at 108 and the U.S. CPI is at 
+104, then the Japanese rate of inflation is higher than the 
+U.S. rate of inflation.
+ e. The rate of inflation computed using the CPI is a better 
+ index of inflation than the rate of inflation computed using 
+the GDP deflator.
+ f. Okun’s law shows that when output growth is lower than 
+normal, the unemployment rate tends to rise.
+ g. Periods of negative GDP growth are called recessions.
+ h. When the economy is functioning normally, the unem-
+ployment rate is zero. 
+ i. The Phillips curve is a relation between the level of  inflation 
+and the level of unemployment."
+34,4,47.5,554.5853881835938,287.38690185546875,651.5693969726562,0,"2. Suppose you are measuring annual U.S. GDP by adding up the 
+final value of all goods and services produced in the economy. De-
+termine the effect on GDP of each of the following transactions.
+ a. A seafood restaurant buys $100 worth of fish from a 
+fisherman.
+ b. A family spends $100 on a fish dinner at a seafood restaurant.
+ c. Delta Air Lines buys a new jet from Boeing for $200 million.
+ d. The Greek national airline buys a new jet from Boeing for 
+$200 million."
+34,5,295.5039978027344,298.6973571777344,535.1201171875,318.6953430175781,0,"e. Delta Air Lines sells one of its jets to Denzel Washington 
+for $100 million."
+34,6,295.5039978027344,323.6993408203125,535.4736938476562,464.6752014160156,0,"3. During a given year, the following activities occur:
+ i. A silver mining company pays its workers $200,000 to 
+mine 75 pounds of silver. The silver is then sold to a jew-
+elry manufacturer for $300,000.
+ ii. The jewelry manufacturer pays its workers $250,000 to 
+make silver necklaces, which the manufacturer sells di-
+rectly to consumers for $1,000,000.
+ a. Using the production-of-final-goods approach, what is 
+GDP in this economy?
+ b. What is the value added at each stage of production?  Using 
+the value-added approach, what is GDP?
+ c. What are the total wages and profits earned? Using the 
+ income approach, what is GDP?"
+34,7,295.5039978027344,469.67919921875,533.8175659179688,500.6752014160156,0,"4. An economy produces three goods: cars, computers, and 
+ oranges. Quantities and prices per unit for years 2005 and 2006 
+are as follows:"
+34,8,396.83599853515625,504.89300537109375,492.25299072265625,512.8930053710938,0,"2005
+2006"
+34,9,371.8529968261719,522.5089721679688,511.5490417480469,530.5089721679688,0,"Quantity
+Price
+Quantity
+Price"
+34,10,308.0,538.7592163085938,517.8710327148438,574.615234375,0,"Cars
+10
+$2000
+ 12
+$3000
+Computers
+4
+$1000
+  6
+ $500
+Oranges
+1000
+   $1
+1000
+   $1"
+34,11,47.503997802734375,669.7590942382812,532.3030395507812,678.9109497070312,0,"Chapter 2 
+A Tour of the Book 
+37"
+34,12,47.5,28.247127532958984,114.93800354003906,42.247127532958984,0,Key Terms
+34,13,295.5,595.5134887695312,535.2662963867188,648.5054931640625,0,"a. What is nominal GDP in 2005 and in 2006? By what per-
+centage does nominal GDP change from 2005 to 2006?
+ b. Using the prices for 2005 as the set of common prices, 
+what is real GDP in 2005 and in 2006? By what percentage 
+does real GDP change from 2005 to 2006?"
+35,0,29.499998092651367,29.513471603393555,269.2662353515625,82.50541687011719,0,"c. Using the prices for 2006 as the set of common prices, 
+what is real GDP in 2005 and in 2006? By what percentage 
+does real GDP change from 2005 to 2006?
+ d. Why are the two output growth rates constructed in (b) and 
+(c) different? Which one is correct? Explain your answer."
+35,1,29.499998092651367,87.50944519042969,269.51019287109375,206.4893035888672,0,"5. Consider the economy described in Problem 4.
+ a. Use the prices for 2005 as the set of common prices to 
+compute real GDP in 2005 and in 2006. Compute the GDP 
+deflator for 2005 and for 2006 and compute the rate of in-
+flation from 2005 to 2006.
+ b. Use the prices for 2006 as the set of common prices to 
+compute real GDP in 2005 and in 2006. Compute the GDP 
+deflator for 2005 and for 2006 and compute the rate of in-
+flation from 2005 to 2006.
+ c. Why are the two rates of inflation different? Which one is 
+correct? Explain your answer."
+35,2,29.499998092651367,211.49330139160156,269.5210266113281,341.47113037109375,0,"6. Consider the economy described in Problem 4.
+ a.  Construct real GDP for years 2005 and 2006 by using the 
+average price of each good over the two years.
+ b. By what percentage does real GDP change from 2005 to 2006?
+ c. What is the GDP deflator in 2005 and 2006? Using the GDP 
+deflator, what is the rate of inflation from 2005 to 2006?
+ d. Is this an attractive solution to the problems pointed out in 
+Problems 4 and 5 (i.e., two different growth rates and two 
+different inflation rates, depending on which set of prices 
+is used)? (The answer is yes and is the basis for the con-
+struction of chained-type deflators. See the appendix to 
+this chapter for more discussion.)"
+35,3,29.499998092651367,346.4751281738281,269.45526123046875,509.447021484375,0,"7. Using macroeconomic relations:
+ a. Okun’s law stated that when output growth is higher than 
+usual, the unemployment rate tends to fall.  Explain why 
+usual output growth is positive.
+ b. In which year, a year where output growth is 2% or a year 
+where output growth is –2%, will the unemployment rate rise 
+more?
+ c. The Phillips curve is a relation between the change in the 
+inflation rate and the level of the unemployment rate. 
+Using the Phillips curve, is the unemployment rate zero 
+when the rate of inflation is neither rising nor falling.
+ d. The Phillips curve is often portrayed a line with a negative 
+slope. In the text, the slope is –0.4.  In your opinion, is this 
+a “better” economy if the line has a large slope, say –0.8, or 
+a smaller slope, say –0.2?"
+35,4,29.499998092651367,520.1625366210938,270.1158752441406,652.49755859375,0,"DIG DEEPER
+All Dig Deeper questions and problems are available 
+on MyEconLab.
+8. Hedonic pricing
+As the first Focus box in this chapter explains, it is difficult to 
+measure the true increase in prices of goods whose characteristics 
+change over time. For such goods, part of any price increase can 
+be attributed to an increase in quality. Hedonic pricing offers a 
+method to compute the quality-adjusted increase in prices.
+ a. Consider the case of a routine medical checkup. Name 
+some reasons you might want to use hedonic pricing to 
+measure the change in the price of this service."
+35,5,277.50396728515625,29.499494552612305,517.5177612304688,412.4309997558594,0,"Now consider the case of a medical checkup for a pregnant 
+woman. Suppose that a new ultrasound method is introduced. 
+In the first year that this method is available, half of doctors 
+ offer the new method, and half offer the old method. A checkup 
+using the new method costs 10% more than a checkup using the 
+old method.
+ b. In percentage terms, how much of a quality increase does 
+the new method represent over the old method? (Hint: 
+Consider the fact that some women choose to see a doctor 
+offering the new method when they could have chosen to 
+see a doctor offering the old method.)
+Now, in addition, suppose that in the first year the new ultra-
+sound method is available, the price of checkups using the new 
+method is 15% higher than the price of checkups in the previous 
+year (when everyone used the old method).
+ c. How much of the higher price for checkups using the new 
+method (as compared to checkups in the previous year) re-
+flects a true price increase of checkups and how much repre-
+sents a quality increase? In other words, how much higher is 
+the quality-adjusted price of checkups using the new method 
+as compared to the price of checkups in the previous year?
+In many cases, the kind of information we used in parts (b) and 
+(c) is not available. For example, suppose that in the year the 
+new ultrasound method is introduced, all doctors adopt the 
+new method, so the old method is no longer used. In addition, 
+continue to assume that the price of checkups in the year the 
+new method is introduced is 15% higher than the price of check-
+ups in the previous year (when everyone used the old method). 
+Thus, we observe a 15% price increase in checkups, but we real-
+ize that the quality of checkups has increased.
+ d. Under these assumptions, what information required to 
+compute the quality-adjusted price increase of checkups 
+is lacking? Even without this information, can we say any-
+thing about the quality-adjusted price increase of check-
+ups? Is it more than 15%? less than 15%? Explain."
+35,6,277.50396728515625,417.43499755859375,515.5018310546875,492.4220886230469,0,"9. Measured and true GDP
+Suppose that instead of cooking dinner for an hour, you de-
+cide to work an extra hour, earning an additional $12. You then 
+purchase some (takeout) Chinese food, which costs you $10.
+ a. By how much does measured GDP increase?
+ b. Do you think the increase in measured GDP accurately re-
+flects the effect on output of your decision to work? Explain."
+35,7,277.50396728515625,498.142578125,517.4243774414062,652.3970947265625,0,"EXPLORE FURTHER
+10. Comparing the recessions of 2009 and 2001: 
+One very easy source for data is the Federal Reserve Bank 
+of St. Louis FRED database. The series that measures real GDP 
+is GDPC1, real GDP in each quarter of the year expressed 
+at a seasonally adjusted annual rate (denoted SAAR).  The 
+monthly series for the unemployment rate is UNRATE.  You 
+can download these series in a variety of ways from this 
+database.
+ a. Look at the data on quarterly real GDP growth from 1999 
+through 2001 and then from 2007 through 2009.  Which 
+recession has larger negative values for GDP growth, the 
+recession centered on 2000 or the recession centered on 
+2008?"
+35,8,29.50897216796875,669.79150390625,251.3880157470703,678.79150390625,0,"38 
+Introduction 
+The Core"
+36,0,47.5,669.7590942382812,532.3030395507812,678.9068603515625,0,"Chapter 2 
+A Tour of the Book 
+39"
+36,1,47.5,29.731367111206055,287.5156555175781,104.71928405761719,0,"b. The unemployment rate is series UNRATE. Is the unem-
+ployment rate higher in the 2001 recession or the 2009 
+recession? 
+ c. The National Bureau of Economic Research (NBER), which 
+dates recessions, identified a recession  beginning in March 
+2001 and ending in November 2001.  The equivalent dates 
+for the next, longer  recession were December 2007 ending"
+36,2,295.4949951171875,29.722272872924805,535.2998657226562,104.71018981933594,0,"June 2009. In other words, according to the NBER, the econ-
+omy began a recovery in November 2001 and in June 2009. 
+Given your answers to parts (a) and (b), do you think the 
+labor market recovered as quickly as GDP? Explain.
+For more on NBER recession dating, visit www.nber.org. This 
+site provides a history of recession dates and some discussion of 
+their methodology."
+36,3,47.5,132.71067810058594,166.99000549316406,147.71067810058594,0,Further Readings
+36,4,47.5,159.65550231933594,287.3772888183594,245.6414031982422,0,"■ If you want to learn more about the definition and the con-
+struction of the many economic indicators that are regu-
+larly reported on the news—from the help–wanted index to 
+the retail sales index—two easy–to–read references are:
+ 
+The Guide to Economic Indicators, by Norman Frumkin, 
+3rd edition, M.E. Sharpe, 4th edition, New York, 2005.
+ 
+The Economist Guide to Economic Indicators, by the staff of 
+The Economist, 6th edition, Bloomberg, New York, 2007."
+36,5,47.5,248.65550231933594,287.3988952636719,356.6373596191406,0,"■ In 1995, the U.S. Senate set up a commission to study the 
+construction of the CPI and make recommendations about 
+potential changes. The commission concluded that the rate 
+of inflation computed using the CPI was on average about 
+1% too high. If this conclusion is correct, this implies in 
+particular that real wages (nominal wages divided by the 
+CPI) have grown 1% more per year than is currently being 
+reported. For more on the conclusions of the commission 
+and some of the exchanges that followed, read Consumer 
+Prices, the Consumer Price Index, and the Cost of Living,"
+36,6,307.4949951171875,159.63633728027344,535.3480224609375,179.6343231201172,0,"by Michael Boskin et al., Journal of Economic Perspectives, 
+1998, 12(1): pp. 3–26."
+36,7,295.5,182.65550231933594,535.39013671875,224.6494598388672,0,"■ For a short history of the construction of the National In-
+come Accounts, read GDP: One of the Great Inventions of the 
+20th Century, Survey of Current Business, January 2000, 1–9. 
+(www.bea.gov/bea/articles/beawide/2000/0100od.pdf)"
+36,8,295.5,227.65550231933594,535.1566772460938,280.6474304199219,0,"■ For a discussion of some of the problems involved in meas-
+uring activity, read “What We Don’t Know Could Hurt Us; 
+Some Reflections on the Measurement of Economic Activ-
+ity,” by Katherine Abraham, Journal of Economic Perspec-
+tives, 2005, 19(3): pp. 3–18."
+36,9,295.5,283.6554870605469,535.3406372070312,347.6454162597656,0,"■ To see why it is hard to measure the price level and output 
+correctly, read “Viagra and the Wealth of Nations” by Paul 
+Krugman, 1998 (www.pkarchive.org/theory/viagra.html). 
+(Paul Krugman is an economist at Princeton University and 
+a columnist at the New York Times. His columns are opin-
+ionated, insightful, and fun to read.)"
+36,10,47.5,398.6471252441406,481.6119689941406,412.6471252441406,0,"APPENDIX: The Construction of Real GDP, and Chain-Type Indexes"
+36,11,47.5,421.39947509765625,287.425537109375,529.3814697265625,0,"The example we used in the chapter had only one final good—
+cars—so constructing real GDP was easy. But how do we con-
+struct real GDP when there is more than one final good? This 
+appendix gives the answer.
+To understand how real GDP in an economy with many 
+final goods is constructed, all you need to do is look at an 
+economy where there are just two final goods. What works for 
+two goods works just as well for millions of goods.
+Suppose that an economy produces two final goods, say 
+wine and potatoes:"
+36,12,47.5,538.3995361328125,287.2548828125,558.3975219726562,0,"■ In year 0, it produces 10 pounds of potatoes at a price of $1 
+a pound, and 5 bottles of wine at a price of $2 a bottle."
+36,13,47.5,561.3995361328125,287.2548828125,581.3975219726562,0,"■ In year 1, it produces 15 pounds of potatoes at a price of $1 
+a pound, and 5 bottles of wine at a price of $3 a bottle."
+36,14,47.5,584.3995361328125,287.4439697265625,604.3975219726562,0,"■ Nominal GDP in year 0 is therefore equal to $20. Nominal 
+GDP in year 1 is equal to $30."
+36,15,295.35400390625,438.3349914550781,452.18798828125,447.3349914550781,0,Nominal GDP in Year 0 and in Year 1.
+36,16,444.8160095214844,459.0159912109375,471.3299865722656,468.0159912109375,0,Year 0
+36,17,389.96099853515625,473.4429931640625,523.3049926757812,482.4429931640625,0,"Quantity
+$ Price
+$ Value"
+36,18,299.60101318359375,489.27020263671875,512.9639892578125,498.27020263671875,0,"Potatoes (pounds)
+10
+1
+10"
+36,19,299.5920104980469,503.69720458984375,359.10906982421875,512.6972045898438,0,"Wine (bottles),"
+36,20,299.5920104980469,519.69921875,364.5989685058594,528.69921875,0,Nominal GDP
+36,21,403.281005859375,503.69720458984375,512.9550170898438,523.6951904296875,0,"5
+5
+10
+20"
+36,22,444.79803466796875,532.4649658203125,471.31201171875,541.4649658203125,0,Year 1
+36,23,389.9430236816406,546.8919677734375,523.2869873046875,555.8919677734375,0,"Quantity
+$ Price
+$ Value"
+36,24,299.5830078125,562.97119140625,512.9459838867188,571.97119140625,0,"Potatoes (pounds)
+15
+1
+15"
+36,25,299.5740051269531,577.398193359375,356.58905029296875,586.398193359375,0,Wine (bottles)
+36,26,299.5740051269531,593.4002075195312,364.5809631347656,602.4002075195312,0,Nominal GDP
+36,27,403.26300048828125,577.398193359375,512.93701171875,597.396240234375,0,"5
+3
+15
+30"
+36,28,312.21002197265625,422.7405090332031,521.5100708007812,431.7405090332031,0,This information is summarized in the following table.
+37,0,29.5,669.9068603515625,251.3880157470703,678.9068603515625,0,"40 
+Introduction 
+The Core
+40 
+Introduction"
+37,1,277.50201416015625,29.44638442993164,517.252685546875,148.49534606933594,0,"year t as the set of common prices; second, using the prices 
+from year t + 1 as the set of common prices. For example, 
+the rate of change of GDP from 2006 to 2007 is computed by:
+ 
+(1) Constructing real GDP for 2006 and real GDP for 2007 
+using 2006 prices as the set of common prices, and 
+computing a first measure of the rate of growth of GDP 
+from 2006 to 2007.
+ 
+(2) Constructing real GDP for 2006 and real GDP for 2007 
+using 2007 prices as the set of common prices, and 
+computing a second measure of the rate of growth of 
+GDP from 2006 to 2007."
+37,2,277.5,151.5134735107422,517.3946533203125,171.51145935058594,0,"■ Constructing the rate of change of real GDP as the average 
+of these two rates of change."
+37,3,277.5,174.5134735107422,517.4960327148438,304.5011901855469,0,"■ Constructing an index for the level of real GDP by linking—
+or chaining—the constructed rates of change for each year. 
+The index is set equal to 1 in some arbitrary year. At the time 
+this book is written, the arbitrary year is 2005. Given that the 
+constructed rate of change from 2005 to 2006 by the BEA is 
+2.6%, the index for 2006 equals 11 + 2.6%2 = 1.026. The 
+index for 2006 is then obtained by multiplying the index for 
+2005 by the rate of change from 2005 to 2006, and so on. 
+(You will find the value of this index—multiplied by 100—in 
+the second column of Table B3 in the Economic Report of 
+the President. Check that it is 100 in 2005 and 102.6 in 2006, 
+and so on.)"
+37,4,277.5,307.51348876953125,517.4853515625,547.4713745117188,0,"■ Multiplying this index by nominal GDP in 2005 to derive 
+real GDP in chained (2005) dollars. As the index is 1 in 
+2005, this implies that real GDP in 2005 equals nominal 
+GDP in 2005.
+Chained refers to the chaining of rates of change 
+ described above. (2005) refers to the year where, by con-
+struction, real GDP is equal to nominal GDP. (You will 
+find the value of real GDP in chained (2005) dollars in the 
+first column of  Table B2 of the Economic Report of the 
+President.)
+This index is more complicated to construct than the 
+indexes used before 1995. (To make sure you understand 
+the steps, construct real GDP in chained (year 0) dollars 
+for year 1 in our example.) But it is clearly better conceptu-
+ally: The prices used to evaluate real GDP in two adjacent 
+years are the right prices, namely the average prices for 
+those two years. And, because the rate of change from one 
+year to the next is constructed using the prices in those two 
+years rather than the set of prices in an arbitrary base year, 
+history will not be rewritten every five years—as it used to 
+be when, under the previous method for constructing real 
+GDP, the base year was changed every five years."
+37,5,277.5029602050781,555.4723510742188,500.931640625,575.4703369140625,0,"(For more details, go to www.bea.doc.gov/bea/ARTICLES/
+NATIONAL/NIPA/1995/0795od.pdf)"
+37,6,277.5,594.8031005859375,337.6719970703125,608.8031005859375,0,Key Term
+37,7,277.5,617.4329833984375,327.8819885253906,626.5134887695312,0,"base year, 40"
+37,8,29.5,29.513471603393555,269.5164794921875,137.91160583496094,0,"The rate of growth of nominal GDP from year 0 to year 1 
+is equal to 1$30 - $202 >$20 = 50%. But what is the rate of 
+growth of real GDP?
+Answering this question requires constructing real GDP 
+for each of the two years. The basic idea behind constructing 
+real GDP is to evaluate the quantities in each year using the 
+same set of prices.
+Suppose we choose, for example, the prices in year 0. Year 
+0 is then called the base year. In this case, the computation is 
+as follows:"
+37,9,29.5,146.9136199951172,269.4970397949219,177.84609985351562,0,"■ Real GDP in year 0 is the sum of the quantity in year 0 
+times the price in year 0 for both goods: 110 * $12 +
+15 * $22 = $20."
+37,10,29.5,180.9136199951172,269.4970397949219,211.84609985351562,0,"■ Real GDP in year 1 is the sum of the quantity in year 1 
+times the price in year 0 for both goods: 115 * $12 +
+15 * $22 = $25."
+37,11,29.5,214.91358947753906,269.3691711425781,234.9133758544922,0,"■ The rate of growth of real GDP from year 0 to year 1 is then 
+1$25 - $202 >$20, or 25%."
+37,12,29.497596740722656,242.9143829345703,269.3594055175781,284.9083251953125,0,"This answer raises however an obvious issue: Instead of 
+using year 0 as the base year, we could have used year 1, or any 
+other year. If, for example, we had used year 1 as the base year, 
+then:"
+37,13,29.5,293.4329833984375,266.4837951660156,313.84619140625,0,"■ Real GDP in year 0 would be equal to 110 * $1 + 5 * $32
+= $25."
+37,14,29.5,316.4329833984375,266.4837951660156,336.84619140625,0,"■ Real GDP in year 1 would be equal to 115 * $1 + 5 * $32
+= $30."
+37,15,29.5,339.9134826660156,269.4808044433594,359.9114685058594,0,"■ The rate of growth of real GDP from year 0 to year 1 would 
+be equal to $5/$25, or 20%."
+37,16,29.50299835205078,367.9124755859375,269.5689697265625,618.868408203125,0,"The answer using year 1 as the base year would therefore 
+be different from the answer using year 0 as the base year. So if 
+the choice of the base year affects the constructed percentage 
+rate of change in output, which base year should one choose?
+Until the mid-1990s in the United States—and still in 
+most countries today—the practice was to choose a base year 
+and change it infrequently, say, every five years or so. For ex-
+ample, in the United States, 1987 was the base year used from 
+December 1991 to December 1995. That is, measures of real 
+GDP published, for example, in 1994 for both 1994 and for all 
+earlier years were constructed using 1987 prices. In December 
+1995, national income accounts shifted to 1992 as a base year; 
+measures of real GDP for all earlier years were recalculated us-
+ing 1992 prices.
+This practice was logically unappealing. Every time the 
+base year was changed and a new set of prices was used, all 
+past real GDP numbers—and all past real GDP growth rates—
+were recomputed: Economic history was, in effect, rewritten 
+every five years! Starting in December 1995, the U.S. Bureau 
+of Economic Analysis (BEA)—the government office that pro-
+duces the GDP numbers—shifted to a new method that does 
+not suffer from this problem.
+The method requires four steps:"
+37,17,29.5,627.846435546875,269.4401550292969,647.9135131835938,0,"■ Constructing the rate of change of real GDP from year t to 
+year t + 1 in two different ways. First using the prices from"

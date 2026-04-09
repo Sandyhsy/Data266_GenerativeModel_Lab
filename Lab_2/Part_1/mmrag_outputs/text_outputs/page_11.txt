@@ -1,0 +1,82 @@
+14 
+Introduction 
+The Core
+represents a doubling of output every seven years. Compare this number to the num-
+bers for the United States and for Europe we saw earlier, and you understand why the 
+importance of the emerging economies in the world economy, China being the main 
+one, is increasing so rapidly. Turn to unemployment. Numbers for unemployment are 
+typically less reliable in poorer countries, so you should take those numbers with a 
+grain of salt: Many workers stay in the countryside rather than being unemployed in 
+the cities. Nevertheless, the numbers suggest consistently low unemployment. And in-
+flation, which was high before 2000, is now relatively low.
+Another striking aspect of Table 1-4 is how difficult it is to see the effects of the cri-
+sis in the data. Growth has barely decreased, and unemployment has barely increased 
+since 2007. The reason is not that China is closed to the rest of the world. Chinese exports 
+slowed during the crisis. But the adverse effect on demand was nearly fully offset by a 
+major fiscal expansion by the Chinese government, with, in particular, a major increase 
+in public investment. The result was sustained growth of demand and, in turn, of output.
+This sustained growth performance raises obvious questions. The first is whether 
+the numbers are for real. Could it be that growth has been overstated? After all, China 
+is still officially a communist country, and government officials may have incentives to 
+overstate the economic performance of their sector or their province. Economists who 
+have looked at this carefully conclude that this is probably not the case. The statistics 
+are not as reliable as they are in richer countries, but there is no obvious bias. Output 
+growth is indeed very high in China.
+So where does the growth come from? It clearly comes from two sources:
+■ 
+The first is high accumulation of capital. The investment rate (the ratio of invest-
+ment to output) in China exceeds 40% of output, a high number. For comparison, 
+the investment rate in the United States is only 17%. More capital means higher 
+productivity and higher output.
+■ 
+The second is rapid technological progress. One of the strategies followed by the 
+Chinese government has been to encourage foreign firms to relocate and produce 
+in China. As foreign firms are typically much more productive than Chinese firms, 
+this has increased productivity and output. Another aspect of the strategy has been 
+to encourage joint ventures between foreign and Chinese firms. By making Chi-
+nese firms work with and learn from foreign firms, the productivity of the Chinese 
+firms has increased dramatically.
+When described in this way, achieving high productivity and high output growth 
+appears easy, a recipe that every poor country could and should follow. In fact, things 
+are less obvious. China is one of a number of countries that made the transition from 
+central planning to a market economy. Most of the other countries, from Central Europe 
+to Russia and the other former Soviet republics, experienced a large decrease in output 
+at the time of transition. Most still have growth rates far below that of China. In many 
+Table 1-4 Growth and Inflation in China, 1980–2012
+Percent
+1980–1999 
+(average)
+2000–2007 
+(average)
+2008
+2009
+2010
+2011
+2012
+Output growth rate
+9.8
+10.5
+9.6
+9.2
+10.3
+9.5
+9.0
+Unemployment rate
+2.7
+3.9
+4.2
+4.3
+4.1
+4.0
+4.0
+Inflation rate
+8.1
+1.6
+5.9
+−0.6
+3.3
+5.5
+3.3
+Output growth rate: annual rate of growth of output (GDP). Inflation rate: annual rate of change of the price level (GDP 
+deflator).
+Source: World Economic Outlook database, September 2011

@@ -1,0 +1,130 @@
+Key Terms
+
+labor force, 25
+unemployment rate, 26
+Current Population Survey (CPS), 26
+not in the labor force, 26
+discouraged workers, 26
+participation rate, 27
+underground economy, 28
+inflation, 29
+price level, 29
+inflation rate, 29
+deflation, 29
+GDP deflator, 29
+index number, 29
+cost of living, 29
+Consumer Price Index (CPI), 29
+Okun’s law, 31
+Phillips curve, 32
+short run, medium run, and long run, 34
+
+national income and product accounts, 20
+aggregate output, 20
+gross domestic product, GDP, 20
+gross national product, GNP, 20
+intermediate good, 20
+final good, 21
+value added, 21
+nominal GDP, 22
+real GDP, 22
+real GDP in chained (2005) dollars, 23
+dollar GDP, GDP in current dollars, 23
+GDP in terms of goods, GDP in constant dollars, GDP adjusted 
+for inflation, GDP in 2005 dollars, 24
+real GDP per person, 24
+GDP growth, expansions, recessions, 24
+hedonic pricing, 25
+employment, 25
+unemployment, 25
+
+Questions and Problems
+
+QUICK CHECK
+All Quick Check questions and problems are available 
+on MyEconLab.
+1. Using the information in this chapter, label each of the fol-
+lowing statements true, false, or uncertain.  Explain briefly.
+ a. U.S. GDP was 28 times higher in 2010 than it was in 1960.
+ b. When the unemployment rate is high, the participation 
+rate is also likely to be high.
+ c. The rate of unemployment tends to fall during expansions 
+and rise during recessions.
+ d. If the Japanese CPI is currently at 108 and the U.S. CPI is at 
+104, then the Japanese rate of inflation is higher than the 
+U.S. rate of inflation.
+ e. The rate of inflation computed using the CPI is a better 
+ index of inflation than the rate of inflation computed using 
+the GDP deflator.
+ f. Okun’s law shows that when output growth is lower than 
+normal, the unemployment rate tends to rise.
+ g. Periods of negative GDP growth are called recessions.
+ h. When the economy is functioning normally, the unem-
+ployment rate is zero. 
+ i. The Phillips curve is a relation between the level of  inflation 
+and the level of unemployment.
+
+e. Delta Air Lines sells one of its jets to Denzel Washington 
+for $100 million.
+
+3. During a given year, the following activities occur:
+ i. A silver mining company pays its workers $200,000 to 
+mine 75 pounds of silver. The silver is then sold to a jew-
+elry manufacturer for $300,000.
+ ii. The jewelry manufacturer pays its workers $250,000 to 
+make silver necklaces, which the manufacturer sells di-
+rectly to consumers for $1,000,000.
+ a. Using the production-of-final-goods approach, what is 
+GDP in this economy?
+ b. What is the value added at each stage of production?  Using 
+the value-added approach, what is GDP?
+ c. What are the total wages and profits earned? Using the 
+ income approach, what is GDP?
+
+4. An economy produces three goods: cars, computers, and 
+ oranges. Quantities and prices per unit for years 2005 and 2006 
+are as follows:
+
+2005
+2006
+
+Quantity
+Price
+Quantity
+Price
+
+Cars
+10
+$2000
+ 12
+$3000
+Computers
+4
+$1000
+  6
+ $500
+Oranges
+1000
+   $1
+1000
+   $1
+
+2. Suppose you are measuring annual U.S. GDP by adding up the 
+final value of all goods and services produced in the economy. De-
+termine the effect on GDP of each of the following transactions.
+ a. A seafood restaurant buys $100 worth of fish from a 
+fisherman.
+ b. A family spends $100 on a fish dinner at a seafood restaurant.
+ c. Delta Air Lines buys a new jet from Boeing for $200 million.
+ d. The Greek national airline buys a new jet from Boeing for 
+$200 million.
+
+a. What is nominal GDP in 2005 and in 2006? By what per-
+centage does nominal GDP change from 2005 to 2006?
+ b. Using the prices for 2005 as the set of common prices, 
+what is real GDP in 2005 and in 2006? By what percentage 
+does real GDP change from 2005 to 2006?
+
+Chapter 2 
+A Tour of the Book 
+37

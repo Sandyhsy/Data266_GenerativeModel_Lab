@@ -1,0 +1,78 @@
+ 
+Chapter 2 
+A Tour of the Book 
+27
+unemployment rate would equal zero. This would make the unemployment rate a very 
+poor indicator of what is happening in the labor market. This example is too extreme; in 
+practice, when the economy slows down, we typically observe both an increase in un-
+employment and an increase in the number of people who drop out of the labor force. 
+Equivalently, a higher unemployment rate is typically associated with a lower participa-
+tion rate, defined as the ratio of the labor force to the total population of working age.
+Figure 2-3 shows the evolution of unemployment in the United States since 1970. 
+Since 1960, the U.S. unemployment rate has fluctuated between 3 and 10%, going up 
+during recessions and down during expansions. Again, you can see the effect of the 
+crisis, with the unemployment rate reaching a peak at nearly 10% in 2010, the highest 
+such rate since the 1980s.
+Why Do Economists Care about Unemployment?
+Economists care about unemployment for two reasons. First, they care about 
+ unemployment because of its direct effect on the welfare of the unemployed. Although 
+unemployment benefits are more generous today than they were during the Great 
+ Depression, unemployment is still often associated with financial and psychologi-
+cal suffering. How much suffering depends on the nature of the unemployment. One 
+image of unemployment is that of a stagnant pool, of people remaining unemployed 
+for long periods of time. In normal times, in the United States, this image is not right: 
+Every month, many people become unemployed, and many of the unemployed find 
+jobs. When unemployment increases, however, as is the case now, the image becomes 
+more accurate. Not only are more people unemployed, but also many of them are un-
+employed for a long time. For example, the mean duration of unemployment, which 
+was 9 weeks on average during 2000–2007, increased to 33 weeks in 2010. In short, 
+when the unemployment increases, not only does unemployment become both more 
+widespread, but it also becomes more painful.
+At the start of economic re-
+form in Eastern Europe in the 
+early 1990s, unemployment 
+increased dramatically. But 
+equally dramatic was the fall 
+in the participation rate. In 
+Poland in 1990, 70% of the 
+decrease in employment was 
+reflected in early retirements—
+by people dropping out of the 
+labor force rather than becom-
+ing unemployed.
+ 
+3
+4
+5
+6
+7
+8
+9
+10
+1960
+1965
+1970
+1975
+1980
+1985
+1990
+1995
+2000
+2005
+2010
+Percent
+Figure 2-3
+U.S. unemployment rate, 
+1960–2010
+Since 1960, the U.S. unemploy-
+ment rate has fluctuated between 
+3 and 10%, going down during 
+expansions, and going up during 
+recessions. The effect of the crisis 
+is highly visible, with the unem-
+ployment rate reaching close to 
+10%, the highest such rate since 
+the 1980s.
+Source: Series UNRATE: Federal 
+ Reserve Economic Data (FRED) http://
+research.stlouisfed.org/fred2/

@@ -1,0 +1,97 @@
+22 
+Introduction 
+The Core
+This motivates the third definition of GDP:
+ 3. GDP Is the Sum of Incomes in the Economy during a Given Period.
+To summarize: You can think about aggregate output— GDP—in three different but 
+equivalent ways.
+■ 
+From the production side: GDP equals the value of the final goods and services 
+produced in the economy during a given period.
+■ 
+Also from the production side: GDP is the sum of value added in the economy dur-
+ing a given period.
+■ 
+From the income side: GDP is the sum of incomes in the economy during a given 
+period.
+Nominal and Real GDP
+U.S. GDP was $14,660 billion in 2010, compared to $526 billion in 1960. Was U.S. output 
+really 28 times higher in 2010 than in 1960? Obviously not: Much of the increase re-
+flected an increase in prices rather than an increase in quantities produced. This leads 
+to the distinction between nominal GDP and real GDP.
+Nominal GDP is the sum of the quantities of final goods produced times their 
+ current price. This definition makes clear that nominal GDP increases over time for 
+two reasons:
+■ 
+First, the production of most goods increases over time.
+■ 
+Second, the prices of most goods also increase over time.
+If our goal is to measure production and its change over time, we need to elimi-
+nate the effect of increasing prices on our measure of GDP. That’s why real GDP is con-
+structed as the sum of the quantities of final goods times constant (rather than current) 
+prices.
+If the economy produced only one final good, say, a particular car model, con-
+structing real GDP would be easy: We would use the price of the car in a given year 
+and then use it to multiply the quantity of cars produced in each year. An example will 
+help here. Consider an economy that only produces cars—and to avoid issues we shall 
+tackle later, assume the same model is produced every year. Suppose the number and 
+the price of cars in three successive years are given by: 
+Nominal GDP, which is equal to the quantity of cars times their price, goes up from 
+$200,000 in 2004 to $288,000 in 2005—a 44% increase—and from $288,000 in 2005 to 
+$338,000 in 2006—a 16% increase.
+ 
+Year
+Quantity  
+of Cars
+Price  
+of Cars
+Nominal  
+GDP
+Real GDP  
+(in 2005 dollars)
+2004
+10
+$20,000
+$200,000
+$240,000
+2005
+12
+$24,000
+$288,000
+$288,000
+2006
+13
+$26,000
+$338,000
+$312,000
+Two lessons to remember:
+ i.  GDP is the measure of 
+ aggregate output, which 
+we can look at from the 
+production side (aggregate 
+production), or the income 
+side (aggregate income); 
+and
+ii.  Aggregate production and 
+aggregate income are  always 
+equal.
+ 
+Warning! People often use 
+nominal to denote small 
+amounts. Economists use 
+nominal for variables ex-
+pressed in current prices. And 
+they surely do not refer to 
+small amounts: The numbers 
+typically run in the billions or 
+trillions of dollars.
+ 
+■ 
+To construct real GDP, we need to multiply the number of cars in each year by a 
+common price. Suppose we use the price of a car in 2005 as the common price. 
+This approach gives us in effect real GDP in 2005 dollars.
+■ 
+Using this approach, real GDP in 2004 (in 2005 dollars) equals 10 cars * $24,000 
+per car = $240,000. Real GDP in 2005 (in 2005 dollars) equals 12 cars * $24,000 
+per car = $288,000, the same as nominal GDP in 2005. Real GDP in 2006 (in 2005 
+dollars) is equal to 13 * $24,000 = $312,000.

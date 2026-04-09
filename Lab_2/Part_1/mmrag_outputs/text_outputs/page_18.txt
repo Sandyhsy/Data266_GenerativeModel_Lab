@@ -1,0 +1,61 @@
+ 
+Chapter 2 
+A Tour of the Book 
+21
+production of cars, we do not want to count the production of the goods that went into 
+the production of these cars.
+This motivates the first definition of GDP:
+1.  GDP Is the Value of the Final Goods and Services Produced in the Economy 
+during a Given Period.
+The important word here is final. We want to count only the production of final goods, not 
+intermediate goods. Using our example, we can make this point in another way. Suppose 
+the two firms merged, so that the sale of steel took place inside the new firm and was no 
+longer  recorded. The accounts of the new firm would be given by the following table:
+Steel and Car Company
+Revenues from sales
+$200
+Expenses (wages)
+$150
+Proﬁt
+$50
+All we would see would be one firm selling cars for $200, paying workers 
+$80 + $70 = $150, and making $20 + $30 = $50 in profits. The $200 measure 
+would remain unchanged—as it should. We do not want our measure of aggregate out-
+put to depend on whether firms decide to merge or not.
+This first definition gives us one way to construct GDP: by recording and adding up the 
+production of all final goods—and this is indeed roughly the way actual GDP numbers are 
+put together. But it also suggests a second way of thinking about and constructing GDP:
+2. GDP Is the Sum of Value Added in the Economy during a Given Period.
+The term value added means exactly what it suggests. The value added by a firm is defined 
+as the value of its production minus the value of the intermediate goods used in production.
+In our two-firms example, the steel company does not use intermediate goods. Its 
+value added is simply equal to the value of the steel it produces, $100. The car com-
+pany, however, uses steel as an intermediate good. Thus, the value added by the car 
+company is equal to the value of the cars it produces minus the value of the steel it 
+uses in production, $200 - $100 = $100. Total value added in the economy, or GDP, 
+equals $100 + $100 = $200. (Note that aggregate value added would remain the 
+same if the steel and car firms merged and became a single firm. In this case, we would 
+not observe intermediate goods at all—as steel would be produced and then used to 
+produce cars within the single firm—and the value added in the single firm would sim-
+ply be equal to the value of cars, $200.)
+This definition gives us a second way of thinking about GDP. Put together, the 
+two definitions imply that the value of final goods and services—the first definition 
+of GDP—can also be thought of as the sum of the value added by all the firms in the 
+ economy—the second definition of GDP.
+So far, we have looked at GDP from the production side. The other way of looking 
+at GDP is from the income side. Go back to our example and think about the revenues 
+left to a firm after it has paid for its intermediate goods: Some of the revenues go to 
+pay workers—this component is called labor income. The rest goes to the firm—that 
+component is called capital income or profit income.
+Of the $100 of value added by the steel manufacturer, $80 goes to workers (labor 
+income) and the remaining $20 goes to the firm (capital income). Of the $100 of value 
+added by the car manufacturer, $70 goes to labor income and $30 to capital income. 
+For the economy as a whole, labor income is equal to $150 1 $80 + $702, capital 
+ income is equal to $50 1$20 + $302. Value added is equal to the sum of labor income 
+and capital income is equal to $200 1$150 + $502.
+The labor share in the exam-
+ple is thus 75%. In advanced 
+countries, the share of labor 
+is indeed typically between 65 
+and 75%.
+ 

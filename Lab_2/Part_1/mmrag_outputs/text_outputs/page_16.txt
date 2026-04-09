@@ -1,0 +1,20 @@
+19
+T  
+he words  output, unemployment, and inflation appear daily in newspapers and on the evening 
+news. So when we used these words in Chapter 1, you knew roughly what we were talking about. 
+It is now time to define these words more precisely, and this is what we do in the first three sec-
+tions of this chapter.
+Section 2-1 looks at output.
+Section 2-2 looks at the unemployment rate.
+Section 2-3 looks at the inflation rate.
+Section 2-4 introduces two important relations between these three variables: 
+Okun’s law and the Phillips curve.
+Section 2-5 then introduces the three central concepts around which the book is organized:
+ 
+■ The short run: What happens to the economy from year to year
+ 
+■ The medium run: What happens to the economy over a decade or so
+ 
+■ The long run: What happens to the economy over a half century or longer
+Building on these three concepts, Section 2-6 gives you the road map to the rest of the book. 
+A Tour of the Book
