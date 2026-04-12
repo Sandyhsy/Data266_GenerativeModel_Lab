@@ -1,0 +1,59 @@
+{
+    "image_name": "input_2.JPG",
+    "input_image_path": "input_images/input_2.JPG",
+    "vision_output": {
+        "image_path": "input_images/input_2.JPG",
+        "short_caption": "a large green sign",
+        "key_objects": [
+            "large",
+            "green",
+            "sign"
+        ],
+        "scene_description": "The image appears to show a large green sign. Additional visual evidence suggests: building, outdoor, buildings.",
+        "visual_questions": [
+            "What is the main subject in this image?",
+            "What kind of scene is this?",
+            "What notable objects are visible?"
+        ],
+        "visual_answers": [
+            "building",
+            "outdoor",
+            "buildings"
+        ],
+        "image_quality_signal": {
+            "width": 4284,
+            "height": 5712,
+            "brightness": 155.44,
+            "warnings": []
+        }
+    },
+    "prompt_output": {
+        "original_request": "Improve image clarity, lighting, and overall sharpness.",
+        "refined_prompt": "Improve image clarity, lighting, and overall sharpness.. Preserve the main visual content, especially large, green, sign. The input image can be described as: a large green sign. Scene context: The image appears to show a large green sign. Additional visual evidence suggests: building, outdoor, buildings.. Maintain coherent composition and recognizable structure.",
+        "transformation_type": "enhancement",
+        "preserved_elements": [
+            "large",
+            "green",
+            "sign"
+        ]
+    },
+    "generation_output": {
+        "model_name": "runwayml/stable-diffusion-v1-5",
+        "prompt": "Improve image clarity, lighting, and overall sharpness.. Preserve the main visual content, especially large, green, sign. The input image can be described as: a large green sign. Scene context: The image appears to show a large green sign. Additional visual evidence suggests: building, outdoor, buildings.. Maintain coherent composition and recognizable structure.",
+        "negative_prompt": "blurry, distorted, low quality, artifacts, duplicate",
+        "num_inference_steps": 20,
+        "strength": 0.35,
+        "guidance_scale": 7.5,
+        "output_image_path": "generated_outputs/input_2_generated.png",
+        "status": "success",
+        "error_message": null
+    },
+    "critique_output": {
+        "visual_relevance_score": 2,
+        "prompt_faithfulness_score": 2,
+        "transformation_quality_score": 2,
+        "clip_similarity": 0.2217,
+        "critique": "The output has limited alignment with the refined prompt and should be revised.",
+        "decision": "revise"
+    }
+}

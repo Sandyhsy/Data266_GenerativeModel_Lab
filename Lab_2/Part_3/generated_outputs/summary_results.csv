@@ -1,0 +1,9 @@
+image_name,generation_status,model_name,inference_steps,clip_similarity,visual_relevance_score,prompt_faithfulness_score,transformation_quality_score,decision
+input_1.JPG,success,runwayml/stable-diffusion-v1-5,20,0.2839,4,4,4,accept
+input_2.JPG,success,runwayml/stable-diffusion-v1-5,20,0.2217,2,2,2,revise
+input_3.JPG,success,runwayml/stable-diffusion-v1-5,20,0.2791,3,3,3,revise
+input_4.JPG,success,runwayml/stable-diffusion-v1-5,20,0.2265,2,2,2,revise
+input_5.JPEG,success,runwayml/stable-diffusion-v1-5,20,0.2575,3,3,3,revise
+input_6.JPG,success,runwayml/stable-diffusion-v1-5,20,0.2295,2,2,2,revise
+input_7.JPG,success,runwayml/stable-diffusion-v1-5,20,0.2433,3,3,3,revise
+input_8.JPG,success,runwayml/stable-diffusion-v1-5,20,0.2267,2,2,2,revise
