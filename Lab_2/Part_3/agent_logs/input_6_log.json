@@ -1,0 +1,59 @@
+{
+    "image_name": "input_6.JPG",
+    "input_image_path": "input_images/input_6.JPG",
+    "vision_output": {
+        "image_path": "input_images/input_6.JPG",
+        "short_caption": "a statue of an angel on a ledge",
+        "key_objects": [
+            "statue",
+            "angel",
+            "ledge"
+        ],
+        "scene_description": "The image appears to show a statue of an angel on a ledge. Additional visual evidence suggests: angel, statue, statue.",
+        "visual_questions": [
+            "What is the main subject in this image?",
+            "What kind of scene is this?",
+            "What notable objects are visible?"
+        ],
+        "visual_answers": [
+            "angel",
+            "statue",
+            "statue"
+        ],
+        "image_quality_signal": {
+            "width": 3024,
+            "height": 4032,
+            "brightness": 127.0,
+            "warnings": []
+        }
+    },
+    "prompt_output": {
+        "original_request": "Transform this photo into studio ghibli style.",
+        "refined_prompt": "Transform this photo into studio ghibli style.. Preserve the main visual content, especially statue, angel, ledge. The input image can be described as: a statue of an angel on a ledge. Scene context: The image appears to show a statue of an angel on a ledge. Additional visual evidence suggests: angel, statue, statue.. Maintain coherent composition and recognizable structure.",
+        "transformation_type": "stylization",
+        "preserved_elements": [
+            "statue",
+            "angel",
+            "ledge"
+        ]
+    },
+    "generation_output": {
+        "model_name": "runwayml/stable-diffusion-v1-5",
+        "prompt": "Transform this photo into studio ghibli style.. Preserve the main visual content, especially statue, angel, ledge. The input image can be described as: a statue of an angel on a ledge. Scene context: The image appears to show a statue of an angel on a ledge. Additional visual evidence suggests: angel, statue, statue.. Maintain coherent composition and recognizable structure.",
+        "negative_prompt": "blurry, distorted, low quality, artifacts, duplicate",
+        "num_inference_steps": 20,
+        "strength": 0.35,
+        "guidance_scale": 7.5,
+        "output_image_path": "generated_outputs/input_6_generated.png",
+        "status": "success",
+        "error_message": null
+    },
+    "critique_output": {
+        "visual_relevance_score": 2,
+        "prompt_faithfulness_score": 2,
+        "transformation_quality_score": 2,
+        "clip_similarity": 0.2295,
+        "critique": "The output has limited alignment with the refined prompt and should be revised.",
+        "decision": "revise"
+    }
+}
