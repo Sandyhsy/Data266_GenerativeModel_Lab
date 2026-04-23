@@ -1,8 +1,8 @@
 {
     "image_name": "input_6.JPG",
-    "input_image_path": "input_images/input_6.JPG",
+    "input_image_path": "input_images\\input_6.JPG",
     "vision_output": {
-        "image_path": "input_images/input_6.JPG",
+        "image_path": "input_images\\input_6.JPG",
         "short_caption": "a statue of an angel on a ledge",
         "key_objects": [
             "statue",
@@ -44,7 +44,7 @@
         "num_inference_steps": 20,
         "strength": 0.35,
         "guidance_scale": 7.5,
-        "output_image_path": "generated_outputs/input_6_generated.png",
+        "output_image_path": "generated_outputs\\input_6_generated.png",
         "status": "success",
         "error_message": null
     },
@@ -52,7 +52,7 @@
         "visual_relevance_score": 2,
         "prompt_faithfulness_score": 2,
         "transformation_quality_score": 2,
-        "clip_similarity": 0.2295,
+        "clip_similarity": 0.235,
         "critique": "The output has limited alignment with the refined prompt and should be revised.",
         "decision": "revise"
     }

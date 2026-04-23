@@ -1,8 +1,8 @@
 {
     "image_name": "input_1.JPG",
-    "input_image_path": "input_images/input_1.JPG",
+    "input_image_path": "input_images\\input_1.JPG",
     "vision_output": {
-        "image_path": "input_images/input_1.JPG",
+        "image_path": "input_images\\input_1.JPG",
         "short_caption": "a cloudy sky",
         "key_objects": [
             "cloudy",
@@ -42,16 +42,16 @@
         "num_inference_steps": 20,
         "strength": 0.35,
         "guidance_scale": 7.5,
-        "output_image_path": "generated_outputs/input_1_generated.png",
+        "output_image_path": "generated_outputs\\input_1_generated.png",
         "status": "success",
         "error_message": null
     },
     "critique_output": {
-        "visual_relevance_score": 4,
-        "prompt_faithfulness_score": 4,
-        "transformation_quality_score": 4,
-        "clip_similarity": 0.2839,
-        "critique": "The output is visually relevant to the refined prompt and preserves the key image content. The transformation quality is acceptable.",
-        "decision": "accept"
+        "visual_relevance_score": 3,
+        "prompt_faithfulness_score": 3,
+        "transformation_quality_score": 3,
+        "clip_similarity": 0.2754,
+        "critique": "The output partially matches the refined prompt but may require another generation pass for stronger transformation quality.",
+        "decision": "revise"
     }
 }

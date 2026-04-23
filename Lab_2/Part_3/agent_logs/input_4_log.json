@@ -1,8 +1,8 @@
 {
     "image_name": "input_4.JPG",
-    "input_image_path": "input_images/input_4.JPG",
+    "input_image_path": "input_images\\input_4.JPG",
     "vision_output": {
-        "image_path": "input_images/input_4.JPG",
+        "image_path": "input_images\\input_4.JPG",
         "short_caption": "a tall mountain",
         "key_objects": [
             "tall",
@@ -42,16 +42,16 @@
         "num_inference_steps": 20,
         "strength": 0.35,
         "guidance_scale": 7.5,
-        "output_image_path": "generated_outputs/input_4_generated.png",
+        "output_image_path": "generated_outputs\\input_4_generated.png",
         "status": "success",
         "error_message": null
     },
     "critique_output": {
-        "visual_relevance_score": 2,
-        "prompt_faithfulness_score": 2,
-        "transformation_quality_score": 2,
-        "clip_similarity": 0.2265,
-        "critique": "The output has limited alignment with the refined prompt and should be revised.",
-        "decision": "revise"
+        "visual_relevance_score": 4,
+        "prompt_faithfulness_score": 4,
+        "transformation_quality_score": 4,
+        "clip_similarity": 0.2857,
+        "critique": "The output is visually relevant to the refined prompt and preserves the key image content. The transformation quality is acceptable.",
+        "decision": "accept"
     }
 }

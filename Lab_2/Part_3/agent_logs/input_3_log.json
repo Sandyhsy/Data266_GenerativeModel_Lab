@@ -1,8 +1,8 @@
 {
     "image_name": "input_3.JPG",
-    "input_image_path": "input_images/input_3.JPG",
+    "input_image_path": "input_images\\input_3.JPG",
     "vision_output": {
-        "image_path": "input_images/input_3.JPG",
+        "image_path": "input_images\\input_3.JPG",
         "short_caption": "a white cat sitting in a pot next to a brick wall",
         "key_objects": [
             "white",
@@ -48,7 +48,7 @@
         "num_inference_steps": 20,
         "strength": 0.35,
         "guidance_scale": 7.5,
-        "output_image_path": "generated_outputs/input_3_generated.png",
+        "output_image_path": "generated_outputs\\input_3_generated.png",
         "status": "success",
         "error_message": null
     },
@@ -56,7 +56,7 @@
         "visual_relevance_score": 3,
         "prompt_faithfulness_score": 3,
         "transformation_quality_score": 3,
-        "clip_similarity": 0.2791,
+        "clip_similarity": 0.2753,
         "critique": "The output partially matches the refined prompt but may require another generation pass for stronger transformation quality.",
         "decision": "revise"
     }
